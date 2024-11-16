@@ -1,3 +1,5 @@
+![](https://i.imgur.com/IN3476x.jpeg)
+
  CR 11
 XP 12800
 CE Fine Humanoid (Swarm)
@@ -18,7 +20,13 @@ OFFENSE
 Speed 40 ft.
 Melee Swarm (3d6)
 Space 5 ft.; Reach 0 ft.
-Special Attacks Distraction (DC 23), Hinder Spellcasting, Swallow Whole (1d6+5, AC 10, 14 hp), Blinding Gaze (30ft., DC 17, 14 minutes), Charming Gaze (DC 17), Knowledge-Stealing Strike (DC 17)
+## Special Attacks  
+* Distraction (DC 23), 
+* Hinder Spellcasting, 
+* Swallow Whole (1d6+5, AC 10, 14 hp), 
+* Blinding Gaze (30ft., DC 17, 14 minutes), 
+* Charming Gaze (DC 17), 
+* Knowledge-Stealing Strike (DC 17)
 ------------------------------
 STATISTICS
 ------------------------------
@@ -27,7 +35,9 @@ Base Atk +10; CMB +5; CMD 22
 Feats Cleave, Combat Reflexes, Improved Sunder, Iron Will, Power Attack, Skill Focus (Stealth), Vital Strike
 Skills Diplomacy +14, Perception +14, Profession (choose one) +17, Ride +24, Stealth +28; Racial Modifiers Stealth +4
 Languages Common
-SQ Humanoid Traits, Stench
+## SQ 
+* Humanoid Traits, 
+* Stench
 ------------------------------
 SPECIAL ABILITIES
 ------------------------------
