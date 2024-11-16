@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Provisional Bravia.md",
+                "file": "NPC/Important Characters/Bravian Soldier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Provisional Bravia"
+              "title": "Bravian Soldier"
             }
           }
         ]
@@ -204,9 +204,11 @@
   },
   "active": "f8df05cce52e6488",
   "lastOpenFiles": [
+    "NPC/Important Characters/Theodore Fairholm.md",
+    "NPC/Important Characters/Bravian Soldier.md",
+    "World/Provisional Bravia.md",
     "README.md",
     "01 - The wizard who never was/Introducción.md",
-    "World/Provisional Bravia.md",
     "01 - The wizard who never was/0 - Recap.md",
     "NPC/Important Characters/La Hermandad de la Agonía Sagrada/Parlee Mattstein.md",
     "NPC/Important Characters/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
@@ -219,7 +221,7 @@
     "World",
     "01 - The wizard who never was/Untitled",
     "NPC/Important Characters/Sociedad Internacional Arcana",
-    "NPC/Oliver Wrynn.md",
+    "NPC/Important Characters/Oliver Wrynn.md",
     "01 - The wizard who never was/DC tables",
     "NPC/Important Characters/Casa Myiroth/Glavien Myiroth.md",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174013502.png",
@@ -243,8 +245,6 @@
     "NPC/Important Characters/La Mano de Plata/William Noffke.md",
     "NPC/Important Characters/La Mano de Plata/Phillip Kasmaron.md",
     "NPC/Important Characters/La Mano de Plata/Michaelo Khetill.md",
-    "NPC/Important Characters/La Mano de Plata/Celes Khetill.md",
-    "NPC/Untitled.md",
-    "Deities/Iomedae.md"
+    "NPC/Important Characters/La Mano de Plata/Celes Khetill.md"
   ]
 }
