@@ -1,3 +1,4 @@
+![](https://i.imgur.com/wj97yZM.jpeg)
 
 CR 10
 XP 9600

@@ -1,4 +1,4 @@
-                                                                       CR 11
+ CR 11
 XP 12800
 CE Fine Humanoid (Swarm)
 Init +7; Senses  Perception +14
