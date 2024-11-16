@@ -1,0 +1,47 @@
+.paragraph-img-just-1 {
+	text-align: justify;
+}
+
+.paragraph-img-just-1 img {
+	width: 18em;
+	float: left; 
+	margin-right: 15px;	
+
+}
+
+
+.cm-s-obsidian, .markdown-preview-view {
+text-align: justify;
+hyphens: auto;
+}
+
+.paragraph-img-just-2 {
+	text-align: justify;
+}
+
+.paragraph-img-just-2 img {
+	float: right; 
+	margin-left: 15px;
+	width: 15em;
+}
+
+
+.paragraph-img-just-3 {
+	text-align: justify;
+	display: flex;
+}
+
+.paragraph-img-just-3 img {
+	float: center; 
+	margin-left: 15px;
+	width: 15em;
+}
+
+.paragraph-img-just-1 .img-class {
+	width: 100%;
+	align-self: center;
+}
+
+.figCaption {
+	text-align: center;
+}
