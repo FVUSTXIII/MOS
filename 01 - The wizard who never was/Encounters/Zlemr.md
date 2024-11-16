@@ -1,3 +1,5 @@
+*Before you stands an impossibly massive creature, its writhing form a chaos of shifting tentacles, glistening carapace, and glowing eyes that seem to pierce into your soul. Mouths filled with jagged teeth open and close across its body, emitting guttural whispers that chill the air. Strange glyphs pulse along its flesh, radiating an aura of madness, and its presence warps the ground and sky, as if reality itself bends under the weight of its existence.*
+
 CR 15
 XP 51200
 NE Colossal Aberration

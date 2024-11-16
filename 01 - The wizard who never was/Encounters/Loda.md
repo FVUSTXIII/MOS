@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/wj97yZM.jpeg)
 
+*The waters erupt as Loda emerges, a serpentine horror with shimmering, slimy scales of sickly green and violet. Barbed, glowing tentacles writhe from its midsection, and a massive eel-like head gapes with translucent, needle-like teeth. Its unblinking black eyes radiate malice, and coral-encrusted spines bristle along its back. As it moves, its glowing veins pulse with alien light, and its guttural cries echo like the song of a vengeful sea.*
+
 CR 10
 XP 9600
 LE Aberration (Aquatic)
