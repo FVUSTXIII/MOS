@@ -1,6 +1,9 @@
 CR 15
 XP 51200
 NE Colossal Aberration
+
+![](https://i.imgur.com/Qm484Sy.png)
+
 Init +0; Senses Darkvision 60ft; Perception +29
 ------------------------------
 DEFENSE

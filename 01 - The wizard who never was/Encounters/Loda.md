@@ -1,7 +1,7 @@
 
 CR 10
 XP 9600
-LE Large Aberration (Aquatic)
+LE Aberration (Aquatic)
 Init +11; Senses Darksense, Darkvision 60ft; Perception +17
 Auras Aura of Despair
 ------------------------------
