@@ -1,3 +1,7 @@
+![](https://i.imgur.com/mz7knq9.png)
+
+*The ground trembles as Goc approaches, a gargantuan fusion of primal beast and nightmare. Its hulking body is covered in jagged, chitinous plates, pulsating with fleshy ridges that ooze a viscous, dark fluid. Six massive, clawed limbs stomp the earth, each step leaving deep craters. Its head resembles a warped predator’s skull, with too many eyes glowing an unnatural yellow, and a maw lined with serrated fangs that drip with acidic saliva. A barbed tail thrashes behind it, cutting through trees like a scythe, while its guttural, bone-shaking roar fills the air with dread*
+
 XP 38400
 N Gargantuan Animal
 Init -1; Senses Low-Light Vision; Perception +6
