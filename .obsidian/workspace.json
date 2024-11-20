@@ -197,13 +197,12 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f8df05cce52e6488",
   "lastOpenFiles": [
+    "Attachments/IMG/fogmountain.json",
     "Attachments/IMG/World/Provisional Bravia",
     "Attachments/IMG/World",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
@@ -242,7 +241,6 @@
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174021393.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111163813282.png",
     "Templates",
-    "Attachments/IMG/01 - The wizard who never was/Introducción",
     "Untitled.md",
     "NPC/Important Characters/Sociedad Internacional Arcana/Bonobo Green.md",
     "NPC/Important Characters/La Mano de Plata/0 la mano de plata.md",
