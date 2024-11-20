@@ -70,4 +70,6 @@ Hound District
 
 La calle principal que pasa por distrito sabueso se llama
 
-Iron Ham
+Iron Ham cruza con Grey Stair
+
+A la zona habitacional se le llama stone wind gate
