@@ -72,4 +72,18 @@ La calle principal que pasa por distrito sabueso se llama
 
 Iron Ham cruza con Grey Stair
 
-A la zona habitacional se le llama stone wind gate
+A la zona habitacional se le llama 
+
+Stonewind gate: 
+
+* Timber Knot
+* Egg Side
+* Renehop
+* Estklin
+* Loughack
+* Stratlum
+
+ A la zona gastronomica se le conoce como RedBloom:
+
+* Carnhigh
+* Hamlet Row
