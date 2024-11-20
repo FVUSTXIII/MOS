@@ -55,3 +55,19 @@ Distrito Sabueso
 | Items       | 1. Manual of Gainful Exercise +1 (27500 gp)<br>    <br>    _This tome once belonged to the half-orc wizard Ricusa, leader of the Arrows of Heawold._<br>    <br>2. Manual of Gainful Exercise +2 (55000 gp)<br>    <br>    _This tome was written by the legendary alchemist Marger, who defeated Xasa the Demonic._<br>    <br>3. Scroll of Clairaudience/Clairvoyance (cr, 375 gp)<br>4. Scroll of Ghoul Touch (cr, 150 gp)<br>5. Scroll of Holy Smite (cr, 700 gp)<br>6. Scroll of Inflict Serious Wounds (cr, 375 gp)<br>7. Scroll of Invisibility Sphere (cr, 375 gp)<br>8. Scroll of Lesser Globe of Invulnerability (cr, 700 gp)<br>9. Scroll of Magic Weapon (cr, 25 gp)<br>10. Scroll of Poison (cr, 700 gp)<br>11. Scroll of Speak with Dead (cr, 375 gp)<br>12. Scroll of Summon Monster III (cr, 375 gp)<br>13. Scroll of Tiny Hut (cr, 375 gp)<br>14. Scroll of Volcanic Storm (um, 700 gp)<br>15. Scroll of Wall of Fire (cr, 700 gp) |
 
 #
+
+Distritos en Bravia
+
+Hound: where the law enforcement dependencies and the military setting is 
+Lion: Right next to hound where the kings palace is, also the bravias nobility happens to be 
+Parrot: Mercantil, turistico
+Jabalí: Ganadero y agricola 
+
+
+Hound District  
+
+![](https://i.imgur.com/q1Novre.jpeg)
+
+La calle principal que pasa por distrito sabueso se llama
+
+Iron Ham
