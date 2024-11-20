@@ -74,8 +74,11 @@ Iron Ham cruza con Grey Stair
 
 A la zona habitacional se le llama 
 
-Stonewind gate: 
+![](https://i.imgur.com/d6FLtlD.png)
 
+
+Stonewind gate: 
+https://www.fantasytowngenerator.com/user/settlements/7641c5c0-a907-4af4-9683-b1fd85f00ce0
 * Timber Knot
 * Egg Side
 * Renehop
