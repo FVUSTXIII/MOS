@@ -87,3 +87,15 @@ Stonewind gate:
 
 * Carnhigh
 * Hamlet Row
+* Estorner
+* Whitove
+* Hidpassage
+
+Al muelle se le conoce como Purple Docks: 
+
+Al sentinel HQ se le conoce como The Three Arches:
+
+* Grimwood Crown
+* Grey Lodge
+* Dragonbark Sprawl
+* Blackvale
