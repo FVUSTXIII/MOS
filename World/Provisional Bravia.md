@@ -76,6 +76,7 @@ A la zona habitacional se le llama
 
 ![](https://i.imgur.com/d6FLtlD.png)
 
+![](https://i.imgur.com/HK3xvJq.png)
 
 Stonewind gate: 
 https://www.fantasytowngenerator.com/user/settlements/7641c5c0-a907-4af4-9683-b1fd85f00ce0
