@@ -197,7 +197,8 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "f8df05cce52e6488",
