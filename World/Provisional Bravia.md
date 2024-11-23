@@ -96,7 +96,8 @@ https://www.fantasytowngenerator.com/user/settlements/7641c5c0-a907-4af4-9683-b1
 * Stratlum
 
  A la zona gastronomica se le conoce como RedBloom:
-![](https://i.imgur.com/5Qhc2aX.png)
+![](https://i.imgur.com/Hi9FP3t.png)
+
 
 
 * Carnhigh
