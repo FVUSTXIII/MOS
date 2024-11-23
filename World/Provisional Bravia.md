@@ -7,7 +7,8 @@ Inner Entities:
 
 Distrito Sabueso 49ae0a color de vegetacion
 
-![](https://i.imgur.com/UCbqwD7.png)
+![](https://i.imgur.com/GPlEcfw.png)
+
 
 ## Shops
 
@@ -100,13 +101,19 @@ https://www.fantasytowngenerator.com/user/settlements/7641c5c0-a907-4af4-9683-b1
 
 
 
+
+
 * Carnhigh
 * Hamlet Row
 * Estorner
 * Whiteoven
 * Hidpassage
 
+
+
 Al muelle se le conoce como Purple Docks: 
+
+
 
 Al sentinel HQ se le conoce como The Three Arches:
 
@@ -114,7 +121,9 @@ Al sentinel HQ se le conoce como The Three Arches:
 * Grey Lodge
 * Dragonbark Sprawl
 * Blackvale
-
+* 
+![](https://i.imgur.com/2qGp8mg.png)
+https://www.fantasytowngenerator.com/user/settlements/a76ee016-9cd7-4288-9bfd-9ac834fecb08
 
 La prisión 
 
