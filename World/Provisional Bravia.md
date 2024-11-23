@@ -102,7 +102,7 @@ https://www.fantasytowngenerator.com/user/settlements/7641c5c0-a907-4af4-9683-b1
 * Carnhigh
 * Hamlet Row
 * Estorner
-* Whitove
+* Whiteoven
 * Hidpassage
 
 Al muelle se le conoce como Purple Docks: 
