@@ -1,4 +1,10 @@
-r
+---
+Surface: 
+Government: 
+Population: 
+Inner Entities:
+---
+
 Distrito Sabueso 
 
 ![](https://i.imgur.com/UCbqwD7.png)
@@ -61,7 +67,9 @@ Distritos en Bravia
 Hound: where the law enforcement dependencies and the military setting is 
 Lion: Right next to hound where the kings palace is, also the bravias nobility happens to be 
 Parrot: Mercantil, turistico
-Jabalí: Ganadero y agricola 
+Jabalí: Ganadero y agricola
+Grifo:  
+Escarabajo: 
 
 
 Hound District  
