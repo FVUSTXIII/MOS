@@ -7,6 +7,7 @@ Pending Nations
 Typhquarr
 Glefshire
 Mirhol
+Silorn
 Plainwallow
 Lagoondrift
 Honeydrift
@@ -20,5 +21,4 @@ Bouldcorr
 Indiggulf
 Lunacreg
 Estchall
-Silorn
 Onyned
