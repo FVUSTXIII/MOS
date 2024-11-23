@@ -277,7 +277,7 @@
         ]
       },
       "current": {
-        "day": 15,
+        "day": 2,
         "month": 8,
         "year": 4720
       },
@@ -1658,6 +1658,23 @@
             "order": "",
             "timestamp": 0
           }
+        },
+        {
+          "name": "Ashe's Exorcism",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 11,
+            "year": 4720
+          },
+          "id": "ID_ebaa7b983b4a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [
@@ -1703,6 +1720,9 @@
           "windUnits": "Imperial",
           "primaryWindDirection": "E"
         }
+      },
+      "locations": {
+        "locations": []
       }
     }
   ],

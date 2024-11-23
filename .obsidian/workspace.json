@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - The wizard who never was/Introducción.md"
+                "file": "02 - Corentyn Forest/01 - Introducción.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción"
+              "title": "Outline of 01 - Introducción"
             }
           },
           {
@@ -174,13 +174,65 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "696b4bf8aba4c62d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 1,
+                    "month": 11,
+                    "year": 4720
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 15,
+                    "month": 8,
+                    "year": 4720
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_f98948bbbabb",
+                "child": "ID_29d8fb3b2b7a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
+      },
+      {
+        "id": "8f0856205e8fa1b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb3649c2314c071",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "id": "ID_29d8fb3b2b7a",
+                "parent": "ID_f98948bbbabb"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +254,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "53ffef8dc0c6503d",
+  "active": "696b4bf8aba4c62d",
   "lastOpenFiles": [
-    "World/Provisional Bravia.md",
-    "02 - Corentyn Forest/01 - Introducción.md",
     "02 - Corentyn Forest/0 - Recap.md",
+    "Welcome.md",
+    "02 - Corentyn Forest/01 - Introducción.md",
+    "World/Provisional Bravia.md",
     "01 - The wizard who never was/Encounters/Zlemr.md",
     "02 - Corentyn Forest",
     "01 - The wizard who never was/Encounters/Goc.md",
@@ -246,7 +299,6 @@
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174021393.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111163813282.png",
     "Untitled.md",
-    "NPC/Important Characters/Sociedad Internacional Arcana/Bonobo Green.md",
-    "NPC/Important Characters/La Mano de Plata/0 la mano de plata.md"
+    "NPC/Important Characters/Sociedad Internacional Arcana/Bonobo Green.md"
   ]
 }
