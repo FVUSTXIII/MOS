@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Provisional Bravia.md",
+                "file": "World/Memoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Provisional Bravia"
+              "title": "Memoria"
             }
           }
         ]
@@ -204,6 +204,7 @@
   },
   "active": "53ffef8dc0c6503d",
   "lastOpenFiles": [
+    "World/Provisional Bravia.md",
     "World/ciudad flotante de coloran.md",
     "NPC/Important Characters/Bravian Royalty/Theodore Fairholm.md",
     "NPC/Important Characters/Bravian Royalty",
@@ -212,7 +213,6 @@
     "01 - The wizard who never was/0 - Recap.md",
     "01 - The wizard who never was/DC tables/Cases.md",
     "01 - The wizard who never was/Introducción.md",
-    "World/Provisional Bravia.md",
     "Attachments/IMG/fogmountain.json",
     "Attachments/IMG/World/Provisional Bravia",
     "Attachments/IMG/World",
