@@ -68,8 +68,8 @@ Hound: where the law enforcement dependencies and the military setting is
 Lion: Right next to hound where the kings palace is, also the bravias nobility happens to be 
 Parrot: Mercantil, turistico
 Jabalí: Ganadero y agricola
-Grifo:  
-Escarabajo: 
+Grifo:  Turistico, Viajes
+Escarabajo: Foundry
 
 
 Hound District  
