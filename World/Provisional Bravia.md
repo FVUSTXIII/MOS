@@ -4,8 +4,10 @@ Government:
 Population: 
 Inner Entities:
 ---
+cada hex mide 55px que equivalen a 1496.49 millas cuadradas o 3875.891307 km2
 
-55 - 24
+
+55 - 1496.49
 850
 
 Distrito Sabueso 49ae0a color de vegetacion
