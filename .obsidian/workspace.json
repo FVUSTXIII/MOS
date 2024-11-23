@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f25667551d364287",
+        "id": "9a02575477edd15b",
         "type": "tabs",
         "children": [
           {
-            "id": "53ffef8dc0c6503d",
+            "id": "712973fbb74f92fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02 - Corentyn Forest/01 - Introducción.md",
-                "mode": "source",
-                "source": false
+                "file": "Mapas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "01 - Introducción"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapas"
             }
           }
         ]
@@ -77,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587.5
+    "width": 602.5
   },
   "right": {
     "id": "3d819c6e20396b51",
@@ -139,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Corentyn Forest/01 - Introducción.md"
+                "file": "Mapas.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - Introducción"
+              "title": "Outline of Mapas"
             }
           },
           {
@@ -254,11 +257,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "696b4bf8aba4c62d",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Mapas.canvas",
+    "02 - Corentyn Forest/01 - Introducción.md",
     "02 - Corentyn Forest/0 - Recap.md",
     "Welcome.md",
-    "02 - Corentyn Forest/01 - Introducción.md",
     "World/Provisional Bravia.md",
     "01 - The wizard who never was/Encounters/Zlemr.md",
     "02 - Corentyn Forest",
@@ -297,8 +302,6 @@
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111175413624.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241114141935268.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174021393.png",
-    "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111163813282.png",
-    "Untitled.md",
-    "NPC/Important Characters/Sociedad Internacional Arcana/Bonobo Green.md"
+    "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111163813282.png"
   ]
 }
