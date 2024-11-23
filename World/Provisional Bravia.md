@@ -5,7 +5,7 @@ Population:
 Inner Entities:
 ---
 
-Distrito Sabueso 
+Distrito Sabueso 49ae0a color de vegetacion
 
 ![](https://i.imgur.com/UCbqwD7.png)
 
