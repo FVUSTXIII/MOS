@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"7c7bc3a3f0145ec8","type":"file","file":"Attachments/IMG/Mapas/IMG-20241123160632799.png","x":87,"y":-206,"width":399,"height":400},
+		{"id":"ef0638ace0df51ad","type":"file","file":"Attachments/IMG/Mapas/IMG-20241123160633391.png","x":532,"y":-206,"width":399,"height":400},
+		{"id":"31e117057a8ac339","x":269,"y":396,"width":399,"height":400,"type":"file","file":"Attachments/IMG/Mapas/IMG-20241123160639223.png"}
+	],
+	"edges":[]
+}

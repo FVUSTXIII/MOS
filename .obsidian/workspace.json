@@ -15,9 +15,9 @@
               "state": {
                 "file": "Mapas.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 275.4360146672461,
+                  "y": 13.750000000000114,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -235,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +257,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "712973fbb74f92fa",
   "lastOpenFiles": [
+    "Attachments/IMG/Mapas/IMG-20241123160639223.png",
+    "Attachments/IMG/Mapas",
+    "Attachments/IMG/Mapas/IMG-20241123160633391.png",
+    "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Untitled.md",
     "Mapas.canvas",
     "02 - Corentyn Forest/01 - Introducción.md",
@@ -297,7 +301,6 @@
     "NPC/Important Characters/La Hermandad de la Agonía Sagrada",
     "NPC/Important Characters/Sociedad Internacional Arcana/0 sociedad internacional arcana.md",
     "World",
-    "01 - The wizard who never was/Encounters",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174013502.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111175413624.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241114141935268.png",
