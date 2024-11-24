@@ -25,14 +25,17 @@
             "id": "2287b0e1c13125a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "World/Memoria.md",
-                "mode": "source",
-                "source": false
+                "file": "Mapas.canvas",
+                "viewState": {
+                  "x": 515.5,
+                  "y": 295,
+                  "zoom": -0.19627723317510146
+                }
               },
-              "icon": "lucide-file",
-              "title": "Memoria"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapas"
             }
           }
         ],
@@ -281,8 +284,9 @@
   },
   "active": "2287b0e1c13125a8",
   "lastOpenFiles": [
-    "Mapas.canvas",
     "World/Provisional Bravia.md",
+    "World/Memoria.md",
+    "Mapas.canvas",
     "NPC/Important Characters/Casa Myiroth/Glavien Myiroth.md",
     "Pending.md",
     "Welcome.md",
@@ -300,7 +304,6 @@
     "World/ciudad flotante de coloran.md",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Attachments/IMG/Bravian Soldier.pdf",
-    "World/Memoria.md",
     "NPC/Important Characters/Bravian Royalty/Theodore Fairholm.md",
     "NPC/Important Characters/Bravian Royalty",
     "Secta del Everflame.md",
