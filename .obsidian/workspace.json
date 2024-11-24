@@ -25,17 +25,14 @@
             "id": "2287b0e1c13125a8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Mapas.canvas",
-                "viewState": {
-                  "x": 515.5,
-                  "y": 295,
-                  "zoom": -0.19627723317510146
-                }
+                "file": "World/Provisional Bravia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapas"
+              "icon": "lucide-file",
+              "title": "Provisional Bravia"
             }
           }
         ],
@@ -284,9 +281,9 @@
   },
   "active": "2287b0e1c13125a8",
   "lastOpenFiles": [
+    "Mapas.canvas",
     "World/Provisional Bravia.md",
     "World/Memoria.md",
-    "Mapas.canvas",
     "NPC/Important Characters/Casa Myiroth/Glavien Myiroth.md",
     "Pending.md",
     "Welcome.md",
