@@ -214,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       },
       {
         "id": "8f0856205e8fa1b1",
@@ -226,6 +226,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_29d8fb3b2b7a",
                 "parent": "ID_f98948bbbabb"
               },
@@ -237,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 757.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +260,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "712b8f21fd3e90d9",
+  "active": "ef4183dcbd44b75e",
   "lastOpenFiles": [
     "01 - The wizard who never was/Encounters/Goc.md",
     "Welcome.md",
