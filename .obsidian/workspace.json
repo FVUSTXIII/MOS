@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 602.5
+    "width": 602.5,
+    "collapsed": true
   },
   "right": {
     "id": "3d819c6e20396b51",
@@ -216,9 +217,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "6b618915632612ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       },
       {
         "id": "8f0856205e8fa1b1",
@@ -242,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +275,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "712b8f21fd3e90d9",
+  "active": "6b618915632612ae",
   "lastOpenFiles": [
     "01 - The wizard who never was/0 - Recap.md",
     "01 - The wizard who never was/Encounters/Goc.md",

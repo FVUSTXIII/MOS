@@ -1,4 +1,4 @@
-<div>
+<div style="text-align: center">
 	<img src="https://i.imgur.com/9gIhGHe.png"/>
 	<figcaption class="figCaption">Womb of Horrors: The Cervix</figcaption>
 </div>
