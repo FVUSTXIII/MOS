@@ -14,5 +14,7 @@
   "obsidian-html-tags-autocomplete",
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "editing-toolbar",
+  "dataview"
 ]

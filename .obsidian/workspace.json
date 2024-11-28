@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 - The wizard who never was/Introducción.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 602.5,
-    "collapsed": true
+    "width": 602.5
   },
   "right": {
     "id": "3d819c6e20396b51",
@@ -253,7 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +274,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6b618915632612ae",
+  "active": "712b8f21fd3e90d9",
   "lastOpenFiles": [
     "01 - The wizard who never was/0 - Recap.md",
     "01 - The wizard who never was/Encounters/Goc.md",
