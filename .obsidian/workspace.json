@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - The wizard who never was/Introducción.md",
+                "file": "World/Provisional Bravia.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción"
+              "title": "Provisional Bravia"
             }
           }
         ]
@@ -276,6 +276,7 @@
   },
   "active": "712b8f21fd3e90d9",
   "lastOpenFiles": [
+    "01 - The wizard who never was/Introducción.md",
     "01 - The wizard who never was/0 - Recap.md",
     "01 - The wizard who never was/Encounters/Goc.md",
     "Welcome.md",
@@ -300,7 +301,6 @@
     "NPC/Important Characters/Bravian Royalty/Theodore Fairholm.md",
     "NPC/Important Characters/Bravian Royalty",
     "Secta del Everflame.md",
-    "01 - The wizard who never was/Introducción.md",
     "Attachments/IMG/fogmountain.json",
     "Attachments/IMG/World/Provisional Bravia",
     "Attachments/IMG/World",
