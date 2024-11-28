@@ -16,5 +16,6 @@
   "obsidian-git",
   "obsidian-checklist-plugin",
   "editing-toolbar",
-  "dataview"
+  "dataview",
+  "obsidian-admonition"
 ]
