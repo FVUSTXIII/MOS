@@ -1,1 +1,1 @@
-de la [[ciudad flotante de coloran]].
+de la [[Floating City of Koloran]].
