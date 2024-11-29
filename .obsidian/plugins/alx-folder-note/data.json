@@ -1,6 +1,6 @@
 {
   "modifierForNewNote": "Mod",
-  "hideNoteInExplorer": true,
+  "hideNoteInExplorer": false,
   "hideCollapseIndicator": false,
   "longPressFocus": false,
   "folderIcon": true,
