@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria/Floating City of Koloran/Floating City of Koloran.md",
+                "file": "Memoria/Corentyn/Corentyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floating City of Koloran"
+              "title": "Corentyn"
             }
           }
         ]
@@ -270,6 +270,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_29d8fb3b2b7a",
                 "parent": "ID_f98948bbbabb"
               },
@@ -298,13 +299,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "712b8f21fd3e90d9",
   "lastOpenFiles": [
-    "Memoria/Floating City of Koloran/Untitled.md",
+    "Memoria/Corentyn/Sredelm Woods",
+    "Memoria/Corentyn/Corentyn Forest",
     "Memoria/Floating City of Koloran/Floating City of Koloran.md",
+    "Memoria/Corentyn/Corentyn.md",
+    "Memoria/Corentyn",
+    "Memoria/Floating City of Koloran/Untitled.md",
     "Memoria/Bravia/Hound District/Hound District.md",
     "Memoria/Bravia/Bravia.md",
     "Memoria/Bravia/Hound District/Stonewind Gate/Stonewind Gate.md",
@@ -337,13 +344,9 @@
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Attachments/IMG/Bravian Soldier.pdf",
     "NPC/Important Characters/Bravian Royalty/Theodore Fairholm.md",
-    "NPC/Important Characters/Bravian Royalty",
     "Secta del Everflame.md",
-    "Attachments/IMG/fogmountain.json",
     "World/Redbloom.md",
     "NPC/Important Characters/Casa Myiroth/0 Casa Myiroth.md",
-    "NPC/Important Characters/Oliver Wrynn.md",
-    "NPC/Important Characters/Bravian Soldier.md",
     "Attachments/IMG/01 - The wizard who never was/Untitled/IMG-20241116164350275.png",
     "01 - The wizard who never was/Untitled.canvas",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174013502.png",
