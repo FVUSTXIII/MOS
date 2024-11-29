@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria/Bravia/Bravia.md",
+                "file": "Memoria/Floating City of Koloran/Floating City of Koloran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bravia"
+              "title": "Floating City of Koloran"
             }
           }
         ]
@@ -270,7 +270,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_29d8fb3b2b7a",
                 "parent": "ID_f98948bbbabb"
               },
@@ -299,18 +298,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "712b8f21fd3e90d9",
   "lastOpenFiles": [
-    "Memoria/Floating City Of Koloran/Floating City of Koloran.md",
-    "Memoria/Bravia/Bravia.md",
+    "Memoria/Floating City of Koloran/Untitled.md",
+    "Memoria/Floating City of Koloran/Floating City of Koloran.md",
     "Memoria/Bravia/Hound District/Hound District.md",
-    "Memoria/Bravia/Hound District/Untitled.md",
+    "Memoria/Bravia/Bravia.md",
     "Memoria/Bravia/Hound District/Stonewind Gate/Stonewind Gate.md",
+    "Memoria/Floating City of Koloran",
+    "Memoria/Floating City Of Koloran/Floating City of Koloran.md",
+    "Memoria/Untitled.md",
+    "Memoria/Bravia/Hound District/Untitled.md",
     "Memoria/Memoria.md",
     "Memoria/Floating City Of Koloran",
     "Memoria/Bravia/Hound District/Stonewind Gate",
@@ -339,13 +340,10 @@
     "NPC/Important Characters/Bravian Royalty",
     "Secta del Everflame.md",
     "Attachments/IMG/fogmountain.json",
-    "Attachments/IMG/World/Provisional Bravia",
     "World/Redbloom.md",
     "NPC/Important Characters/Casa Myiroth/0 Casa Myiroth.md",
     "NPC/Important Characters/Oliver Wrynn.md",
     "NPC/Important Characters/Bravian Soldier.md",
-    "01 - The wizard who never was/Encounters/Loda.md",
-    "README.md",
     "Attachments/IMG/01 - The wizard who never was/Untitled/IMG-20241116164350275.png",
     "01 - The wizard who never was/Untitled.canvas",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174013502.png",
