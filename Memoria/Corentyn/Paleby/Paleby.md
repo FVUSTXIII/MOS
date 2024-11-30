@@ -1,7 +1,7 @@
 ---
 Surface: 
 Government: 
-Population: 
+Population: "140"
 Inner Entities:
 ---
 
