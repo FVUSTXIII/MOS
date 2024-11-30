@@ -1,4 +1,6 @@
 ---
 Surface: 
-Population:
+Population: 
+Government: 
+Inner Entities:
 ---
