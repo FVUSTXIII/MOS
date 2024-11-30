@@ -6,7 +6,6 @@ Inner Entities:
 Area:
 ---
 
-![](https://i.imgur.com/A1RoKMG.png)
 
+![](https://i.imgur.com/bOXYurI.png)
 
-![](https://i.imgur.com/lT59PCr.jpeg)
