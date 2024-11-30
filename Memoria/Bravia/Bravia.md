@@ -2,8 +2,7 @@
 Surface: 99656 Miles 2  - 258107.855 km2
 Government: 
 Population: 
-Inner Entities: 
-Area:
+Inner Entities:
 ---
 
 cada hex mide 55px que equivalen a 1496.49 millas cuadradas o 3875.891307 km2
