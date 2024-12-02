@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "images",
     "parastyles"
-  ]
+  ],
+  "accentColor": "",
+  "theme": "obsidian"
 }
