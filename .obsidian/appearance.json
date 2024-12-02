@@ -5,5 +5,7 @@
     "parastyles"
   ],
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Calisto MT,Century Schoolbook",
+  "monospaceFontFamily": "Copperplate Gothic"
 }
