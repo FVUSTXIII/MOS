@@ -176,8 +176,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -228,8 +228,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -238,8 +238,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -273,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       },
       {
         "id": "8f0856205e8fa1b1",
@@ -319,7 +319,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c0990c0a8202839a",
+  "active": "766c66804148c3a3",
   "lastOpenFiles": [
     "Memoria/Bravia/Hound District/Hound District.md",
     "Memoria/Corentyn/Corentyn.md",
