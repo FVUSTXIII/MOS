@@ -285,7 +285,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_29d8fb3b2b7a",
                 "parent": "ID_f98948bbbabb"
               },
