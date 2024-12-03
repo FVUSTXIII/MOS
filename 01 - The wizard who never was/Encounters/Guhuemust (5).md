@@ -22,7 +22,7 @@ Melee Swarm (3d6)
 Space 5 ft.; Reach 0 ft.
 ## Special Attacks  
 * Distraction (DC 23), 
-* Hinder Spellcasting, 
+* Hinder Spellcasting, at will 
 * Swallow Whole (1d6+5, AC 10, 14 hp), 
 * Blinding Gaze (30ft., DC 17, 14 minutes), 
 * Charming Gaze (DC 17), 
@@ -93,4 +93,3 @@ Environment: Temperate Hills
 Organization: Pair (2)
 Treasure: Standard
 
-A Guhuemust is usually found trying to heal dwarves. They are a Medium Humanoid, with translucent red skin. Despite its best efforts, a Guhuemust is frequently pounced by wizards.
