@@ -11,17 +11,14 @@
             "id": "02f2482c76828f80",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01 - The wizard who never was/Untitled.canvas",
-                "viewState": {
-                  "x": -213.51226819047943,
-                  "y": 112.62986440154171,
-                  "zoom": 1
-                }
+                "file": "03 - The witch/03 - The Witch.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "03 - The Witch"
             }
           }
         ]
@@ -309,8 +306,8 @@
   },
   "active": "02f2482c76828f80",
   "lastOpenFiles": [
-    "01 - The wizard who never was/Introducción.md",
     "01 - The wizard who never was/Untitled.canvas",
+    "01 - The wizard who never was/Introducción.md",
     "02 - Corentyn Forest/0 - Recap.md",
     "02 - Corentyn Forest/01 - Introducción.md",
     "03 - The witch/03 - The Witch.md",
