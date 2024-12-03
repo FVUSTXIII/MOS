@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria/Corentyn/Corentyn.md",
+                "file": "NPC/Evelyn Thorn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corentyn"
+              "title": "Evelyn Thorn"
             }
           }
         ]
@@ -297,11 +297,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "02f2482c76828f80",
   "lastOpenFiles": [
+    "Memoria/Corentyn/Corentyn.md",
+    "NPC/Evelyn Thorn.md",
     "Mapas.canvas",
     "03 - The witch/03 - The Witch.md",
     "03 - The witch/Untitled.md",
@@ -310,7 +314,6 @@
     "02 - Corentyn Forest/0 - Recap.md",
     "02 - Corentyn Forest/01 - Introducción.md",
     "Memoria/Corentyn/Paleby/Paleby.md",
-    "Memoria/Corentyn/Corentyn.md",
     "03 - The witch",
     "Memoria/Bravia/Hound District/Hound District.md",
     "Memoria/Memoria.md",
