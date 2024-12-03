@@ -11,14 +11,17 @@
             "id": "02f2482c76828f80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03 - The witch/03 - The Witch.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - The wizard who never was/Untitled.canvas",
+                "viewState": {
+                  "x": -191.33787847867995,
+                  "y": -90.75,
+                  "zoom": 0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "03 - The Witch"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -270,6 +273,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_29d8fb3b2b7a",
                 "parent": "ID_f98948bbbabb"
               },
@@ -305,8 +309,12 @@
   },
   "active": "02f2482c76828f80",
   "lastOpenFiles": [
-    "03 - The witch/Untitled.md",
+    "01 - The wizard who never was/Introducción.md",
+    "01 - The wizard who never was/Untitled.canvas",
+    "02 - Corentyn Forest/0 - Recap.md",
+    "02 - Corentyn Forest/01 - Introducción.md",
     "03 - The witch/03 - The Witch.md",
+    "03 - The witch/Untitled.md",
     "Memoria/Corentyn/Paleby/Paleby.md",
     "Memoria/Corentyn/Corentyn.md",
     "03 - The witch",
@@ -333,7 +341,6 @@
     "Memoria/Untitled.md",
     "Memoria/Bravia/Hound District/Untitled.md",
     "Mapas.canvas",
-    "01 - The wizard who never was/Introducción.md",
     "01 - The wizard who never was/0 - Recap.md",
     "01 - The wizard who never was/Encounters/Goc.md",
     "Welcome.md",
@@ -342,13 +349,9 @@
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
-    "02 - Corentyn Forest/01 - Introducción.md",
-    "02 - Corentyn Forest/0 - Recap.md",
     "01 - The wizard who never was/Encounters/Zlemr.md",
-    "01 - The wizard who never was/Encounters/Guhuemust (5).md",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Attachments/IMG/01 - The wizard who never was/Untitled/IMG-20241116164350275.png",
-    "01 - The wizard who never was/Untitled.canvas",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111174013502.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241111175413624.png",
     "Attachments/IMG/01 - The wizard who never was/Introducción/IMG-20241114141935268.png",
