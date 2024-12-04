@@ -270,7 +270,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_29d8fb3b2b7a",
                 "parent": "ID_f98948bbbabb"
               },
@@ -298,10 +297,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d33f4719f42fd454",
