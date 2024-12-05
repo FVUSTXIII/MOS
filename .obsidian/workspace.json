@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - The wizard who never was/DC tables/Cases.md",
+                "file": "01 - The wizard who never was/Introducción.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cases"
+              "title": "Introducción"
             }
           }
         ]
@@ -305,8 +305,8 @@
   },
   "active": "d33f4719f42fd454",
   "lastOpenFiles": [
-    "01 - The wizard who never was/Introducción.md",
     "01 - The wizard who never was/DC tables/Cases.md",
+    "01 - The wizard who never was/Introducción.md",
     "01 - The wizard who never was/Encounters/Guhuemust (5).md",
     "01 - The wizard who never was/Encounters/Zlemr.md",
     "01 - The wizard who never was/Encounters/Goc.md",
