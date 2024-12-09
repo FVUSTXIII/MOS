@@ -259,20 +259,20 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_b8ea9ae969f9",
+                "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 15,
-                    "month": 0,
+                    "day": 2,
+                    "month": 8,
                     "year": 4720
                   },
                   "viewState": 1,
                   "displaying": {
-                    "day": 15,
-                    "month": 0,
+                    "day": 2,
+                    "month": 8,
                     "year": 4720
                   },
-                  "displayDayNumber": true,
+                  "displayDayNumber": false,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
                   "displayMoons": true,
@@ -298,7 +298,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_b8ea9ae969f9",
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6ab9c9d98809",
                 "parent": "ID_98fbabf8e91b"
               },
