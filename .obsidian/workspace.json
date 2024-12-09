@@ -284,9 +284,35 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "60eae73b0413b9a8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 2,
+                    "month": 8,
+                    "year": 4720
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_987b980a9aea"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       },
       {
         "id": "a30c4dfb8885f084",
@@ -333,7 +359,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "6dae8521e6d28ff4",
+  "active": "60eae73b0413b9a8",
   "lastOpenFiles": [
     "2024-12-09.md",
     "01 - The wizard who never was/Introducción.md",
