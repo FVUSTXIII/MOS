@@ -11,10 +11,14 @@
             "id": "d30be6ae6e7157c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Memoria/Corentyn/Corentyn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Corentyn"
             }
           }
         ]
@@ -336,7 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,8 +363,12 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "60eae73b0413b9a8",
+  "active": "d30be6ae6e7157c8",
   "lastOpenFiles": [
+    "Memoria/Corentyn/Cloudforge/Cloudforge.md",
+    "Memoria/Corentyn/Corentyn.md",
+    "Memoria/Corentyn/Lowcot/Lowcot.md",
+    "Memoria/Corentyn/Paleby/Paleby.md",
     "2024-12-09.md",
     "01 - The wizard who never was/Introducción.md",
     "01 - The wizard who never was/DC tables/Cases.md",
@@ -373,17 +381,13 @@
     "02 - Corentyn Forest/01 - Introducción.md",
     "02 - Corentyn Forest/0 - Recap.md",
     "NPC/Evelyn Thorn.md",
-    "Memoria/Corentyn/Corentyn.md",
     "Mapas.canvas",
     "03 - The witch/Untitled.md",
     "01 - The wizard who never was/Untitled.canvas",
-    "Memoria/Corentyn/Paleby/Paleby.md",
     "03 - The witch",
     "Memoria/Bravia/Hound District/Hound District.md",
     "Memoria/Memoria.md",
-    "Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "Memoria/Corentyn/Cloudforge",
-    "Memoria/Corentyn/Lowcot/Lowcot.md",
     "Memoria/Floating City of Koloran/Floating City of Koloran.md",
     "Memoria/Corentyn/Paleby",
     "Memoria/Corentyn/Lowcot",

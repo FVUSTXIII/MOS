@@ -6,6 +6,8 @@ Inner Entities:
 Area:
 ---
 
+```leaf
+```
 
 ![](https://i.imgur.com/bOXYurI.png)
 
