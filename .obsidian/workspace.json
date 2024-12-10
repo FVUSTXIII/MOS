@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "file": "World/Calendar/EVENTS/Current Day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - The Witch"
+              "title": "Current Day"
             }
           },
           {
@@ -390,7 +390,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -416,11 +416,12 @@
   },
   "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
-    "Attachments/Templates/Current Date Template.md",
+    "Untitled.md",
     "World/Calendar/EVENTS/Current Day.md",
+    "Attachments/Templates/Current Date Template.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
     "Campaing Overview.md",
     "Index.canvas",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Attachments/Templates",
     "World/Calendar/Days of the Week.md",
     "World/Calendar/EVENTS",
