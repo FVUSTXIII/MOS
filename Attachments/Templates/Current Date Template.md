@@ -1,11 +1,7 @@
----
+
+
+
 Date: <% Calendarium.getAPI.toDisplayDate(Calendarium.getAPI("Calendar of Golarion").getCurrentDate()) %> 
----
+Time: 
 
 
-
-
-<%*
-const {CalendariumDate} = await cJS();
-date = CalendariumDate.
-%>
