@@ -410,12 +410,13 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
+    "scripts/customjs.js",
+    "scripts",
     "World/Calendar/Days of the Week.md",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/Templates/Current Date Template.md",
@@ -443,7 +444,6 @@
     "Attachments/Various Icons/DnD related/icons/slot",
     "Attachments/Various Icons/DnD related/icons/skill",
     "Attachments/Various Icons/DnD related/icons/proficiency",
-    "Attachments/Various Icons/DnD related/icons/movement",
     "Attachments/Various Icons/DnD related/icons/ability/readme.md",
     "Attachments/Various Icons/DnD related/icons/README.md",
     "Pending.md",
