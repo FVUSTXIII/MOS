@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaing Overview.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaing Overview"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -315,6 +315,11 @@
               "state": {
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 4,
+                    "month": 8,
+                    "year": 4720
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 2,
@@ -324,10 +329,12 @@
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
+                  "displayAbsoluteYear": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_987b980a9aea"
+                "id": "ID_987b980a9aea",
+                "child": "ID_3818f8b8ebaa"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -355,10 +362,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "aebbb7052c306454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0166a451ccc8efe",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "id": "ID_3818f8b8ebaa",
+                "parent": "ID_987b980a9aea"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 574.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,7 +408,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dede143ae016981c",
+  "active": "60eae73b0413b9a8",
   "lastOpenFiles": [
     "Index.canvas",
     "Campaing Overview.md",
