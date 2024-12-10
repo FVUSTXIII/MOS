@@ -1,8 +1,10 @@
-
+---
+Date: <% const calendarium = Calendarium.getAPI("Calendar of Golarion").getCurrentDate() %> 
 ---
 
 
-Date: <% Calendarium.getAPI.toDisplayDate(Calendarium.getAPI("Calendar of Golarion").getCurrentDate()) %> 
+Date:  <% Date %> 
 Time: 
+
 
 
