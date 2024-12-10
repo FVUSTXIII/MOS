@@ -8,7 +8,7 @@ Al recibirla, el rey Celes reconoció la petición de Ashe.
 
 "*¿Responderás al llamado? ¿serás escudo para el débil y lanza contra el tirano, fulgor para el abatido y brasas para el vil?*" 
 
-Ashe acepta y se une a la orden de los caballeros [[0 la mano de plata]]. Habiendo aceptado, Ashe es convocada a la asamble anual de la mano de plata donde sus miembros hablan sobre las problematicas en el mundo y su plan de acción para aportar a ellas. La asamblea, curiosamente, tomaría lugar justo el siguiente día. 
+Ashe acepta y se une a la orden de los caballeros [[La Mano de Plata]]. Habiendo aceptado, Ashe es convocada a la asamble anual de la mano de plata donde sus miembros hablan sobre las problematicas en el mundo y su plan de acción para aportar a ellas. La asamblea, curiosamente, tomaría lugar justo el siguiente día. 
 
 Mientras Ashe esta viendo al rey, Zenshin viaja por un bazar de la ciudad, donde se encontró con un Anciano llamado [[Bonobo Green]] quien no recordaba como había llegado ahi.
 El rey Celes ofreció habitaciones en el palacio a Ashe y a quienes venían con ella para pasar la noche. Durante la noche, Ashe, Zenshin y Bonobo son visitados en sus habitaciones por un espectro. Cada uno de ellos decide seguir a la figura  y se terminan encontrando  en la entrada de una mazmorra. En dicha mazmorra Ashe encuentra un cofre con una corona. Bonobo es invadido por recuerdos donde el, una mujer y otros dos hombres se encuentran en esa habitación poniendo esa misma corona dentro del cofre y sellandolo.
@@ -19,5 +19,5 @@ Ashe recupera control de su ser, pero en este punto era ya de mañana. La asambl
 
 Al llegar al palacio Bonobo se encuentra con uno de los hombres que vio en sus recuerdos, quien al verlo lo saluda de mano. Habiendo empezado la asamblea, los participantes de esta son el rey de Somna [[Celes Khetill]], su hijo el principe de Somna [[Michaelo Khetill]], tercer hijo de la casa Kasmaron [[Phillip Kasmaron]], Gran Maestre de Guerra de la Cámara de justicia de Northumbria, Archipaladín de la corte real de Bravia y Gran inquisidor y Sumo Guardián de [La Hermandad de la Agonía Sagrada](obsidian://open?vault=Maws%20Of%20Sacrilege&file=NPC%2FImportant%20Characters%2FLa%20Hermandad%20de%20la%20Agon%C3%ADa%20Sagrada%2FLa%20Hermandad%20de%20la%20Agon%C3%ADa%20Sagrada) [[William Noffke]],  y primer heredero al trono del reino de Acavna [[Glavien Myiroth]]. 
 
-Este último no forma parte de la mano de plata, sin embargo, había sido enviado por el mismo rey [[Velkrys Myiroth]] pues este había pedido ayuda de la mano de plata. La hija mas pequeña de la [[0 Casa Myiroth]]: [[Kwendrith Myiroth]]. Quien había sido raptada; el sospechoso principal era la [[Secta del Everflame]].  
+Este último no forma parte de la mano de plata, sin embargo, había sido enviado por el mismo rey [[Velkrys Myiroth]] pues este había pedido ayuda de la mano de plata. La hija mas pequeña de la [[0 Casa Myiroth]]: [[Kwendrith Myiroth]]. Quien había sido raptada; el sospechoso principal era la [[The Everflame]].  
 
