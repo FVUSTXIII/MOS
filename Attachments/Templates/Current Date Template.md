@@ -1,5 +1,5 @@
 ---
-Date: <% Calendarium.getAPI("Calendar of Golarion").getCurrentDate().day %> / <% Calendarium.getAPI("Calendar of Golarion").getCurrentDate().month %> /<% Calendarium.getAPI("Calendar of Golarion").getCurrentDate().year %>
+Date: <% Calendarium.getAPI("Calendar of Golarion").getCurrentDate().toDisplayDate() %> 
 ---
 
 
