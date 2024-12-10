@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4ee23c612a31728a",
+        "id": "91dfbb2586d49fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "2b79be744b7e248c",
+            "id": "a8de446817459420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Calendar/Days of the Week.md",
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Days of the Week"
-            }
-          },
-          {
-            "id": "36daec395952e542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Calendar/Days of the Week.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Days of the Week"
+              "title": "03 - The Witch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,13 +363,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "a8de446817459420",
   "lastOpenFiles": [
-    "World/Deities/ntitled",
+    "Campaing Overview.md",
     "Index.canvas",
-    "Untitled 1.md",
+    "Pending.md",
     "World/Calendar/Days of the Week.md",
-    "Untitled.md",
+    "World/Deities/ntitled",
+    "Untitled 1.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
     "NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
@@ -401,12 +387,10 @@
     "NPC/Important Characters/Factions/The Everflame",
     "NPC/Important Characters/Bravian Soldier.md",
     "World/Memoria/Memoria.md",
-    "Pending.md",
     "Mapas.canvas",
     "World",
     "PC",
     "2024-12-09.md",
-    "NPC/Important Characters/Factions",
     "World/Memoria/Bravia/Bravia.md",
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
