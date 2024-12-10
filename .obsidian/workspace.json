@@ -11,17 +11,14 @@
             "id": "e8eba8faa45f9d30",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 440,
-                  "y": -1211.0203685741997,
-                  "zoom": -0.4496030012691888
-                }
+                "file": "Attachments/Templates/Current Date Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "Current Date Template"
             }
           },
           {
@@ -393,7 +390,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 574.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -419,11 +416,11 @@
   },
   "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
-    "Campaing Overview.md",
-    "Attachments/Templates/Current Date Template.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
-    "Index.canvas",
     "World/Calendar/EVENTS/Current Day.md",
+    "Attachments/Templates/Current Date Template.md",
+    "Campaing Overview.md",
+    "Index.canvas",
+    "Sessions/03 - The witch/03 - The Witch.md",
     "Attachments/Templates",
     "World/Calendar/Days of the Week.md",
     "World/Calendar/EVENTS",

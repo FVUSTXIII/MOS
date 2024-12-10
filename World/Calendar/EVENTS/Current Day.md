@@ -1,7 +1,7 @@
-```templater 
-<%*
-	
-	currentDate
-%>
+Date:
+Hour: 00:00
 
-```
+
+
+
+

@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"90861ee94be54290","type":"file","file":"Pending.md","x":720,"y":-900,"width":400,"height":620},
 		{"id":"6a8d47d47da52638","type":"file","file":"World/Calendar/EVENTS/Current Day.md","x":300,"y":-2080,"width":400,"height":120},
-		{"id":"83cd138d5aa97bcb","type":"file","file":"Campaing Overview.md","x":-200,"y":-1820,"width":520,"height":620}
+		{"id":"90861ee94be54290","type":"file","file":"Pending.md","x":840,"y":-1820,"width":440,"height":620},
+		{"id":"83cd138d5aa97bcb","type":"file","file":"Campaing Overview.md","x":-400,"y":-1820,"width":520,"height":620}
 	],
 	"edges":[]
 }
