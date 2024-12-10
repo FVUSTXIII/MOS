@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"90861ee94be54290","type":"file","file":"Pending.md","x":680,"y":-900,"width":400,"height":620},
-		{"id":"83cd138d5aa97bcb","x":-200,"y":-900,"width":520,"height":620,"type":"file","file":"Campaing Overview.md"}
+		{"id":"83cd138d5aa97bcb","type":"file","file":"Campaing Overview.md","x":-200,"y":-900,"width":520,"height":620},
+		{"id":"310892d845ae65ec","type":"text","text":"Rova/4 /4720 - FIREDAY","x":360,"y":-1260,"width":280,"height":50}
 	],
 	"edges":[]
 }

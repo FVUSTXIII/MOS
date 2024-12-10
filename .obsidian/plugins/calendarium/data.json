@@ -1,5 +1,5 @@
 {
-  "autoParse": false,
+  "autoParse": true,
   "calendars": [
     {
       "name": "Calendar of Golarion",
@@ -2142,7 +2142,7 @@
         ]
       },
       "current": {
-        "day": 2,
+        "day": 4,
         "month": 8,
         "year": 4720
       },
@@ -3533,6 +3533,23 @@
             "year": 4720
           },
           "id": "ID_ebaa7b983b4a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Test event",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 8,
+            "year": 4720
+          },
+          "id": "ID_5b4b6af9e999",
           "note": null,
           "category": null,
           "sort": {
