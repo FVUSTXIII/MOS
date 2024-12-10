@@ -4,8 +4,8 @@ banner_y: 0.372
 ---
 ## Recap
 
-```ad-abstract 
-
+```camp-ow
+this and that
 ```
 
 ## Introduction

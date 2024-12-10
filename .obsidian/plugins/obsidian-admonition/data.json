@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "camp-ow": {
+      "type": "camp-ow",
+      "color": "150, 151, 83",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAU9JREFUSEvdletRwkAUhU8qQSoRKxEqUSpRK1ErESrBfGEPc+eaTJbsyA92JpPnnu++0+m8XiW9lOuWU5c3+8GpRTXsvRmAiHAoenCQ9CTp5wpv2LOT9Fn2RL09kByi9x7KizdJbN5OwBB9LuLRoKzXjeVgIBdPHiR99Z59F9Bjf7+RhCFAEOcbryoAYcK644j1qwLDO6ruo3h7FYCP8QIxzoh5YS0HXmBEtD7ndLifKlOE3R9jaSCEzQAsJ9ZTAOcjvq/KgUM0B2j24F9D5NIcujEtJ9rNtShEAJxoruNy89GMeVXlAEGaiDqnwbh3qVKe9oACyGNlFoDQuswWxNwHiBpCcv0OeAzVLMAzBgEvROhYIPmf4YZ02GYBE2Vf/fiOAR67JDgOt+rYpA/9C74MOyohzvmlwt73B0CFAMnjtxV08QAhxCm3sSm5FNT9AnE0ZxmqiA0kAAAAAElFTkSuQmCC",
+        "type": "image"
+      },
+      "command": true,
+      "title": "quick-recap",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.3.2",
