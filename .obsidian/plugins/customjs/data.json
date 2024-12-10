@@ -1,0 +1,7 @@
+{
+  "jsFiles": "customjs.js",
+  "jsFolder": "scripts/customjs.js",
+  "startupScriptNames": [],
+  "registeredInvocableScriptNames": [],
+  "rerunStartupScriptsOnFileChange": true
+}
