@@ -414,10 +414,11 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "6705e02df9037f25",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
     "Index.canvas",
     "Campaing Overview.md",
