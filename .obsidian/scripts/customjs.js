@@ -1,4 +1,36 @@
 
+class CalendariumDate {
+	constructor() {
+		this.calendarAPI = Calendarium.getAPI("Calendar of Golarion");
+		this.currentDate = this.calendarAPI.getCurrentDate();
+	}
 
-const calendarAPI = Calendarium.getAPI("Calendar of Golarion");
-const currentDate = calendarAPI.getCurrentDate(); // this is an object { year: number, month: number, day: number }
+	currentDate() {
+		let dayOfTheWeek = '';
+
+		switch(this.currentDate.day) {
+			case 1:
+				dayOfTheWeek = "Moonday"
+				break;
+			case 2:
+				dayOfTheWeek = "Toilday"
+				break;
+			case 3:
+				dayOfTheWeek = "Wealday"
+				break;
+			case 4:
+				dayOfTheWeek = "Oathday"
+				break;
+			case 5: 
+				dayOfTheWeek = "Fireday"
+				break;
+			case 6:
+				dayOfTheWeek = "Starday"
+				break;
+			case 7:
+				dayOfTheWeek = "Sunday"
+				break; 
+		}
+
+	}
+}
