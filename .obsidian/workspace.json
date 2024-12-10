@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Current Date Template.md",
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Date Template"
+              "title": "03 - The Witch"
             }
           },
           {
@@ -416,8 +416,8 @@
   },
   "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
-    "World/Calendar/EVENTS/Current Day.md",
     "Attachments/Templates/Current Date Template.md",
+    "World/Calendar/EVENTS/Current Day.md",
     "Campaing Overview.md",
     "Index.canvas",
     "Sessions/03 - The witch/03 - The Witch.md",
