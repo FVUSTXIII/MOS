@@ -1,4 +1,4 @@
-```dataview
-const calendarAPI = Calendarium.getAPI("Calendar of Golarion");
+```dataviewjs
+list from Calendarium.getAPI("Calendar of Golarion");
 calendarAPI.getCurrentDate();
 ```
