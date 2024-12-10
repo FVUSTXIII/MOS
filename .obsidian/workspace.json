@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria/Corentyn/Corentyn.md",
-                "mode": "source",
+                "file": "Memoria/Bravia/Bravia.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corentyn"
+              "title": "Bravia"
             }
           }
         ]
@@ -361,8 +361,9 @@
   },
   "active": "d30be6ae6e7157c8",
   "lastOpenFiles": [
-    "Memoria/Corentyn/Cloudforge/Cloudforge.md",
+    "03 - The witch/03 - The Witch.md",
     "Memoria/Corentyn/Corentyn.md",
+    "Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "Memoria/Corentyn/Lowcot/Lowcot.md",
     "Memoria/Corentyn/Paleby/Paleby.md",
     "2024-12-09.md",
@@ -373,7 +374,6 @@
     "01 - The wizard who never was/Encounters/Goc.md",
     "01 - The wizard who never was/Encounters/Loda.md",
     "().md",
-    "03 - The witch/03 - The Witch.md",
     "02 - Corentyn Forest/01 - Introducción.md",
     "02 - Corentyn Forest/0 - Recap.md",
     "NPC/Evelyn Thorn.md",
