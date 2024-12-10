@@ -10,9 +10,11 @@ Area:
 id: Corentyn-map
 image: [[https://i.imgur.com/bOXYurI.png]]
 height: 500px
-minZoom: 1
-maxZoom: 100
-defaultZoom: 15
+minZoom: .01
+maxZoom: 1
+defaultZoom: .05
+unit: meters
+scale: .01
 ```
 
 
