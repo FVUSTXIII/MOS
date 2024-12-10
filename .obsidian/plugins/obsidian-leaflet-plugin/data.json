@@ -1,5 +1,73 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Corentyn-map",
+      "lastAccessed": 1733796884098,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -868.9248993669239,
+              "lng": 766.1708602296732,
+              "id": "ID_bbfa6a8a78aa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -805.3669796589536,
+              "lng": 627.1379108684881,
+              "id": "ID_f81ad97a9ad9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -894.7453042482869,
+              "lng": 491.08423899361424,
+              "id": "ID_cb8a0ab81889",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -904.6762292026573,
+              "lng": 255.72131757503672,
+              "id": "ID_39698b7bc849",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -818.2771820996351,
+              "lng": 204.08050781231086,
+              "id": "ID_4a38f869d93b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -783.5189447593389,
+              "lng": 359.00293710048845,
+              "id": "ID_5a386a3bfbdb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Memoria/Corentyn/Corentyn.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

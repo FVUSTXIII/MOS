@@ -13,7 +13,7 @@ height: 500px
 minZoom: .01
 maxZoom: 1
 defaultZoom: .05
-unit: meters
+unit: feet
 scale: .01
 ```
 
