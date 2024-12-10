@@ -365,6 +365,20 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "d182abd2440e9796",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 15
