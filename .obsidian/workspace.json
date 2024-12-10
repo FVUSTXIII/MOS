@@ -362,7 +362,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -381,6 +382,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -417,11 +419,11 @@
   },
   "active": "6705e02df9037f25",
   "lastOpenFiles": [
-    "World/Calendar/EVENTS/Current Day.md",
-    "Attachments/Templates/Current Date Template.md",
-    "Attachments/Templates",
     "Index.canvas",
     "Campaing Overview.md",
+    "Attachments/Templates/Current Date Template.md",
+    "World/Calendar/EVENTS/Current Day.md",
+    "Attachments/Templates",
     "World/Calendar/Days of the Week.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "World/Calendar/EVENTS",
@@ -464,7 +466,6 @@
     "World/Memoria/Corentyn/Paleby/Paleby.md",
     "Sessions/01 - The wizard who never was/Introducción.md",
     "Sessions/01 - The wizard who never was/DC tables/Cases.md",
-    "Sessions/01 - The wizard who never was/Encounters/Guhuemust (5).md",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
 }
