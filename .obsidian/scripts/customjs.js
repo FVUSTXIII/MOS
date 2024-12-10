@@ -1,10 +1,7 @@
 
 class CalendariumDate {
-	constructor() {
-		this.calendarAPI = Calendarium.getAPI("Calendar of Golarion");
-		this.currentDate = this.calendarAPI.getCurrentDate();
-	}
-
+	this.calendarAPI = Calendarium.getAPI("Calendar of Golarion");
+	this.currentDate = this.calendarAPI.getCurrentDate();
 	currentDate() {
 		let dayOfTheWeek = '';
 
@@ -31,6 +28,8 @@ class CalendariumDate {
 				dayOfTheWeek = "Sunday"
 				break; 
 		}
+
+		return  `${this.currentDate.day}/${this.currentDate.month}/${this.currentDate.year}`
 
 	}
 }

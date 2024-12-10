@@ -5,5 +5,7 @@ Date: <% Calendarium.getAPI.toDisplayDate(Calendarium.getAPI("Calendar of Golari
 
 
 
-
-
+<%*
+const {CalendariumDate} = await cJS();
+date = CalendariumDate.
+%>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Calendar/Days of the Week.md",
+                "file": "Attachments/Templates/Current Date Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Days of the Week"
+              "title": "Current Date Template"
             }
           }
         ]
@@ -414,12 +414,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8b8a15af0b7fd72c",
+  "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
+    "World/Calendar/Days of the Week.md",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/Templates/Current Date Template.md",
     "Index.canvas",
-    "World/Calendar/Days of the Week.md",
     "Campaing Overview.md",
     "Untitled.md",
     "Sessions/03 - The witch/03 - The Witch.md",
