@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Calendar/EVENTS/Current Day.md",
+                "file": "Attachments/Templates/Current Date Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Day"
+              "title": "Current Date Template"
             }
           }
         ],
@@ -419,9 +419,11 @@
   },
   "active": "6705e02df9037f25",
   "lastOpenFiles": [
+    "World/Calendar/EVENTS/Current Day.md",
+    "Attachments/Templates/Current Date Template.md",
+    "Attachments/Templates",
     "Index.canvas",
     "Campaing Overview.md",
-    "World/Calendar/EVENTS/Current Day.md",
     "World/Calendar/Days of the Week.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "World/Calendar/EVENTS",
@@ -444,7 +446,6 @@
     "Attachments/Various Icons/DnD related/icons/skill",
     "Attachments/Various Icons/DnD related/icons/proficiency",
     "Attachments/Various Icons/DnD related/icons/movement",
-    "Attachments/Various Icons/DnD related/icons/monster",
     "Attachments/Various Icons/DnD related/icons/ability/readme.md",
     "Attachments/Various Icons/DnD related/icons/README.md",
     "Pending.md",

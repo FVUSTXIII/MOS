@@ -1,7 +1,8 @@
-```te
-const {CurrentDate} = await.cJS();
-dv.list(dv.pages().file.name)
-
-
+```templater 
+<%*
+	const calendarAPI = Calendarium.getAPI("calendar-name");
+	const currentDate = calendarAPI.getCurrentDate();
+	currentDate
+%>
 
 ```
