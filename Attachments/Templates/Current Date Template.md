@@ -3,8 +3,6 @@ Date: <% Calendarium.getAPI("Calendar of Golarion").getCurrentDate().day %> / <%
 ---
 
 
-Date:  <
-Hour: 00:00
 
 
 
