@@ -362,7 +362,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -381,6 +382,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -411,7 +413,8 @@
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "6705e02df9037f25",
