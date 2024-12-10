@@ -16,7 +16,7 @@
                 "file": "Index.canvas",
                 "viewState": {
                   "x": 440,
-                  "y": -830,
+                  "y": -1211.0203685741997,
                   "zoom": -0.4496030012691888
                 }
               },
@@ -30,16 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Current Date Template.md",
+                "file": "Campaing Overview.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Current Date Template"
+              "title": "Campaing Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -418,12 +417,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6705e02df9037f25",
+  "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
-    "Sessions/03 - The witch/03 - The Witch.md",
-    "Attachments/Templates/Current Date Template.md",
-    "Index.canvas",
     "Campaing Overview.md",
+    "Attachments/Templates/Current Date Template.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Index.canvas",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/Templates",
     "World/Calendar/Days of the Week.md",
