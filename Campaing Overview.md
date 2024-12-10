@@ -1,2 +1,8 @@
+Session 1:
 
-![[03 - The Witch]] 
+**Session 2:** 
+
+**Session 3:** 
+
+![[03 - The Witch#^4d75a2]] 
+

@@ -4,9 +4,11 @@ banner_y: 0.372
 ---
 ## Recap
 
-```camp-ow
+```ad-ad-qr
 this and that
 ```
+
+^4d75a2
 
 ## Introduction
 
