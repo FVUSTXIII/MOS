@@ -32,7 +32,7 @@
               "state": {
                 "file": "Attachments/Templates/Current Date Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Current Date Template"
@@ -418,7 +418,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "6705e02df9037f25",
   "lastOpenFiles": [
     "Index.canvas",
     "Campaing Overview.md",
