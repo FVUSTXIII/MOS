@@ -11,17 +11,14 @@
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 404.290499609237,
-                  "y": -1790.9742033764674,
-                  "zoom": -0.3878451452772978
-                }
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "03 - The Witch"
             }
           }
         ]
@@ -419,12 +416,12 @@
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "Index.canvas",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters",
     "Attachments/IMG/Narrative/NPC",
     "Attachments/IMG/Narrative",
-    "Index.canvas",
     "Narrative",
     "World/Calendar/Days of the Week.md",
     "Attachments/Templates/Current Date Template.md",
