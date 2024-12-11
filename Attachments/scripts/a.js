@@ -4,3 +4,4 @@ class CoolString {
         return `😎 ${s} 😎`
     }
 }
+console.log("s")

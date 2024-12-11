@@ -409,13 +409,14 @@
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false
     }
   },
   "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
+    "Attachments/scripts/a.js",
     "Attachments/scripts/customjs.js",
     "Attachments/scripts",
     "Attachments/New folder",
@@ -444,7 +445,6 @@
     "Attachments/Various Icons/DnD related/icons/weapon",
     "Attachments/Various Icons/DnD related/icons/util",
     "Attachments/Various Icons/DnD related/icons/target",
-    "Attachments/Various Icons/DnD related/icons/spell",
     "Attachments/Various Icons/DnD related/icons/ability/readme.md",
     "Attachments/Various Icons/DnD related/icons/README.md",
     "Pending.md",
