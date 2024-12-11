@@ -11,14 +11,17 @@
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "World/Calendar/EVENTS/Current Day.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": 404.290499609237,
+                  "y": -1790.9742033764674,
+                  "zoom": -0.3878451452772978
+                }
               },
-              "icon": "lucide-file",
-              "title": "Current Day"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           }
         ]
@@ -344,7 +347,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -377,6 +381,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -406,18 +411,21 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters",
     "Attachments/IMG/Narrative/NPC",
     "Attachments/IMG/Narrative",
     "Index.canvas",
     "Narrative",
-    "World/Calendar/EVENTS/Current Day.md",
     "World/Calendar/Days of the Week.md",
     "Attachments/Templates/Current Date Template.md",
     "Sessions/03 - The witch/Untitled.md",
@@ -426,7 +434,6 @@
     "Attachments/scripts",
     "Attachments/New folder",
     "scripts/customjs.js",
-    "scripts",
     "Campaing Overview.md",
     "Untitled.md",
     "Sessions/03 - The witch/03 - The Witch.md",
