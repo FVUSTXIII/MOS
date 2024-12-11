@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8eba8faa45f9d30",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 440,
-                  "y": -1640,
-                  "zoom": -0.7211784786106311
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
-            }
-          },
-          {
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
@@ -431,10 +414,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e8eba8faa45f9d30",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
-    "World/Calendar/EVENTS/Current Day.md",
+    "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
+    "Attachments/IMG/Narrative/NPC/Important Characters",
+    "Attachments/IMG/Narrative/NPC",
+    "Attachments/IMG/Narrative",
     "Index.canvas",
+    "Narrative",
+    "World/Calendar/EVENTS/Current Day.md",
     "World/Calendar/Days of the Week.md",
     "Attachments/Templates/Current Date Template.md",
     "Sessions/03 - The witch/Untitled.md",
@@ -447,8 +435,6 @@
     "Campaing Overview.md",
     "Untitled.md",
     "Sessions/03 - The witch/03 - The Witch.md",
-    "Attachments/Templates",
-    "World/Calendar/EVENTS",
     "Untitled 1.md",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
@@ -460,18 +446,16 @@
     "Attachments/Various Icons/DnD related/icons/weapon/sickle.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/scimitar.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/rapier.svg",
-    "Attachments/Various Icons/DnD related/icons/weapon",
-    "Attachments/Various Icons/DnD related/icons/util",
     "Attachments/Various Icons/DnD related/icons/ability/readme.md",
     "Attachments/Various Icons/DnD related/icons/README.md",
     "Pending.md",
-    "NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
-    "NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
-    "NPC/Important Characters/Factions/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
-    "NPC/Important Characters/Factions/Sociedad Internacional Arcana/Bonobo Green.md",
-    "NPC/Important Characters/Factions/The Everflame/Oliver Wrynn.md",
-    "NPC/Important Characters/Factions/The Everflame/The Everflame.md",
-    "NPC/Important Characters/Bravian Soldier.md",
+    "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
+    "Narrative/NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
+    "Narrative/NPC/Important Characters/Factions/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
+    "Narrative/NPC/Important Characters/Factions/Sociedad Internacional Arcana/Bonobo Green.md",
+    "Narrative/NPC/Important Characters/Factions/The Everflame/Oliver Wrynn.md",
+    "Narrative/NPC/Important Characters/Factions/The Everflame/The Everflame.md",
+    "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "World/Memoria/Memoria.md",
     "Mapas.canvas",
     "2024-12-09.md",
