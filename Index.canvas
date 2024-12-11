@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"83cd138d5aa97bcb","type":"file","file":"Campaing Overview.md","x":-400,"y":-1820,"width":520,"height":620},
 		{"id":"6a8d47d47da52638","type":"file","file":"World/Calendar/EVENTS/Current Day.md","x":120,"y":-2200,"width":720,"height":260},
-		{"id":"90861ee94be54290","type":"file","file":"Pending.md","x":820,"y":-1840,"width":500,"height":620}
+		{"id":"7f3e5e6f8aed4079","x":180,"y":-1820,"width":600,"height":620,"type":"file","file":"Current Session Summary.md"},
+		{"id":"90861ee94be54290","type":"file","file":"Pending.md","x":840,"y":-1820,"width":500,"height":620}
 	],
 	"edges":[]
 }
