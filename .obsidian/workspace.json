@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "file": "World/Memoria/Bravia/Bravia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - The Witch"
+              "title": "Bravia"
             }
           }
         ]
@@ -416,8 +416,12 @@
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
-    "Sessions/03 - The witch/DC TABLES.md",
+    "World/Memoria/Bravia/Hound District/Stonewind Gate/Stonewind Gate.md",
+    "World/Memoria/Bravia/Hound District/Hound District.md",
+    "World/Memoria/Bravia/Bravia.md",
+    "World/Memoria/Memoria.md",
     "Sessions/03 - The witch/03 - The Witch.md",
+    "Sessions/03 - The witch/DC TABLES.md",
     "Index.canvas",
     "Current Session Summary.md",
     "Campaing Overview.md",
@@ -455,14 +459,11 @@
     "Narrative/NPC/Important Characters/Factions/The Everflame/Oliver Wrynn.md",
     "Narrative/NPC/Important Characters/Factions/The Everflame/The Everflame.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
-    "World/Memoria/Memoria.md",
     "Mapas.canvas",
     "2024-12-09.md",
-    "World/Memoria/Bravia/Bravia.md",
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "World/Memoria/Corentyn/Lowcot/Lowcot.md",
-    "World/Memoria/Corentyn/Paleby/Paleby.md",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
 }

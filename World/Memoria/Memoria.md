@@ -7,22 +7,25 @@ Population:
 
 
 Pending Nations
+Cedonia: 
+* Typhquarr
+* Glefshire
+* Mirhol
+* Silorn
+* Plainwallow
+* Lagoondrift
+* Honeydrift
+* Griffcalde
+* Wendgulch
+* Clavmesr
+* Pinetrensh
+* Slyhorn
+* Grottfalls
+* Bouldcorr
+* Indiggulf
+* Lunacreg
+* Estchall
+* Onyned
 
-Typhquarr
-Glefshire
-Mirhol
-Silorn
-Plainwallow
-Lagoondrift
-Honeydrift
-Griffcalde
-Wendgulch
-Clavmesr
-Pinetrensh
-Slyhorn
-Grottfalls
-Bouldcorr
-Indiggulf
-Lunacreg
-Estchall
-Onyned
+## Subentities
+
