@@ -11,14 +11,12 @@ cada hex mide 55px que equivalen a 1496.49 millas cuadradas o 3875.891307 km2
 
 
 
-Distrito Sabueso 49ae0a color de vegetacion
 
 ![](https://i.imgur.com/GPlEcfw.png)
 
 ## Districts
 
 
-## Shops
 
 # Aelient and Anas' Arcana (Trade)
 
@@ -91,18 +89,10 @@ Iron Ham cruza con Grey Stair
 
 A la zona habitacional se le llama 
 
-![](https://i.imgur.com/d6FLtlD.png)
 
-![](https://i.imgur.com/HK3xvJq.png)
 
 Stonewind gate: 
-https://www.fantasytowngenerator.com/user/settlements/7641c5c0-a907-4af4-9683-b1fd85f00ce0
-* Timber Knot
-* Egg Side
-* Renehop
-* Estklin
-* Loughack
-* Stratlum
+
 
  A la zona gastronomica se le conoce como RedBloom:
 ![](https://i.imgur.com/Hi9FP3t.png)
