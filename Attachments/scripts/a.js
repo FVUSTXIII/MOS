@@ -1,6 +1,1 @@
-
-class a {
-    coolify(s) {
-        return `😎 ${s} 😎`
-    }
-}
+console.log("hjola")

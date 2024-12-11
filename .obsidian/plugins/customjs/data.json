@@ -1,6 +1,6 @@
 {
   "jsFiles": "A.JS",
-  "jsFolder": "./ATTACHMENTS/scripts",
+  "jsFolder": "/ATTACHMENTS/scripts",
   "startupScriptNames": [],
   "registeredInvocableScriptNames": [],
   "rerunStartupScriptsOnFileChange": false
