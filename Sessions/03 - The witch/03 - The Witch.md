@@ -24,15 +24,15 @@ this and that
 ```
 
 ^fdfe1a
+## Places
 
-## Events
+### Place 1
+#### People 
+##### Person
+ * Plot Relevancy
+#### Events
 
 
-## People
-
-### Person
-
-* Plot Relevancy
 
 
 ## Plot Lines
