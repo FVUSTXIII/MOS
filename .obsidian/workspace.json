@@ -15,9 +15,9 @@
               "state": {
                 "file": "Index.canvas",
                 "viewState": {
-                  "x": 948.0731489741302,
-                  "y": -1629.9964317573595,
-                  "zoom": -0.7718045516805989
+                  "x": 985.3613143550081,
+                  "y": -1766.5182577277615,
+                  "zoom": -1.4384712183472654
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -417,7 +417,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
     "Current Session Summary.md",
     "Campaing Overview.md",
