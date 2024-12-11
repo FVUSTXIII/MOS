@@ -409,9 +409,7 @@
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e8eba8faa45f9d30",
