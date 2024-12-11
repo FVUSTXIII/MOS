@@ -11,17 +11,14 @@
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 440,
-                  "y": -1700,
-                  "zoom": -0.7211784786106311
-                }
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "03 - The Witch"
             }
           }
         ]
@@ -419,9 +416,9 @@
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
-    "Campaing Overview.md",
     "Index.canvas",
     "Sessions/03 - The witch/03 - The Witch.md",
+    "Campaing Overview.md",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters",
