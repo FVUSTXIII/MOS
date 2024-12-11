@@ -326,7 +326,7 @@
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 6,
+                    "day": 4,
                     "month": 8,
                     "year": 4720
                   },
@@ -414,7 +414,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e8eba8faa45f9d30",
+  "active": "8b8a15af0b7fd72c",
   "lastOpenFiles": [
     "World/Calendar/Days of the Week.md",
     "World/Calendar/EVENTS/Current Day.md",
