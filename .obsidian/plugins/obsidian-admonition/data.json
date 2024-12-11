@@ -12,6 +12,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "go": {
+      "type": "go",
+      "color": "17, 238, 201",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAATpJREFUSEvtldERAUEQRFsmRIJIEAkiQSSIBJHgqW11zu7cHj5NlVJ1N9s93bMzN1BdrCSNJU0kndPveD/K8zAGXQmSNnfAeSEPsmkizKZ0EUTgBoRkVCo0IsCOfYVCUhaStrnciKCmemMeklVvHBEB1aOiJoo2/YqAIrJYEQFXcFlTfvKfPvSyaCjpVEnwUZPBrlFRbHDRt1bVEcm6a5q75sBrAbu4UbM0tZfkO+/9rtcceMgA2DXAmuIAZoX4ImTVoAAwfHTkmmsl/BOuuknIO5r9ggXBNcmmAmT2GbD2JfPAUQDK5iZwIglUgMes5z7BWc7RJwge0Sbwc5TUrgmfwQH210tEBKVvQEkV/v8Jwp4XLWKhPbueIGjyL3pw9qoAjOvlm/MtgTfAqr2LPCAI+UQBw+WBfZhxA7hjUxHu3lDjAAAAAElFTkSuQmCC",
+        "type": "image"
+      },
+      "command": true,
+      "title": "General Outline",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

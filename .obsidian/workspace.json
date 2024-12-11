@@ -11,14 +11,17 @@
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": 440,
+                  "y": -1700,
+                  "zoom": -0.7211784786106311
+                }
               },
-              "icon": "lucide-file",
-              "title": "03 - The Witch"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           }
         ]
@@ -416,7 +419,9 @@
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "Campaing Overview.md",
     "Index.canvas",
+    "Sessions/03 - The witch/03 - The Witch.md",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters",
@@ -431,9 +436,7 @@
     "Attachments/scripts",
     "Attachments/New folder",
     "scripts/customjs.js",
-    "Campaing Overview.md",
     "Untitled.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Untitled 1.md",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
