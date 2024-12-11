@@ -11,14 +11,17 @@
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "World/Memoria/Bravia/Bravia.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": 470,
+                  "y": -1700,
+                  "zoom": -0.7718045516805989
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bravia"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           }
         ]
@@ -414,18 +417,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "Current Session Summary.md",
+    "Campaing Overview.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Index.canvas",
+    "World/Memoria/Bravia/Bravia.md",
     "Sessions/03 - The witch/Encounters",
     "World/Memoria/Bravia/Hound District/Hound District.md",
     "World/Memoria/Bravia/Hound District/Stonewind Gate/Stonewind Gate.md",
-    "World/Memoria/Bravia/Bravia.md",
     "World/Memoria/Memoria.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/03 - The witch/DC TABLES.md",
-    "Index.canvas",
-    "Current Session Summary.md",
-    "Campaing Overview.md",
     "World/STATE",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
@@ -438,7 +441,6 @@
     "Attachments/scripts/a.js",
     "Attachments/scripts/customjs.js",
     "Attachments/scripts",
-    "Attachments/New folder",
     "Untitled.md",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
