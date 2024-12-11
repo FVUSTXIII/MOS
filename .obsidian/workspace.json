@@ -11,17 +11,14 @@
             "id": "e8eba8faa45f9d30",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 442.4400818908015,
-                  "y": -1637.6669537016423,
-                  "zoom": -0.05451181194396448
-                }
+                "file": "World/Calendar/EVENTS/Current Day.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "Current Day"
             }
           }
         ]
@@ -329,7 +326,7 @@
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
+                    "day": 6,
                     "month": 8,
                     "year": 4720
                   },
@@ -419,16 +416,17 @@
   },
   "active": "e8eba8faa45f9d30",
   "lastOpenFiles": [
+    "World/Calendar/Days of the Week.md",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/Templates/Current Date Template.md",
+    "Sessions/03 - The witch/Untitled.md",
+    "Index.canvas",
     "Attachments/scripts/a.js",
     "Attachments/scripts/customjs.js",
     "Attachments/scripts",
     "Attachments/New folder",
     "scripts/customjs.js",
     "scripts",
-    "World/Calendar/Days of the Week.md",
-    "Index.canvas",
     "Campaing Overview.md",
     "Untitled.md",
     "Sessions/03 - The witch/03 - The Witch.md",
