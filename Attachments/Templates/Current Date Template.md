@@ -3,7 +3,8 @@ Date: <% Calendarium.getAPI("Calendar of Golarion").getCurrentDate().day %> / <%
 Time: 
 ---
 
-Date:  <% tp.frontmatter.Date %> 
+
+Date: 
 Time: 
 
 
