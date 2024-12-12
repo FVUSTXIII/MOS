@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Character/Character.md",
+                "file": "Pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Pending"
             }
           }
         ]
@@ -344,7 +344,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -377,6 +378,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -408,17 +410,18 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Character/Statblocks.md",
     "Attachments/Templates/Character/Relations.md",
     "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Theodore Fairholm.md",
     "Attachments/Templates/Character",
     "Attachments/Templates/Character/Backstory.md",
-    "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Current Date Template.md",
     "Pending.md",
     "Current Session Summary.md",
