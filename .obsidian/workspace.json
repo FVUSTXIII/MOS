@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "Current Session Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Current Session Summary"
             }
           }
         ]
@@ -416,10 +416,10 @@
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "Index.canvas",
+    "Pending.md",
     "Current Session Summary.md",
     "Campaing Overview.md",
-    "Pending.md",
-    "Index.canvas",
     "Attachments/Templates/Character.md",
     "Attachments/Templates/Current Date Template.md",
     "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Theodore Fairholm.md",
