@@ -11,14 +11,17 @@
             "id": "4579826bca741298",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Narrative/NPC/Evelyn Thorn.md",
-                "mode": "source",
-                "source": false
+                "file": "Narrative/Plot Hooks/Plot Hooks.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Evelyn Thorn"
+              "icon": "lucide-layout-dashboard",
+              "title": "Plot Hooks"
             }
           }
         ]
@@ -416,6 +419,12 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
+    "Current Session Summary.md",
+    "Campaing Overview.md",
+    "Narrative/Plot Hooks/Plot Hooks.canvas",
+    "Narrative/Plot Hooks",
+    "Narrative/NPC/Evelyn Thorn.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
     "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Quest.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
@@ -425,12 +434,9 @@
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Memoria.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
-    "Campaing Overview.md",
     "Index.canvas",
     "Sessions/03 - The witch/DC TABLES.md",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
-    "Current Session Summary.md",
     "Attachments/Templates/Character/Backstory.md",
     "Attachments/Templates/Character/Relations.md",
     "Attachments/Templates/Character/Statblocks.md",
@@ -449,7 +455,6 @@
     "World/Timeline/STATE",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
-    "Attachments/IMG/Narrative/NPC/Important Characters",
     "World/Calendar/Days of the Week.md",
     "Untitled.md",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
@@ -461,8 +466,6 @@
     "Attachments/Various Icons/DnD related/icons/README.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
     "Narrative/NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
-    "Narrative/NPC/Important Characters/Factions/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
-    "Narrative/NPC/Important Characters/Factions/Sociedad Internacional Arcana/Bonobo Green.md",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
