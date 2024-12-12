@@ -9,15 +9,19 @@ banner: ""
 banner_y: 0.244
 ---
 
+```ad-Tr
+traits
+```
 
-## Traits
+```ad-fw
+flaws
+```
 
+```ad-Bd
+bonds
+```
 
-## Flaws
-
-
-## Bonds
-
-
-## Ideals
+```ad-idl
+ideals
+```
 

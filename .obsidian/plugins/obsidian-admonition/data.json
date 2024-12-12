@@ -34,9 +34,10 @@
         "type": "image"
       },
       "command": true,
-      "title": "trAITS",
+      "title": "Traits",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "fw": {
       "type": "fw",
@@ -59,6 +60,18 @@
       },
       "command": true,
       "title": "Bonds",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "idl": {
+      "type": "idl",
+      "color": "223, 191, 32",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAY1JREFUSEvVldFRAzEMRJVOSCWBSiCVkFQCVEKoBDoJeR6vZ09n34WBfKCZm0tiybtarZ1N3Dg2N94//gXAU0ScIuKrp4Z3cB8RdwPJKGYTBZsS5L9aneeUBAegiGQV8hYrwPnMkxk7KV8rtSOAlwr0UUEd4HBZ4yF47yrw0Qg1sj0AFp9r2/sOAIwBpFve73VjciVRIzHqgCLYU8DjHcCc7/odQLoAgIBgm9nSDNwVPh8BuB80H5dvNuTsIpjBUkOUAbSx8iWV8id2XTpok1adrg1YUmhTQBYB0F56P4wOj4FB4vHiRhxELcFnuprZFP1wjwJ5AFkLWH+mJLlvdg7kf/JhsF3bva4D4AeOLspZ8RmQQJtKbCyuAPHuJ8QEgO7ytth3L68FsOzCcgECkDX8CfOMx9Alc5EJgDxcOcGt11yxIpdcqLQtAPnH3h4A6CoYYfTcdATgbBW0ReBtn8Vb+j/ogeji87VTBsD3sz+NK1xEiqRGWjmxDNk7+A2AzoIDlHPwVwCyKQC6NuIbp1p2VcbPQ3YAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": true,
+      "title": "Ideals",
       "injectColor": true,
       "noTitle": false
     }

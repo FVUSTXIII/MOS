@@ -1,6 +1,6 @@
 ---
 Description: 
-Affiliation: 'King of bravia'
+Affiliation: 
 Alignment:
 Factions:
 Location: 
@@ -9,17 +9,22 @@ banner: ""
 banner_y: 0.244
 ---
 
+```ad-Tr
+traits
+```
 
-## Traits
+```ad-fw
+flaws
+```
 
+```ad-Bd
+bonds
+```
 
-## Flaws
+```ad-idl
+ideals
+```
 
-
-## Bonds
-
-
-## Ideals
 
 
 
