@@ -25,6 +25,42 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "Tr": {
+      "type": "Tr",
+      "color": "8, 175, 64",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAfBJREFUSEudlotRwzAQRC+VQCoBKoFUAqmEUAlQCaES4Gn0PBtFIQHNeGJbp93b+zmr+n1dV9VDVd1UFfdc+36E35eqeot3R2irE/gCP55xgG2JdjOiGcHtj8evAbytqquq+uzvuH/v9yhDYRI9pVMjAcbP3QDphAA1LJ65fMYR7iHkl2fVLCRJkJ4jl2WMufeQCrQB3FDiICSobvtJ8NVB2UT6XX8GAFU4kAsgbPhVgWTLngQAwG5FbAKJfIzgbgO0DkdQIhkKNhLoPcAcgoiVORkELI+cMVw4wgUROI1AEIyolKwClZ0CN/mG01yRJ3C3EAhiWPQG40sIWijCAxTcG3IIPnrczLyd+p8QcSabdA9BVs9Bk3TjWQXNkuw7K6mVrAQHtTsEnANUkg2W4ITGgshjONp6YwyR3aqx3ckz9/QHy2KQNMN6pMA6J1nZuRiSn5yaensQ52g48ybJLsvU2WMVmfzfSnSWCxzGKXLQ+mDmqePhEnBtbNI8u56NCkYxdTwm9RyZoSRP5OtgVKgCEDYcxedAc18CJyszqpWpy5HhLKJSLvmiOS5Qrj2joxXE+MFZ6jeqR8kzNfYPIXXi5vA7IrDe/WSmmjEc5ihVLp5r/NePvh+XUQ1zbBwzzeYUgQB+PKyq8W8LcZ8CC/ANYnqbUz++F80AAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": true,
+      "title": "trAITS",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "fw": {
+      "type": "fw",
+      "color": "248, 22, 22",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAfBJREFUSEudlotRwzAQRC+VQCoBKoFUAqmEUAlQCaES4Gn0PBtFIQHNeGJbp93b+zmr+n1dV9VDVd1UFfdc+36E35eqeot3R2irE/gCP55xgG2JdjOiGcHtj8evAbytqquq+uzvuH/v9yhDYRI9pVMjAcbP3QDphAA1LJ65fMYR7iHkl2fVLCRJkJ4jl2WMufeQCrQB3FDiICSobvtJ8NVB2UT6XX8GAFU4kAsgbPhVgWTLngQAwG5FbAKJfIzgbgO0DkdQIhkKNhLoPcAcgoiVORkELI+cMVw4wgUROI1AEIyolKwClZ0CN/mG01yRJ3C3EAhiWPQG40sIWijCAxTcG3IIPnrczLyd+p8QcSabdA9BVs9Bk3TjWQXNkuw7K6mVrAQHtTsEnANUkg2W4ITGgshjONp6YwyR3aqx3ckz9/QHy2KQNMN6pMA6J1nZuRiSn5yaensQ52g48ybJLsvU2WMVmfzfSnSWCxzGKXLQ+mDmqePhEnBtbNI8u56NCkYxdTwm9RyZoSRP5OtgVKgCEDYcxedAc18CJyszqpWpy5HhLKJSLvmiOS5Qrj2joxXE+MFZ6jeqR8kzNfYPIXXi5vA7IrDe/WSmmjEc5ihVLp5r/NePvh+XUQ1zbBwzzeYUgQB+PKyq8W8LcZ8CC/ANYnqbUz++F80AAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": true,
+      "title": "Flaws",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "Bd": {
+      "type": "Bd",
+      "color": "119, 16, 148",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAadJREFUSEvFltFNA0EMRJ1OoBKgEkglhEoIlQCVQCfAW92LHJ/38hWx0umU2/WMPZ61sosrr92V8WNGcBMRzxHB+zsiXpZ3zuc+Ih6XM28R8dGcmRJ8LYECQvKQAAB/L9WTxKEq0lXwFBGvjXT7P9Lj8h1wSC7i/QsBupMh7yzRbfqNFPQoL3qAjGdr1mTKRyabjDz0gccFiU1GOs5c1iw1T+fols+liZBiAkBxD4tvJEQFVHJatQIO8gB6VxppllqYM8oIaGvVTJADkYKScRRak5n77FENoGQtOHJBauyQMxN01qOx2rFaVwkhQLK8TvdGAnWtTdL7HTkgJNA5CpzRDwm6m8khb2e92exJMLuYZwQEdCBkCFCXpeSb9yb3gCoccDYuez/7vs6dGsv+qFICg7UaWeEK3II9s+/Zw8JIowk4K6huA+sAwUxDNZ4NNvuA1nW0aJY9BDMAZMJF1YKd06yo7h0h+FlPkPHFkutQW4EsUnYjfly0zj2AoD09aAMTy1Yio8kOKueQsfYAgjx3cgXOpy7JMQy7ce2Inii3+XkVe/V/Fb+8Lns2swRI5QAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": true,
+      "title": "Bonds",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
