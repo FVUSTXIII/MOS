@@ -1,9 +1,10 @@
 ---
 Description: 
 Affiliation: 'King of bravia'
-Alignment: 
+Alignment:
+Factions:
 Location: 
-State
+State:
 ---
 
 
