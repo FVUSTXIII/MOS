@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
+                "file": "Pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Mano de Plata"
+              "title": "Pending"
             }
           }
         ]
@@ -414,18 +414,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "4579826bca741298",
   "lastOpenFiles": [
-    "Narrative/NPC/Important Characters/Nobility/Untitled",
+    "Index.canvas",
+    "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/House Myiroth.md",
+    "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
+    "Narrative/NPC/Important Characters/Nobility/Kasmereian Nobility/House Kasmaron",
+    "Narrative/NPC/Important Characters/Nobility/Kasmereian Nobility",
     "Narrative/NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/William Noffke.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Phillip Kasmaron.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Michaelo Khetill.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Celes Khetill.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
-    "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/House Myiroth.md",
     "Narrative/NPC/Important Characters/Factions/The Everflame/The Everflame.md",
-    "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
     "Narrative/NPC/Important Characters/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Narrative/NPC/Evelyn Thorn.md",
@@ -433,7 +435,6 @@
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House swanson",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm",
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility",
-    "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/Velkrys Myiroth.md",
     "Narrative/NPC/Important Characters/Nobility",
     "Campaing Overview.md",
@@ -457,8 +458,6 @@
     "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Character",
     "Templates/NPC",
-    "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm",
-    "Narrative/NPC/Relations",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/sword.svg",
