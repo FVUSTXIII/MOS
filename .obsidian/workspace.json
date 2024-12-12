@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Theodore Fairholm.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -416,8 +416,11 @@
   },
   "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
-    "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Statblocks.md",
+    "Templates/Character.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
     "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Theodore Fairholm.md",
+    "Templates/NPC",
+    "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Statblocks.md",
     "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Relations.md",
     "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm/Backstory.md",
     "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm",
@@ -427,7 +430,6 @@
     "Index.canvas",
     "Current Session Summary.md",
     "Campaing Overview.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "World/Memoria/Bravia/Bravia.md",
     "Sessions/03 - The witch/Encounters",
     "World/Memoria/Bravia/Hound District/Hound District.md",
@@ -439,7 +441,6 @@
     "Attachments/IMG/Narrative/NPC/Important Characters",
     "Attachments/IMG/Narrative/NPC",
     "Attachments/IMG/Narrative",
-    "Narrative",
     "World/Calendar/Days of the Week.md",
     "Attachments/Templates/Current Date Template.md",
     "Untitled.md",
@@ -462,7 +463,6 @@
     "Narrative/NPC/Important Characters/Factions/Sociedad Internacional Arcana/Bonobo Green.md",
     "Narrative/NPC/Important Characters/Factions/The Everflame/Oliver Wrynn.md",
     "Narrative/NPC/Important Characters/Factions/The Everflame/The Everflame.md",
-    "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]

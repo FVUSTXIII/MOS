@@ -1,10 +1,3 @@
----
-Description: 
-Affiliation: 'King of bravia'
-Alignment:
-Factions:
-Location: 
-State:
----
+2024-12-12
 
-
+'King of bravia'
