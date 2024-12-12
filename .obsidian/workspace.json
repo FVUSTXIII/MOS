@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Memoria.md",
+                "file": "Narrative/NPC/Important Characters/Bravian Royalty/Theodore Fairholm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria"
+              "title": "Theodore Fairholm"
             }
           }
         ]
@@ -414,8 +414,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "5b27f4a86c2142d2",
   "lastOpenFiles": [
+    "World/Memoria/Memoria.md",
+    "World/Timeline",
     "Index.canvas",
     "Current Session Summary.md",
     "Campaing Overview.md",
@@ -424,9 +426,8 @@
     "Sessions/03 - The witch/Encounters",
     "World/Memoria/Bravia/Hound District/Hound District.md",
     "World/Memoria/Bravia/Hound District/Stonewind Gate/Stonewind Gate.md",
-    "World/Memoria/Memoria.md",
     "Sessions/03 - The witch/DC TABLES.md",
-    "World/STATE",
+    "World/Timeline/STATE",
     "World/Calendar/EVENTS/Current Day.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters",
@@ -437,7 +438,6 @@
     "Attachments/Templates/Current Date Template.md",
     "Attachments/scripts/a.js",
     "Attachments/scripts/customjs.js",
-    "Attachments/scripts",
     "Untitled.md",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
