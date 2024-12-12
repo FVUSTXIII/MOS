@@ -1,3 +1,25 @@
-2024-12-12
+---
+Description: 
+Affiliation: 'King of bravia'
+Alignment:
+Factions:
+Location: 
+State:
+banner: ""
+banner_y: 0.244
+---
 
-'King of bravia'
+
+## Traits
+
+
+## Flaws
+
+
+## Bonds
+
+
+## Ideals
+
+
+
