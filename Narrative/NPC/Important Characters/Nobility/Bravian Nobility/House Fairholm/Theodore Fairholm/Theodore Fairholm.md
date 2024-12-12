@@ -3,7 +3,6 @@ Description:
 Affiliation: 
 Alignment:
 Location: 
-Factions:
 Titles:
 State:
 banner: ""
