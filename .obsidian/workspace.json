@@ -11,17 +11,14 @@
             "id": "5b27f4a86c2142d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 406.8906111605453,
-                  "y": -1659.8209874478212,
-                  "zoom": -1.1051378850139322
-                }
+                "file": "World/Memoria/Memoria.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "Memoria"
             }
           }
         ]
@@ -347,7 +344,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -380,6 +378,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -410,15 +409,17 @@
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b27f4a86c2142d2",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
+    "Index.canvas",
     "Current Session Summary.md",
     "Campaing Overview.md",
     "Sessions/03 - The witch/03 - The Witch.md",
-    "Index.canvas",
     "World/Memoria/Bravia/Bravia.md",
     "Sessions/03 - The witch/Encounters",
     "World/Memoria/Bravia/Hound District/Hound District.md",
