@@ -15,3 +15,5 @@
 - [ ]  Phantom's son birthday quest
 - [ ]  Review last session notes to create recap 
 - [ ]  Make different town types templates 
+- [ ]  Finish Corentyn
+- [ ] 
