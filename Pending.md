@@ -10,6 +10,8 @@
 #pending/session3
 
 - [ ]  Felix's new bread recipe
-- [ ] Felix's bread quest
+- [ ]  Felix's bread quest
 - [ ]  Shitora's backstory
 - [ ]  Phantom's son birthday quest
+- [ ]  Review last session notes to create recap 
+- [ ]  Make different town types templates 
