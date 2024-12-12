@@ -16,4 +16,9 @@
 - [ ]  Review last session notes to create recap 
 - [ ]  Make different town types templates 
 - [ ]  Finish Corentyn
-- [ ] 
+- [ ]  Prepare Maps
+- [ ]  Prepare Locations
+- [ ]  Prepare Boards
+- [ ]  Prepare music
+- [ ]  Prepare plot 
+- [ ]  Prepare items
