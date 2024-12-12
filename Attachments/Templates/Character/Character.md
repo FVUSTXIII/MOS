@@ -26,3 +26,12 @@ bonds
 ideals
 ```
 
+---
+## Backstory
+
+
+___
+## Relations
+
+
+___
