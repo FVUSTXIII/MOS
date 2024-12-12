@@ -2,8 +2,9 @@
 Description: 
 Affiliation: 
 Alignment:
-Factions:
 Location: 
+Factions:
+Titles:
 State:
 banner: ""
 banner_y: 0.244
