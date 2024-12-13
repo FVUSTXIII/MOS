@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Landtypes reference.md",
+                "file": "Attachments/Region reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landtypes reference"
+              "title": "Region reference"
             }
           }
         ]
@@ -416,12 +416,12 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
-    "Attachments/Templates/Locations/Geographic Zone.md",
-    "Attachments/Landtypes reference.md",
-    "Attachments/Templates/Locations/Landmark.md",
-    "Attachments/Templates/Locations/Road.md",
+    "Attachments/Templates/Locations/Region.md",
     "Attachments/Templates/Locations/Location.md",
     "Attachments/Templates/Locations/Building.md",
+    "Attachments/Templates/Locations/Landmark.md",
+    "Attachments/Region reference.md",
+    "Attachments/Templates/Locations/Road.md",
     "Attachments/Templates/Locations/Town.md",
     "Attachments/Templates/Locations/Settlement.md",
     "PC/Phantom.md",

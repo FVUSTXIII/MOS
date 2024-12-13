@@ -78,10 +78,11 @@
           "5": "Polar",
           "6": "Mediterranean",
           "7": "Temperate",
-          "8": "Savanna"
+          "8": "Savanna",
+          "9": "Monsoon"
         }
       },
-      "name": "Landtype",
+      "name": "Regiontype",
       "id": "ZIAtQc",
       "path": ""
     }
@@ -92,7 +93,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.5",
+  "settingsVersion": "5.8",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
