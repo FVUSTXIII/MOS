@@ -12,8 +12,8 @@ It is a climate which at least one month has an average temperature high enough 
 
 ## **Arid**
 
+https://www.fao.org/4/t0122e/t0122e03.htm
 
-![https://www.fao.org/4/t0122e/t0122e03.htm](Arid)
 ![](https://i.imgur.com/PKcB5zZ.png)
 
 ## Humid 
