@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "Attachments/Templates/Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Items"
             }
           }
         ]
@@ -416,6 +416,8 @@
   },
   "active": "2d318045d8291496",
   "lastOpenFiles": [
+    "Pending.md",
+    "Attachments/Templates/Items.md",
     "Attachments/References/Region reference.md",
     "Attachments/References",
     "Attachments/Templates/Character/Character.md",
@@ -433,7 +435,6 @@
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
-    "Pending.md",
     "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/House Myiroth.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
