@@ -5,7 +5,9 @@
 		{"id":"8a6abdd8dcd19d19","type":"file","file":"Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927580.png","x":-467,"y":330,"width":376,"height":500},
 		{"id":"608e90b7b944aae0","type":"file","file":"Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927613.png","x":-160,"y":920,"width":400,"height":400},
 		{"id":"a826ed853ed021f2","type":"file","file":"Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927648.png","x":40,"y":330,"width":450,"height":450},
-		{"id":"d0db7f400d78c18a","x":-289,"y":-362,"width":554,"height":122,"type":"text","text":"PCs"}
+		{"id":"d0db7f400d78c18a","type":"text","text":"# PCs","x":-289,"y":-362,"width":554,"height":122},
+		{"id":"b6b685643baacada","type":"text","text":"# NPCs","x":1200,"y":-343,"width":178,"height":85},
+		{"id":"5b9109a5076e7b32","type":"file","file":"Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png","x":1139,"y":-160,"width":301,"height":400}
 	],
 	"edges":[]
 }

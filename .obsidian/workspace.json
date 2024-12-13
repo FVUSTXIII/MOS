@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6ec1eb8cedba7a",
+        "id": "015de0ab7600378c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d318045d8291496",
+            "id": "1169eb8a5a0b1954",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Various Icons/Character Icons/Characters.canvas",
-                "viewState": {
-                  "x": 329.24526344313654,
-                  "y": 477.58076621018796,
-                  "zoom": -1.389132691137758
-                }
+                "file": "Attachments/Templates/Locations/Location.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Characters"
+              "icon": "lucide-file",
+              "title": "Location"
             }
           }
         ]
@@ -417,11 +414,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2d318045d8291496",
+  "active": "1169eb8a5a0b1954",
   "lastOpenFiles": [
+    "Attachments/Templates/Locations/Region.md",
+    "Attachments/Templates/Locations/Building.md",
+    "Attachments/Templates/Locations/Landmark.md",
+    "Attachments/Templates/Locations/Location.md",
+    "Attachments/Templates/Current Date Template.md",
+    "Attachments/References/Region reference.md",
+    "Attachments/Various Icons/Character Icons/Characters.canvas",
+    "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters",
-    "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs",
     "Attachments/IMG/Attachments/Various Icons/Character Icons",
@@ -439,14 +444,9 @@
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/Templates/Items.md",
     "Pending.md",
-    "Attachments/References/Region reference.md",
     "Attachments/References",
     "Attachments/Templates/Character/Character.md",
     "Arid.md",
-    "Attachments/Templates/Locations/Region.md",
-    "Attachments/Templates/Locations/Location.md",
-    "Attachments/Templates/Locations/Building.md",
-    "Attachments/Templates/Locations/Landmark.md",
     "Attachments/Templates/Locations/Road.md",
     "Attachments/Templates/Locations/Town.md",
     "Attachments/Templates/Locations/Settlement.md",
@@ -465,8 +465,6 @@
     "Attachments/IMG/Memoria/Corentyn/Corentyn/IMG-20241130142253634.svg",
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
-    "Attachments/IMG/Mapas/IMG-20241123160632799.png",
-    "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
