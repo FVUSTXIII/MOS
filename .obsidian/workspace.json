@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Phantom.md",
+                "file": "Attachments/Templates/Locations/Building.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phantom"
+              "title": "Building"
             }
           }
         ]
@@ -416,10 +416,17 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
+    "Attachments/Templates/Locations/City.md",
+    "Attachments/Templates/Locations/Building.md",
+    "Attachments/Templates/Locations/Town.md",
+    "Attachments/Templates/Locations/Settlement.md",
+    "Attachments/Templates/Locations/Landmark.md",
+    "Attachments/Templates/Locations/Geographic Zone.md",
+    "PC/Phantom.md",
+    "Attachments/Templates/Locations",
     "Narrative/NPC/Evelyn Thorn.md",
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/03 - The witch/03 - The Witch.md",
-    "PC/Phantom.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Pending.md",
     "Index.canvas",
@@ -445,20 +452,13 @@
     "Current Session Summary.md",
     "Narrative/Plot Hooks",
     "Attachments/Templates/Character/Character.md",
-    "Attachments/Templates/Quest.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
     "Attachments/IMG/Memoria/Corentyn/Corentyn/IMG-20241130142253634.svg",
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
-    "World/Memoria/Corentyn/Corentyn.md",
-    "World/Memoria/Memoria.md",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
-    "Attachments/Templates/Character/Backstory.md",
-    "Attachments/Templates/Character/Relations.md",
-    "Attachments/Templates/Character/Statblocks.md",
     "Attachments/Templates/Character",
-    "Templates/NPC",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
     "Attachments/Various Icons/DnD related/icons/weapon/sword.svg",
