@@ -25,7 +25,7 @@
     ".excalidraw.md"
   ],
   "fileIndexingExcludedRegex": [],
-  "frontmatterOnly": false,
+  "frontmatterOnly": true,
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
   "autoInsertFieldsAtFileClassInsertion": false,
