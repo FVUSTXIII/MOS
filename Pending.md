@@ -12,6 +12,7 @@
 	- [ ]  make "important organizations folder" 
 	- [ ]  group all npc under the same npc level folder 
 - [ ]  Define plot hook folder structure
+- [ ]  Finish Region Reference
 
 #pending/session3
 
