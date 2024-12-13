@@ -1,5 +1,7 @@
 ## **Tundra**
 
+It is a climate which at least one month has an average temperature high enough to melt snow (0 °C [32 °F]), but no month with an average temperature in excess of 10 °C (50 °F). If the climate occurs at high elevations, it is known as alpine climate.
+
 ![](https://i.imgur.com/QRiX47R.png)
 
 ![](https://i.imgur.com/bCCPY2Z.png)
