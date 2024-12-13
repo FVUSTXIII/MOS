@@ -11,14 +11,17 @@
             "id": "2d318045d8291496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Various Icons/Character Icons/PCs/Characters.canvas",
+                "viewState": {
+                  "x": 62.1793320973797,
+                  "y": 713.6964570328545,
+                  "zoom": -1.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "03 - The Witch"
+              "icon": "lucide-layout-dashboard",
+              "title": "Characters"
             }
           }
         ]
@@ -344,7 +347,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -377,6 +381,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -406,11 +411,29 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "2d318045d8291496",
   "lastOpenFiles": [
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons",
+    "Attachments/IMG/Attachments/Various Icons",
+    "Attachments/IMG/Attachments",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161242860.png",
+    "Attachments/Various Icons/Character Icons/PCs/Characters.canvas",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161243382.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161209225.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161216966.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161242334.png",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Attachments/Various Icons/Character Icons/PCs",
+    "Attachments/Various Icons/Character Icons/NPCS",
+    "Attachments/Various Icons/Character Icons",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/Templates/Items.md",
@@ -429,35 +452,22 @@
     "PC/Phantom.md",
     "Attachments/Templates/Locations",
     "Sessions/03 - The witch/DC TABLES.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/House Myiroth.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
     "Narrative/NPC/Important Characters/Nobility/Kasmereian Nobility/House Kasmaron",
-    "Narrative/NPC/Important Characters/Nobility/Kasmereian Nobility",
     "Narrative/NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/William Noffke.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Phillip Kasmaron.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Michaelo Khetill.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Celes Khetill.md",
     "Narrative/NPC/Important Characters/Factions/The Everflame/The Everflame.md",
-    "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House swanson",
-    "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm",
-    "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility",
-    "Narrative/NPC/Important Characters/Nobility",
-    "Narrative/Plot Hooks",
-    "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
     "Attachments/IMG/Memoria/Corentyn/Corentyn/IMG-20241130142253634.svg",
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
-    "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",
-    "Attachments/Various Icons/DnD related/icons/weapon/trident.svg",
-    "Attachments/Various Icons/DnD related/icons/weapon/sword.svg",
-    "Attachments/Various Icons/DnD related/icons/weapon/strike.svg",
-    "Attachments/Various Icons/DnD related/icons/weapon/staff.svg",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
