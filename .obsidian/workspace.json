@@ -11,17 +11,14 @@
             "id": "2d318045d8291496",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Various Icons/Character Icons/PCs/Characters.canvas",
-                "viewState": {
-                  "x": 62.1793320973797,
-                  "y": 713.6964570328545,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "Narrative/NPC/Evelyn Thorn.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Characters"
+              "icon": "lucide-file",
+              "title": "Evelyn Thorn"
             }
           }
         ]
@@ -419,13 +416,13 @@
   },
   "active": "2d318045d8291496",
   "lastOpenFiles": [
+    "Attachments/Various Icons/Character Icons/PCs/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs",
     "Attachments/IMG/Attachments/Various Icons/Character Icons",
     "Attachments/IMG/Attachments/Various Icons",
     "Attachments/IMG/Attachments",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161242860.png",
-    "Attachments/Various Icons/Character Icons/PCs/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161243382.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161209225.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161216966.png",
@@ -456,7 +453,6 @@
     "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/House Myiroth.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
-    "Narrative/NPC/Important Characters/Nobility/Kasmereian Nobility/House Kasmaron",
     "Narrative/NPC/Important Characters/Factions/La Hermandad de la Agonía Sagrada/La Hermandad de la Agonía Sagrada.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/William Noffke.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Phillip Kasmaron.md",
