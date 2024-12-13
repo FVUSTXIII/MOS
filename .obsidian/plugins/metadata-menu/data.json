@@ -9,6 +9,25 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
+          "1": "Street",
+          "2": "Avenue",
+          "3": "Road",
+          "4": "alley"
+        }
+      },
+      "name": "RoadType",
+      "id": "slMy76",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
           "1": "City",
           "2": "District",
           "3": "Settlement",
@@ -52,14 +71,18 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Street",
-          "2": "Avenue",
-          "3": "Road",
-          "4": "alley"
+          "1": "Tundra",
+          "2": "Arid",
+          "3": "Humid",
+          "4": "Tropical",
+          "5": "Polar",
+          "6": "Mediterranean",
+          "7": "Temperate",
+          "8": "Savanna"
         }
       },
-      "name": "RoadType",
-      "id": "slMy76",
+      "name": "Landtype",
+      "id": "ZIAtQc",
       "path": ""
     }
   ],
@@ -69,7 +92,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.4",
+  "settingsVersion": "5.5",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
