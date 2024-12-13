@@ -13,6 +13,7 @@
 	- [ ]  group all npc under the same npc level folder 
 - [ ]  Define plot hook folder structure
 - [ ]  Finish Region Reference
+- [ ]  Research Military things in pathfinder to add to nations
 
 #pending/session3
 

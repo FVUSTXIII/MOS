@@ -6,12 +6,13 @@ Population:
 Inner Entities: 
 Region: 
 Foundation Date:
+banner: "https://i.imgur.com/8S68LrA.png"
+banner_y: 0.428
 ---
 
 cada hex mide 55px que equivalen a 1496.49 millas cuadradas o 3875.891307 km2
 
 ![](https://i.imgur.com/bNj4bul.png)
-
 
 
 
