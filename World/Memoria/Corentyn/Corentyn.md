@@ -3,14 +3,12 @@ LocationType: Nation
 Population: 5800
 Political Organization: 
 Foundation Date: 
-Inner entities: 
+Inner entities: 10
 Region: 
 Surface: 34288.853 km2
-banner: "https://i.imgur.com/8S68LrA.png"
-banner_y: 0.316
+banner: "https://i.imgur.com/OZXIyxb.png"
+banner_y: 0.372
 ---
-
-
 
 
 ```leaflet
