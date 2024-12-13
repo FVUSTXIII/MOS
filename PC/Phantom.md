@@ -6,8 +6,8 @@ Location:
 Factions:
 Titles:
 State:
-banner: "https://i.imgur.com/ECebwdM.jpeg"
-banner_y: 0.068
+banner: "https://i.imgur.com/7mOGEsA.png"
+banner_y: 0.1
 ---
 
 ```ad-Tr
@@ -35,3 +35,4 @@ ___
 
 
 ___
+
