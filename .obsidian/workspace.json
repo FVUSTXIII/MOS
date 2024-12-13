@@ -11,14 +11,17 @@
             "id": "1169eb8a5a0b1954",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "World/Memoria/Bravia/Bravia.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Various Icons/Character Icons/Characters.canvas",
+                "viewState": {
+                  "x": 486.5,
+                  "y": 479,
+                  "zoom": -0.9435724302350373
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bravia"
+              "icon": "lucide-layout-dashboard",
+              "title": "Characters"
             }
           },
           {
