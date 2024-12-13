@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/NPC/Evelyn Thorn.md",
+                "file": "PC/Phantom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evelyn Thorn"
+              "title": "Phantom"
             }
           }
         ]
@@ -416,8 +416,9 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
-    "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Narrative/NPC/Evelyn Thorn.md",
+    "PC/Phantom.md",
+    "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Pending.md",
     "Index.canvas",
@@ -456,7 +457,6 @@
     "Attachments/Templates/Character/Backstory.md",
     "Attachments/Templates/Character/Relations.md",
     "Attachments/Templates/Character/Statblocks.md",
-    "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Character",
     "Templates/NPC",
     "Attachments/Various Icons/DnD related/icons/weapon/whip.svg",

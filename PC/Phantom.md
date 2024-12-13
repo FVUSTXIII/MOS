@@ -1,0 +1,37 @@
+---
+Description: 
+Affiliation: 
+Alignment:
+Location: 
+Factions:
+Titles:
+State:
+banner: "https://i.imgur.com/ECebwdM.jpeg"
+banner_y: 0.068
+---
+
+```ad-Tr
+traits
+```
+
+```ad-fw
+flaws
+```
+
+```ad-Bd
+bonds
+```
+
+```ad-idl
+ideals
+```
+
+---
+## Backstory
+
+
+___
+## Relations
+
+
+___
