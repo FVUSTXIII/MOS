@@ -11,14 +11,17 @@
             "id": "2d318045d8291496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Narrative/NPC/Evelyn Thorn.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Various Icons/Character Icons/Characters.canvas",
+                "viewState": {
+                  "x": 329.24526344313654,
+                  "y": 477.58076621018796,
+                  "zoom": -1.389132691137758
+                }
               },
-              "icon": "lucide-file",
-              "title": "Evelyn Thorn"
+              "icon": "lucide-layout-dashboard",
+              "title": "Characters"
             }
           }
         ]
@@ -416,23 +419,24 @@
   },
   "active": "2d318045d8291496",
   "lastOpenFiles": [
-    "Attachments/Various Icons/Character Icons/PCs/Characters.canvas",
+    "Narrative/NPC/Evelyn Thorn.md",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters",
+    "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs",
     "Attachments/IMG/Attachments/Various Icons/Character Icons",
     "Attachments/IMG/Attachments/Various Icons",
     "Attachments/IMG/Attachments",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161242860.png",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161243382.png",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161209225.png",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161216966.png",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters/IMG-20241213161242334.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927507.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927580.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927648.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927613.png",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Attachments/Various Icons/Character Icons/PCs",
     "Attachments/Various Icons/Character Icons/NPCS",
     "Attachments/Various Icons/Character Icons",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
-    "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/Templates/Items.md",
     "Pending.md",
     "Attachments/References/Region reference.md",
@@ -447,7 +451,6 @@
     "Attachments/Templates/Locations/Town.md",
     "Attachments/Templates/Locations/Settlement.md",
     "PC/Phantom.md",
-    "Attachments/Templates/Locations",
     "Sessions/03 - The witch/DC TABLES.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
     "Index.canvas",
