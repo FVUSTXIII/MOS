@@ -9,14 +9,19 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Street",
-          "2": "Avenue",
-          "3": "Road",
-          "4": "alley"
+          "1": "Tundra",
+          "2": "Arid",
+          "3": "Humid",
+          "4": "Tropical",
+          "5": "Polar",
+          "6": "Mediterranean",
+          "7": "Temperate",
+          "8": "Savanna",
+          "9": "Monsoon"
         }
       },
-      "name": "RoadType",
-      "id": "slMy76",
+      "name": "Regiontype",
+      "id": "ZIAtQc",
       "path": ""
     },
     {
@@ -28,17 +33,14 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "City",
-          "2": "District",
-          "3": "Settlement",
-          "4": "Town",
-          "5": "Neighborhood",
-          "6": "Country",
-          "7": "Continent"
+          "1": "Street",
+          "2": "Avenue",
+          "3": "Road",
+          "4": "alley"
         }
       },
-      "name": "LocationType",
-      "id": "t1B6dL",
+      "name": "RoadType",
+      "id": "slMy76",
       "path": ""
     },
     {
@@ -71,19 +73,17 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Tundra",
-          "2": "Arid",
-          "3": "Humid",
-          "4": "Tropical",
-          "5": "Polar",
-          "6": "Mediterranean",
-          "7": "Temperate",
-          "8": "Savanna",
-          "9": "Monsoon"
+          "1": "City",
+          "2": "District",
+          "3": "Settlement",
+          "4": "Town",
+          "5": "Neighborhood",
+          "6": "Nation",
+          "7": "Continent"
         }
       },
-      "name": "Regiontype",
-      "id": "ZIAtQc",
+      "name": "LocationType",
+      "id": "t1B6dL",
       "path": ""
     }
   ],
@@ -93,7 +93,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.8",
+  "settingsVersion": "5.9",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

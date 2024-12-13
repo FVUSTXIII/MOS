@@ -1,5 +1,5 @@
 ---
-LocationType: Country
+LocationType: Nation
 Surface: 99656 Miles 2  - 258107.855 km2
 Political Organization: 
 Population: 
@@ -7,7 +7,7 @@ Inner Entities:
 Region: 
 Foundation Date:
 banner: "https://i.imgur.com/8S68LrA.png"
-banner_y: 0.428
+banner_y: 0.316
 ---
 
 cada hex mide 55px que equivalen a 1496.49 millas cuadradas o 3875.891307 km2
