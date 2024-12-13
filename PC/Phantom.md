@@ -7,7 +7,7 @@ Factions:
 Titles:
 State:
 banner: "https://i.imgur.com/3eX9pnx.jpeg"
-banner_y: 0.132
+banner_y: 0.14
 ---
 
 ```ad-Tr
