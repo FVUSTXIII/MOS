@@ -1,8 +1,9 @@
 ---
 LocationType: 
 Population: 
-political affiliation: 
-Founded In: 
-Dependencies: 
-Region:
+Political Organization: 
+Foundation Date: 
+Inner entities: 
+Region: 
+Surface:
 ---
