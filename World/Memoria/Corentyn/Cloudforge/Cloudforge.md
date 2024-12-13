@@ -1,6 +1,6 @@
 ---
 Surface: 
-Population: "250"
+Population: 250
 Inner Entities: 
 Government:
 ---

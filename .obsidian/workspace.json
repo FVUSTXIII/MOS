@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Corentyn/Lowcot/Lowcot.md",
+                "file": "World/Memoria/Corentyn/Corentyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lowcot"
+              "title": "Corentyn"
             }
           },
           {
@@ -430,9 +430,9 @@
   },
   "active": "1169eb8a5a0b1954",
   "lastOpenFiles": [
-    "World/Memoria/Corentyn/Paleby/Paleby.md",
-    "World/Memoria/Corentyn/Lowcot/Lowcot.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
+    "World/Memoria/Corentyn/Lowcot/Lowcot.md",
+    "World/Memoria/Corentyn/Paleby/Paleby.md",
     "World/Memoria/Corentyn/Corentyn.md",
     "Current Session Summary.md",
     "Index.canvas",
