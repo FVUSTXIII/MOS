@@ -40,3 +40,16 @@
 ![](https://i.imgur.com/kUnmNLT.png)
 
 ![](https://i.imgur.com/hHTcK3i.png)
+
+
+## **Temperate**
+
+![](https://i.imgur.com/1WYmPMW.png)
+![](https://i.imgur.com/l7Hka7s.png)
+
+![](https://i.imgur.com/O7XxNFf.png)
+
+## **Savanna**
+
+![](https://i.imgur.com/4ZMFKLK.png)
+![](https://i.imgur.com/ndzuYB5.png)

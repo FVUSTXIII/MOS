@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "765f1285e6e47090",
+        "id": "f493ef74a1fe234b",
         "type": "tabs",
         "children": [
           {
-            "id": "4579826bca741298",
+            "id": "237e0412d580ee63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -414,13 +414,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4579826bca741298",
+  "active": "237e0412d580ee63",
   "lastOpenFiles": [
+    "Attachments/Region reference.md",
     "Attachments/Templates/Locations/Region.md",
     "Attachments/Templates/Locations/Location.md",
     "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Locations/Landmark.md",
-    "Attachments/Region reference.md",
     "Attachments/Templates/Locations/Road.md",
     "Attachments/Templates/Locations/Town.md",
     "Attachments/Templates/Locations/Settlement.md",
