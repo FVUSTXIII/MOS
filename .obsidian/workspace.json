@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Locations/City.md",
-                "mode": "source",
+                "file": "Attachments/Templates/Locations/Location.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City"
+              "title": "Location"
             }
           }
         ]
@@ -416,12 +416,12 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
-    "Attachments/Templates/Locations/Geographic Zone.md",
-    "Attachments/Templates/Locations/Landmark.md",
-    "Attachments/Templates/Locations/Settlement.md",
-    "Attachments/Templates/Locations/City.md",
-    "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Locations/Town.md",
+    "Attachments/Templates/Locations/Settlement.md",
+    "Attachments/Templates/Locations/Location.md",
+    "Attachments/Templates/Locations/Landmark.md",
+    "Attachments/Templates/Locations/Geographic Zone.md",
+    "Attachments/Templates/Locations/Building.md",
     "PC/Phantom.md",
     "Attachments/Templates/Locations",
     "Narrative/NPC/Evelyn Thorn.md",

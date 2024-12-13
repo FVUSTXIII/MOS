@@ -20,6 +20,28 @@
       "name": "Buildingtype",
       "id": "ug3qsq",
       "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "City",
+          "2": "District",
+          "3": "Settlement",
+          "4": "Town",
+          "5": "Neighborhood",
+          "6": "Country",
+          "7": "Continent"
+        }
+      },
+      "name": "LocationType",
+      "id": "t1B6dL",
+      "path": ""
     }
   ],
   "fileClassQueries": [],
@@ -28,7 +50,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.1",
+  "settingsVersion": "5.2",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
