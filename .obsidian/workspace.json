@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Attachments/Templates/Locations/Building.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -344,7 +344,8 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_6a3a5b2959f8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -377,6 +378,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_6a3a5b2959f8",
                 "parent": "ID_fab95b49890b"
               },
@@ -408,7 +410,8 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
       "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "4579826bca741298",

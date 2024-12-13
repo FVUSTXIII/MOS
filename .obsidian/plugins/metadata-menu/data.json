@@ -1,12 +1,34 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Government",
+          "2": "Religious",
+          "3": "Social",
+          "4": "Business",
+          "5": "Crime",
+          "6": "Military"
+        }
+      },
+      "name": "Buildingtype",
+      "id": "ug3qsq",
+      "path": ""
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.0",
+  "settingsVersion": "5.1",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
