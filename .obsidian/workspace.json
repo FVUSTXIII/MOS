@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Locations/Location.md",
+                "file": "Attachments/Templates/Locations/Geographic Zone.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Location"
+              "title": "Geographic Zone"
             }
           }
         ]
@@ -416,12 +416,13 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
-    "Attachments/Templates/Locations/Town.md",
-    "Attachments/Templates/Locations/Settlement.md",
-    "Attachments/Templates/Locations/Location.md",
     "Attachments/Templates/Locations/Landmark.md",
+    "Attachments/Templates/Locations/Road.md",
+    "Attachments/Templates/Locations/Location.md",
     "Attachments/Templates/Locations/Geographic Zone.md",
     "Attachments/Templates/Locations/Building.md",
+    "Attachments/Templates/Locations/Town.md",
+    "Attachments/Templates/Locations/Settlement.md",
     "PC/Phantom.md",
     "Attachments/Templates/Locations",
     "Narrative/NPC/Evelyn Thorn.md",
@@ -451,7 +452,6 @@
     "Campaing Overview.md",
     "Current Session Summary.md",
     "Narrative/Plot Hooks",
-    "Attachments/Templates/Character/Character.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
     "Attachments/IMG/Memoria/Corentyn/Corentyn/IMG-20241130142253634.svg",
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",

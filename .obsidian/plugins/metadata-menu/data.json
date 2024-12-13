@@ -1,6 +1,28 @@
 {
   "presetFields": [
     {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "City",
+          "2": "District",
+          "3": "Settlement",
+          "4": "Town",
+          "5": "Neighborhood",
+          "6": "Country",
+          "7": "Continent"
+        }
+      },
+      "name": "LocationType",
+      "id": "t1B6dL",
+      "path": ""
+    },
+    {
       "type": "Multi",
       "tagName": "multi",
       "icon": "bullet-list",
@@ -30,17 +52,14 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "City",
-          "2": "District",
-          "3": "Settlement",
-          "4": "Town",
-          "5": "Neighborhood",
-          "6": "Country",
-          "7": "Continent"
+          "1": "Street",
+          "2": "Avenue",
+          "3": "Road",
+          "4": "alley"
         }
       },
-      "name": "LocationType",
-      "id": "t1B6dL",
+      "name": "RoadType",
+      "id": "slMy76",
       "path": ""
     }
   ],
@@ -50,7 +69,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.2",
+  "settingsVersion": "5.4",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
