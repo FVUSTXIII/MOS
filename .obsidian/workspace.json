@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "Narrative/NPC/Evelyn Thorn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Evelyn Thorn"
             }
           }
         ]
@@ -416,6 +416,10 @@
   },
   "active": "4579826bca741298",
   "lastOpenFiles": [
+    "Narrative/NPC/Important Characters/Bravian Soldier.md",
+    "Narrative/NPC/Evelyn Thorn.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Pending.md",
     "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/House Myiroth.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/La Mano de Plata.md",
@@ -429,8 +433,6 @@
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Narrative/NPC/Important Characters/Factions/The Everflame/The Everflame.md",
     "Narrative/NPC/Important Characters/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
-    "Narrative/NPC/Important Characters/Bravian Soldier.md",
-    "Narrative/NPC/Evelyn Thorn.md",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House swanson",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm",
@@ -438,7 +440,6 @@
     "Narrative/NPC/Important Characters/Nobility/Acavnian Nobility/House Myiroth/Velkrys Myiroth.md",
     "Narrative/NPC/Important Characters/Nobility",
     "Campaing Overview.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Current Session Summary.md",
     "Narrative/Plot Hooks",
     "Attachments/Templates/Character/Character.md",

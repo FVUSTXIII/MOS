@@ -11,6 +11,7 @@
 	- [ ]  "leave factions, nobility and relations"
 	- [ ]  make "important organizations folder" 
 	- [ ]  group all npc under the same npc level folder 
+- [ ]  Define plot hook folder structure
 
 #pending/session3
 
