@@ -11,17 +11,14 @@
             "id": "1169eb8a5a0b1954",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 373.3747583654302,
-                  "y": -1564.0679094411714,
-                  "zoom": -1.2737883834480546
-                }
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "03 - The Witch"
             }
           },
           {
@@ -266,9 +263,9 @@
   },
   "active": "1169eb8a5a0b1954",
   "lastOpenFiles": [
+    "Index.canvas",
     "Narrative/Quests/Lost lambs.md",
     "Pending.md",
-    "Index.canvas",
     "Narrative/Quests",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Campaing Overview.md",
