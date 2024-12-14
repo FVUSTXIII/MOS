@@ -12,7 +12,7 @@ banner_y: 0.068
 * Shitora llega a Bravia, escucha a unos guardias hablar sobre como una evidencia fue robada, le preguntaran al joven dragonborn acerca de esto cuando despierte.
 * Phantom y Shitora se conocen en el hospital. Una explosión a lo lejos.
 * Cuando van hacia ella se encuentran con Felix, Ashe y Zenshin. 
-* Les explican la situación. 
+* Les explican la situación. Faltan 3 personas por encontrar (Reynald Whytecliff, Baynard Westmayne y Amiria Davis)
 ```
 
 ^4d75a2
