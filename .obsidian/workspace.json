@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1169eb8a5a0b1954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PC/Phantom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phantom"
-            }
-          },
-          {
             "id": "918400194b89eeca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Locations/Location.md",
+                "file": "Narrative/Quests/Lost lambs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Location"
+              "title": "Lost lambs"
             }
           }
         ]
@@ -261,12 +247,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1169eb8a5a0b1954",
+  "active": "918400194b89eeca",
   "lastOpenFiles": [
+    "Attachments/References/Images to be used.md",
+    "Attachments/Templates/Locations/Location.md",
+    "Attachments/Various Icons/Character Icons/Characters.canvas",
+    "Index.canvas",
+    "PC/Phantom.md",
     "PC/Ashe Lightborn.md",
     "Current Session Summary.md",
     "Campaing Overview.md",
-    "Index.canvas",
     "Pending.md",
     "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Quest.md",
@@ -274,7 +264,6 @@
     "Attachments/Templates/Locations/Landmark.md",
     "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Character/Character.md",
-    "Attachments/References/Images to be uploaded.md",
     "Attachments/References/Region reference.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
@@ -286,17 +275,14 @@
     "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/02 - Corentyn Forest/01 - Introducción.md",
-    "PC/Phantom.md",
     "Narrative/Quests/Lost lambs.md",
     "Narrative/Quests",
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "World/Memoria/Corentyn/Lowcot/Lowcot.md",
     "World/Memoria/Corentyn/Paleby/Paleby.md",
-    "Attachments/Various Icons/Character Icons/Characters.canvas",
     "World/Memoria/Bravia/Bravia.md",
     "World/Memoria/Bravia/Hound District/Hound District.md",
-    "Attachments/Templates/Locations/Location.md",
     "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
