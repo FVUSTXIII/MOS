@@ -1,5 +1,5 @@
 {
-  "todoPageName": "pending",
+  "todoPageName": "pending\nquests",
   "showChecked": false,
   "showAllTodos": false,
   "autoRefresh": true,
@@ -10,6 +10,8 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "Pending.md"
+  ],
   "_hiddenTags": []
 }

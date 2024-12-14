@@ -7,7 +7,8 @@
 		{"id":"64fa0d1174d77554","type":"text","text":"Players","x":1540,"y":-2810,"width":400,"height":50},
 		{"id":"3b997c3cd9f6228a","type":"text","text":"NPCs","x":2020,"y":-2810,"width":400,"height":50},
 		{"id":"fd7375ddf1396aa1","type":"text","text":"Special Treasure","x":2500,"y":-2810,"width":480,"height":50},
-		{"id":"f7eec30e4082dc7e","x":-1280,"y":-2200,"width":480,"height":80,"type":"text","text":"# Ongoing Quests\n"}
+		{"id":"f7eec30e4082dc7e","type":"text","text":"# Ongoing Quests\n","x":-1280,"y":-2200,"width":480,"height":80},
+		{"id":"1d03de3e336e75f4","x":-1280,"y":-2020,"width":480,"height":580,"type":"file","file":"Narrative/Quests/Lost lambs.md"}
 	],
 	"edges":[]
 }

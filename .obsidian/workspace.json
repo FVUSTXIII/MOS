@@ -11,14 +11,17 @@
             "id": "1169eb8a5a0b1954",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Narrative/Quests/Lost lambs.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": 373.3747583654302,
+                  "y": -1564.0679094411714,
+                  "zoom": -1.2737883834480546
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lost lambs"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           },
           {
@@ -102,64 +105,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee3e9a7a1dc8908d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "01 - The wizard who never was/Introducción.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Introducción"
-            }
-          },
-          {
-            "id": "ef4183dcbd44b75e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "01 - The wizard who never was/Introducción.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Introducción"
-            }
-          },
-          {
-            "id": "48a88a6dae47c019",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a354fc19d4cd3c10",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "World/Provisional Bravia.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Provisional Bravia"
-            }
-          },
-          {
             "id": "7e4503cb317ca625",
             "type": "leaf",
             "state": {
@@ -214,11 +159,10 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb",
-                "child": "ID_29d8fb3b2b7a"
+                "id": "ID_f98948bbbabb"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -262,76 +206,6 @@
             }
           },
           {
-            "id": "ade07a296f7009da",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "6dae8521e6d28ff4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_d94adb2ad919",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 2,
-                    "month": 8,
-                    "year": 4720
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 2,
-                    "month": 8,
-                    "year": 4720
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_98fbabf8e91b",
-                "child": "ID_6ab9c9d98809"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "60eae73b0413b9a8",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_d94adb2ad919",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 4,
-                    "month": 8,
-                    "year": 4720
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayAbsoluteYear": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_987b980a9aea"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
             "id": "8b8a15af0b7fd72c",
             "type": "leaf",
             "state": {
@@ -339,11 +213,7 @@
               "state": {
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 4,
-                    "month": 8,
-                    "year": 4720
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 6,
@@ -364,43 +234,9 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "d182abd2440e9796",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
           }
         ],
-        "currentTab": 15
-      },
-      {
-        "id": "ac1faf9786336692",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a05b2839c082b823",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_d94adb2ad919",
-                "id": "ID_6a3a5b2959f8",
-                "parent": "ID_fab95b49890b"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -430,8 +266,9 @@
   },
   "active": "1169eb8a5a0b1954",
   "lastOpenFiles": [
-    "Index.canvas",
     "Narrative/Quests/Lost lambs.md",
+    "Pending.md",
+    "Index.canvas",
     "Narrative/Quests",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Campaing Overview.md",
@@ -447,7 +284,6 @@
     "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/Templates/Quest.md",
     "Narrative/NPC/Important Characters/Bravian Soldier.md",
-    "Pending.md",
     "Attachments/Templates/Locations/Region.md",
     "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Locations/Landmark.md",
