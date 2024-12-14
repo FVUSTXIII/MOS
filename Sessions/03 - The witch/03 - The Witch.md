@@ -1,9 +1,7 @@
 ---
 banner: "https://i.imgur.com/mNHhAPT.png"
-banner_y: 0.068
+banner_y: 0.116
 ---
-
-![]()
 
 ## Recap
 
@@ -14,6 +12,7 @@ banner_y: 0.068
 * Cuando van hacia ella se encuentran con Felix, Ashe y Zenshin. 
 * Les explican la situación. Faltan 3 personas por encontrar (Reynald Whytecliff, Baynard Westmayne y Amiria Davis)
 * Viajan Hacia Pokkith. Colindando con Corentyn. Los habitantes les dicen que una creatura fue hacia el bosque pues una mujer la debilitó.   
+* 
 ```
 
 ^4d75a2
