@@ -33,6 +33,8 @@ banner_y: 0.116
 ^46a218
 
 6: 00 AM
+![](https://i.imgur.com/ALfnvMD.jpeg)
+
 
 ^fdfe1a
 ## Places
