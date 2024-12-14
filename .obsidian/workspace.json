@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "file": "PC/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - The Witch"
+              "title": "Untitled"
             }
           },
           {
@@ -263,11 +263,12 @@
   },
   "active": "1169eb8a5a0b1954",
   "lastOpenFiles": [
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "PC/Untitled.md",
     "Index.canvas",
     "Narrative/Quests/Lost lambs.md",
     "Pending.md",
     "Narrative/Quests",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Campaing Overview.md",
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
