@@ -32,6 +32,8 @@ banner_y: 0.116
 
 ^46a218
 
+6: 00 AM
+
 ^fdfe1a
 ## Places
 
@@ -55,7 +57,7 @@ Esta será la última carta que escriba, aunque sé que no espero respuesta. A l
 
 He tomado decisiones que sé que no puedes aprobar, pero cada una de ellas fue por elección propia. Trabajar para Wrynn no es algo que soporte, pero es el único camino que encuentro para hacer justicia. Bonobo nos arrebató más de lo que puedo describir. Hunter era mi amigo, mi hermano, alguien a quien respeté y admiré profundamente. Su pérdida, y la de tu hijo, son cicatrices que no dejarán de arder.
 
-Sé que he fallado, no solo a ti, sino a Hunter y a lo que alguna vez fuimos como amigos. Pero incluso en este abismo al que he descendido, te pienso. No solo como el primer amor de mi vida, sino como la mujer con quien crecí, alguien que siempre será parte de mí, sin importar qué tan lejos o irreconocibles seamos ahora.
+Sé que he fallado, no solo a ti, sino a Hunter, a la memoria de Walter y a lo que alguna vez fuimos como amigos. Pero incluso en este abismo al que he descendido, te pienso. No solo como el primer amor de mi vida, sino como la mujer con quien crecí, alguien que siempre será parte de mí, sin importar qué tan lejos o irreconocibles seamos ahora.
 
 No puedo justificar lo que he hecho ni lo que hago, pero sí puedo decirte esto: cada paso que doy es con la esperanza de que, de alguna manera, lo que pierdo sirva para reparar algo del daño que se nos hizo. Sé que no tengo redención, ni de ti ni de nadie, y no la busco. Solo quiero que sepas que nunca dejé de amarte, a ti, a lo que fuimos, y a Hunter, como el gran hombre que siempre será para mí.
 
