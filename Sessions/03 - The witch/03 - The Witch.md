@@ -14,7 +14,7 @@ banner_y: 0.116
 * Viajan Hacia Pokkith. Colindando con Corentyn. Los habitantes les dicen que una creatura fue hacia el bosque pues una mujer la debilitó.   
 * Al vencer a la creatura un cuerpo sin vida y sin cabeza fue encontrado en el paladar de este.
 * Los heroes fueron a la villa más cercana, "starfell" donde el cuerpo fue identificado como 
-* 
+* Llegaron a un inn dentro de starfell
 ```
 
 ^4d75a2
