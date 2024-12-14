@@ -8,7 +8,9 @@ banner_y: 0.068
 ## Recap
 
 ```ad-ad-qr
-this and that
+* Phantom despierta en Ointment Healing Apothecary. 
+* Shitora llega a Bravia, escucha a unos guardias hablar sobre como una 
+* 
 ```
 
 ^4d75a2

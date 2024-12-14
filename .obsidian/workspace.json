@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Corentyn/Corentyn.md",
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corentyn"
+              "title": "03 - The Witch"
             }
           },
           {
@@ -404,7 +404,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 686.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -430,10 +430,10 @@
   },
   "active": "1169eb8a5a0b1954",
   "lastOpenFiles": [
+    "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "World/Memoria/Corentyn/Lowcot/Lowcot.md",
     "World/Memoria/Corentyn/Paleby/Paleby.md",
-    "World/Memoria/Corentyn/Corentyn.md",
     "Current Session Summary.md",
     "Index.canvas",
     "Campaing Overview.md",
