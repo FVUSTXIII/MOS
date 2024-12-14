@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "015de0ab7600378c",
+        "id": "08ccc9cac9a29ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "918400194b89eeca",
+            "id": "ee0c6ad7361de001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sessions/03 - The witch/03 - The Witch.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -211,11 +211,82 @@
                   "displayWeeks": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b",
-                "child": "ID_6a3a5b2959f8"
+                "id": "ID_fab95b49890b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d15b5b6df49b3d41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 - The Witch"
+            }
+          },
+          {
+            "id": "8d262b066f89c55c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 - The Witch"
+            }
+          },
+          {
+            "id": "f7e4a0b4e1619d03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a52b5fc806f54a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "45ba0b23eb01a337",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/03 - The witch/03 - The Witch.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03 - The Witch"
             }
           }
         ],
@@ -247,8 +318,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "918400194b89eeca",
+  "active": "ee0c6ad7361de001",
   "lastOpenFiles": [
+    "Sessions/03 - The witch/DC TABLES.md",
+    "World/Memoria/Corentyn/Corentyn.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Sessions/02 - Corentyn Forest/0 - Recap.md",
     "Index.canvas",
     "PC/Ashe Lightborn.md",
     "PC/Phantom.md",
@@ -273,11 +348,8 @@
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",
-    "Sessions/03 - The witch/03 - The Witch.md",
-    "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/02 - Corentyn Forest/01 - Introducción.md",
     "Narrative/Quests",
-    "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "World/Memoria/Corentyn/Lowcot/Lowcot.md",
     "World/Memoria/Corentyn/Paleby/Paleby.md",

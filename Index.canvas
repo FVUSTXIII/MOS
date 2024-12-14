@@ -9,9 +9,9 @@
 		{"id":"f7eec30e4082dc7e","type":"text","text":"# Ongoing Quests\n","x":-1280,"y":-2200,"width":480,"height":80},
 		{"id":"1d03de3e336e75f4","type":"file","file":"Narrative/Quests/Lost lambs.md","x":-1280,"y":-2020,"width":480,"height":580},
 		{"id":"83cd138d5aa97bcb","type":"file","file":"Campaing Overview.md","x":-400,"y":-1820,"width":520,"height":620},
-		{"id":"3c581ac3cc1d01fd","x":1540,"y":-2700,"width":400,"height":400,"type":"file","file":"PC/Ashe Lightborn.md"},
-		{"id":"bda66c976d07ec12","x":1540,"y":-2220,"width":400,"height":400,"type":"file","file":"PC/Phantom.md"},
-		{"id":"a0bcf0a0732bba0b","x":2040,"y":-2700,"width":400,"height":400,"type":"file","file":"Narrative/NPC/Evelyn Thorn.md"}
+		{"id":"bda66c976d07ec12","type":"file","file":"PC/Phantom.md","x":1540,"y":-2220,"width":400,"height":400},
+		{"id":"a0bcf0a0732bba0b","type":"file","file":"Narrative/NPC/Evelyn Thorn.md","x":2040,"y":-2700,"width":400,"height":400},
+		{"id":"3c581ac3cc1d01fd","type":"file","file":"PC/Ashe Lightborn.md","x":1540,"y":-2720,"width":420,"height":440}
 	],
 	"edges":[]
 }
