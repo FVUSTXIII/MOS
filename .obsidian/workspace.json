@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Corentyn/Starfell/Starfell.md",
+                "file": "Narrative/Plot Hooks/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starfell"
+              "title": "Untitled"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Memoria/Corentyn/Starfell/Starfell.md",
+                "file": "Narrative/Plot Hooks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Starfell"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -271,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Memoria/Corentyn/Starfell/Starfell.md",
+                "file": "Narrative/Plot Hooks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Starfell"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -312,10 +312,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Memoria/Corentyn/Starfell/Starfell.md"
+                "file": "Narrative/Plot Hooks/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Starfell"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -349,8 +349,10 @@
   },
   "active": "50867384a853d212",
   "lastOpenFiles": [
-    "World/Memoria/Corentyn/Corentyn.md",
+    "Narrative/Plot Hooks/Plot Hooks.canvas",
+    "Narrative/Plot Hooks/Untitled.md",
     "World/Memoria/Corentyn/Starfell/Starfell.md",
+    "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Corentyn/Starfell",
     "World/Memoria/Corentyn/Cloudforge/Cloudforge.md",
     "Sessions/03 - The witch/03 - The Witch.md",
@@ -384,8 +386,6 @@
     "Narrative/Quests",
     "World/Memoria/Corentyn/Lowcot/Lowcot.md",
     "World/Memoria/Corentyn/Paleby/Paleby.md",
-    "World/Memoria/Bravia/Bravia.md",
-    "World/Memoria/Bravia/Hound District/Hound District.md",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters",
@@ -397,7 +397,6 @@
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927507.png",
     "Attachments/Various Icons/Character Icons/PCs",
-    "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
