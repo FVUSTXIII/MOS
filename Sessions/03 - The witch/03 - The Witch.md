@@ -33,9 +33,8 @@ banner_y: 0.116
 ^46a218
 
 6: 00 AM
-![](https://i.imgur.com/ALfnvMD.jpeg)
 
-
+https://bagofmapping.com/gm/d9c0b2f2-22ad-4933-9a4c-51ca96ebb1e5/
 ^fdfe1a
 ## Places
 
