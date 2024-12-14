@@ -13,7 +13,7 @@ banner_y: 0.068
 * Phantom y Shitora se conocen en el hospital. Una explosión a lo lejos.
 * Cuando van hacia ella se encuentran con Felix, Ashe y Zenshin. 
 * Les explican la situación. Faltan 3 personas por encontrar (Reynald Whytecliff, Baynard Westmayne y Amiria Davis)
-* Viajan Hacia Pokkith. Colindando con Corentyn. Los habitantes les dicen que una creatura fue hacia el bosque pues una mujer la debilitó.  
+* Viajan Hacia Pokkith. Colindando con Corentyn. Los habitantes les dicen que una creatura fue hacia el bosque pues una mujer la debilitó.   
 ```
 
 ^4d75a2
