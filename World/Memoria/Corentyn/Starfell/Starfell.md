@@ -13,14 +13,3 @@ Surface:
 
 
 
-```leaflet
-id: starfell-map
-image: [[ ]]
-
-height: 500px
-minZoom: .01
-maxZoom: 1
-defaultZoom: -1
-unit: miles
-scale: .1
-```
