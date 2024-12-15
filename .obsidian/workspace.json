@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn.md",
+                "file": "Attachments/References/Images to be used.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn"
+              "title": "Images to be used"
             }
           }
         ]
@@ -312,17 +312,20 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "ee0c6ad7361de001",
   "lastOpenFiles": [
+    "PC/Ashe Lightborn.md",
     "Attachments/References/Images to be used.md",
     "Attachments/Various Icons/Character Icons/Untitled.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
-    "PC/Ashe Lightborn.md",
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Memoria.md",
     "Attachments/Templates/Dungeons",
