@@ -7,4 +7,5 @@
 - [ ]  Find Reynald Whytecliff
 - [ ]  Find Amiria Davies
 
-
+This is a list (2/3):
+- [x] item one - [ ] item two (50%) - [ ] sub item one - [x] sub item two - [x] item three
