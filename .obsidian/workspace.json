@@ -11,17 +11,14 @@
             "id": "e2fdb4f0377ba346",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": -792.472024451538,
-                  "y": -1801.0613668890862,
-                  "zoom": -0.4999608213501376
-                }
+                "file": "Pending.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "Pending"
             }
           }
         ]
@@ -226,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
+                "file": "Pending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 - The Witch"
+              "title": "Backlinks for Pending"
             }
           },
           {
@@ -286,14 +283,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md"
+                "file": "Pending.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 - The Witch"
+              "title": "Outline of Pending"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -321,8 +318,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2fdb4f0377ba346",
+  "active": "45ba0b23eb01a337",
   "lastOpenFiles": [
+    "Index.canvas",
     "Narrative/Quests/Lost lambs.md",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
     "Attachments/References/Images to be used.md",
@@ -334,7 +332,6 @@
     "World/Memoria/Corentyn/Corentyn.md",
     "World/Memoria/Memoria.md",
     "Attachments/Templates/Dungeons",
-    "Index.canvas",
     "Narrative/Plot Hooks/Untitled.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "World/Memoria/Corentyn/Starfell/Starfell.md",
@@ -361,7 +358,6 @@
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
     "Attachments/IMG/Mapas/IMG-20241123160639223.png",
-    "Sessions/02 - Corentyn Forest/01 - Introducción.md",
     "Narrative/Quests",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",

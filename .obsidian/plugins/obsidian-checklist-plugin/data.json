@@ -1,15 +1,15 @@
 {
   "todoPageName": "pending\nquests",
-  "showChecked": false,
+  "showChecked": true,
   "showAllTodos": false,
   "autoRefresh": true,
   "subGroups": false,
-  "groupBy": "page",
+  "groupBy": "tag",
   "sortDirectionItems": "new->old",
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
-  "lookAndFeel": "classic",
+  "lookAndFeel": "compact",
   "_collapsedSections": [
     "Pending.md"
   ],
