@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "08ccc9cac9a29ddd",
+        "id": "bae8cc0349f65a93",
         "type": "tabs",
         "children": [
           {
-            "id": "ee0c6ad7361de001",
+            "id": "e2fdb4f0377ba346",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Narrative/Quests/Lost lambs.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": -792.472024451538,
+                  "y": -1801.0613668890862,
+                  "zoom": -0.4999608213501376
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lost lambs"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           }
         ]
@@ -318,8 +321,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ee0c6ad7361de001",
+  "active": "e2fdb4f0377ba346",
   "lastOpenFiles": [
+    "Narrative/Quests/Lost lambs.md",
+    "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
     "Attachments/References/Images to be used.md",
     "PC/Ashe Lightborn.md",
     "Attachments/Various Icons/Character Icons/Untitled.md",
@@ -338,7 +343,6 @@
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/02 - Corentyn Forest/0 - Recap.md",
     "PC/Phantom.md",
-    "Narrative/Quests/Lost lambs.md",
     "Attachments/Templates/Locations/Location.md",
     "Current Session Summary.md",
     "Campaing Overview.md",
