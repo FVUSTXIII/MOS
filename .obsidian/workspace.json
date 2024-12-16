@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pending.md",
+                "file": "Narrative/Quests/Lost lambs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pending"
+              "title": "Backlinks for Lost lambs"
             }
           },
           {
@@ -278,7 +278,7 @@
             }
           },
           {
-            "id": "45ba0b23eb01a337",
+            "id": "64b79c46b32dc408",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -290,7 +290,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -318,10 +318,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "45ba0b23eb01a337",
+  "active": "e2fdb4f0377ba346",
   "lastOpenFiles": [
-    "Index.canvas",
     "Narrative/Quests/Lost lambs.md",
+    "Pending.md",
+    "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
     "Attachments/References/Images to be used.md",
     "PC/Ashe Lightborn.md",
@@ -343,7 +344,6 @@
     "Attachments/Templates/Locations/Location.md",
     "Current Session Summary.md",
     "Campaing Overview.md",
-    "Pending.md",
     "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Quest.md",
     "Attachments/Templates/Items.md",
