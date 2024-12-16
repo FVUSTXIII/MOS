@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/References/Images to be used.md",
+                "file": "Narrative/Quests/Lost lambs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Images to be used"
+              "title": "Lost lambs"
             }
           }
         ]
@@ -320,8 +320,8 @@
   },
   "active": "ee0c6ad7361de001",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn.md",
     "Attachments/References/Images to be used.md",
+    "PC/Ashe Lightborn.md",
     "Attachments/Various Icons/Character Icons/Untitled.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Sessions/03 - The witch/03 - The Witch.md",
