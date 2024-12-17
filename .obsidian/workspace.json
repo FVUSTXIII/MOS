@@ -16,8 +16,23 @@
               "icon": "d20",
               "title": "RPG Manager Documentation"
             }
+          },
+          {
+            "id": "051bdab6514e6796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tale of a dying world/Tale of a dying world.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tale of a dying world"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,14 +294,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pending.md"
+                "file": "Tale of a dying world/Tale of a dying world.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pending"
+              "title": "Outline of Tale of a dying world"
+            }
+          },
+          {
+            "id": "3781f960b3e9e37e",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -315,8 +340,18 @@
       "rpg-manager:RPG Manager": false
     }
   },
-  "active": "ed1bfc45d9ab06a8",
+  "active": "051bdab6514e6796",
   "lastOpenFiles": [
+    "Tale of a dying world/Tale of a dying world.md",
+    "Tale of a dying world",
+    "Maes/Maes.md",
+    "Maes",
+    "TOADW/TOADW.md",
+    "TOADW",
+    "Tale of a Dying World/Tale of a Dying World.md",
+    "Tale of a Dying World",
+    "Campaing/Campaing.md",
+    "Campaing",
     "Pending.md",
     "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/References/Images to be used.md",
@@ -344,11 +379,6 @@
     "Campaing Overview.md",
     "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Quest.md",
-    "Attachments/Templates/Items.md",
-    "Attachments/Templates/Locations/Landmark.md",
-    "Attachments/Templates/Locations/Building.md",
-    "Attachments/Templates/Character/Character.md",
-    "Attachments/References/Region reference.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Attachments/IMG/Sessions/01 - The wizard who never was/Untitled/IMG-20241210140025888.png",
@@ -360,11 +390,6 @@
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/Characters",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons",
-    "Attachments/IMG/Attachments/Various Icons",
-    "Attachments/IMG/Attachments",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927507.png",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
