@@ -6,7 +6,7 @@ Location:
 Titles:
 State:
 banner: "https://i.imgur.com/5ke0Ohw.png"
-banner_y: 0.368
+banner_y: 0.384
 ---
 
 ```ad-Tr
