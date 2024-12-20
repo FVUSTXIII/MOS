@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Timeline/3 Age of Serpents/Age of Serpents.md",
+                "file": "World/Timeline/4 Age of Serpents/Age of Serpents.md",
                 "mode": "source",
                 "source": false
               },
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Timeline/3 Age of Serpents/Age of Serpents.md"
+                "file": "World/Timeline/4 Age of Serpents/Age of Serpents.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Age of Serpents"
@@ -322,12 +322,13 @@
   },
   "active": "c8757f167d94643e",
   "lastOpenFiles": [
+    "World/Timeline/3 Age of Lost Omens",
     "World/Timeline/1 Age of creation",
     "World/Timeline/2 Age of Dragons",
-    "World/Timeline/3 Age of Serpents/Death of Oliver Wrynn.md",
-    "World/Timeline/3 Age of Serpents/Age of Serpents.md",
-    "World/Timeline/3 Age of Serpents",
-    "World/Timeline/3 Age of Serpents/Beginning of Age Of Serpents.md",
+    "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
+    "World/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "World/Timeline/4 Age of Serpents",
+    "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "PC/Phantom.md",
     "World/Timeline/Timeline.md",
     "PC/Ashe Lightborn.md",
@@ -361,7 +362,6 @@
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/Templates/Dungeons",
     "World/Memoria/Corentyn/Starfell",
-    "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Attachments/IMG/Sessions/01 - The wizard who never was/Untitled/IMG-20241210140025888.png",
     "Attachments/IMG/Memoria/Corentyn/Corentyn/IMG-20241130142253634.svg",
