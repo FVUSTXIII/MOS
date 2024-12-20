@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Phantom.md",
+                "file": "World/Timeline/Death of Oliver Wrynn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phantom"
+              "title": "Death of Oliver Wrynn"
             }
           }
         ]
@@ -283,10 +283,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC/Phantom.md"
+                "file": "World/Timeline/Death of Oliver Wrynn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Phantom"
+              "title": "Outline of Death of Oliver Wrynn"
             }
           }
         ],
@@ -315,16 +315,22 @@
       "markdown-importer:Open format converter": false,
       "calendarium:Open Calendarium": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
   "active": "f20e2a5143a46aab",
   "lastOpenFiles": [
+    "World/Timeline/Beginning of Age Of Serpents.md",
+    "World/Timeline/Death of Oliver Wrynn.md",
+    "World/Timeline/Age of Serpents.md",
+    "PC/Phantom.md",
+    "World/Timeline/Timeline.md",
     "PC/Ashe Lightborn.md",
     "Attachments/Templates/Character/Character.md",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
     "Narrative/NPC/Important Characters/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
-    "PC/Phantom.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Tale of a dying world/a.md",
     "Tale of a dying world/Corentyn.md",
@@ -348,13 +354,9 @@
     "Pending.md",
     "Narrative/NPC/Evelyn Thorn.md",
     "Attachments/References/Images to be used.md",
-    "Narrative/Quests/Lost lambs.md",
     "Index.canvas",
-    "Attachments/Various Icons/Character Icons/Untitled.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
-    "World/Memoria/Corentyn/Corentyn.md",
     "Attachments/Templates/Dungeons",
     "World/Memoria/Corentyn/Starfell",
     "Attachments/IMG/Narrative/NPC/Important Characters/Bravian Soldier/IMG-20241210201937990.pdf",
