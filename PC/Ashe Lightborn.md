@@ -6,6 +6,7 @@ Location:
 Factions:
 Titles:
 State:
+Age:
 banner: "https://i.imgur.com/99imyQ0.png"
 banner_y: 0.316
 ---

@@ -6,6 +6,7 @@ Location:
 Factions:
 Titles:
 State:
+Age:
 banner: ""
 banner_y: 0.244
 ---
