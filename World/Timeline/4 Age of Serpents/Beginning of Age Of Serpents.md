@@ -12,6 +12,6 @@ tags:
   - timeline
   - ageofserpents
 showOnTimeLine: true
-banner: 
-banner_y: 0.316
+banner: https://cdn.midjourney.com/b537d9f5-5249-47e7-ac67-08590950b97d/0_3.png
+banner_y: 0.416
 ---
