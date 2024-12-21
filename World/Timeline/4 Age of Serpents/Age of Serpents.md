@@ -1,4 +1,4 @@
 ```ob-timeline
-tag=ageofserpents
+tags=ageofserpents
 type=flat
 ```
