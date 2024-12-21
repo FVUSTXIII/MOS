@@ -25,14 +25,17 @@
             "id": "b430d9df499655bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Attachments/Templates/Character/Character.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": 3102.1931021575124,
+                  "y": -2447.7105564951125,
+                  "zoom": -0.16662748801680427
+                }
               },
-              "icon": "lucide-file",
-              "title": "Character"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           }
         ],
@@ -335,8 +338,9 @@
   },
   "active": "c8757f167d94643e",
   "lastOpenFiles": [
-    "Attachments/Templates/Character/Inventory.md",
+    "Untitled",
     "Attachments/Templates/Character/Character.md",
+    "Attachments/Templates/Character/Inventory.md",
     "PC/Ashe Lightborn.md",
     "Attachments/References/Images to be used.md",
     "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
@@ -369,7 +373,6 @@
     "Maes",
     "Tale of a Dying World/Tale of a Dying World.md",
     "Tale of a Dying World",
-    "Campaing/Campaing.md",
     "Campaing",
     "Index.canvas",
     "Attachments/Various Icons/Character Icons/Characters.canvas",

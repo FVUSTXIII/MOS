@@ -27,6 +27,7 @@ bonds
 ```ad-idl
 ideals
 ```
+
 --- 
 ## Statblocks
 
@@ -41,4 +42,4 @@ ___
 ## Relations
 
 
-
+---
