@@ -28,6 +28,9 @@ bonds
 ideals
 ```
 
+```ad-
+```
+
 --- 
 ## Statblocks
 

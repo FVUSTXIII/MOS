@@ -25,17 +25,14 @@
             "id": "b430d9df499655bb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 3102.1931021575124,
-                  "y": -2447.7105564951125,
-                  "zoom": -0.16662748801680427
-                }
+                "file": "Attachments/Templates/Character/Character.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "Character"
             }
           }
         ],
@@ -336,9 +333,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "b430d9df499655bb",
   "lastOpenFiles": [
-    "Untitled",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927613.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927580.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927507.png",
+    "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927475.png",
+    "Index.canvas",
+    "Utilery",
     "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Character/Inventory.md",
     "PC/Ashe Lightborn.md",
@@ -374,19 +377,13 @@
     "Tale of a Dying World/Tale of a Dying World.md",
     "Tale of a Dying World",
     "Campaing",
-    "Index.canvas",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
-    "Attachments/Templates/Dungeons",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
     "Attachments/IMG/Sessions/01 - The wizard who never was/Untitled/IMG-20241210140025888.png",
     "Attachments/IMG/Memoria/Corentyn/Corentyn/IMG-20241130142253634.svg",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Attachments/IMG/Mapas/IMG-20241123160633391.png",
-    "Attachments/IMG/Mapas/IMG-20241123160639223.png",
-    "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
-    "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927507.png",
     "Mapas.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas"
   ]
