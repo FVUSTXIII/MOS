@@ -199,8 +199,8 @@
                   "viewing": null,
                   "viewState": 1,
                   "displaying": {
-                    "day": 6,
-                    "month": 8,
+                    "day": 4,
+                    "month": 7,
                     "year": 4720
                   },
                   "displayDayNumber": true,
@@ -290,7 +290,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -323,8 +323,8 @@
   "active": "f20e2a5143a46aab",
   "lastOpenFiles": [
     "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-    "World/Timeline/4 Age of Serpents/Age of Serpents.md",
     "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
+    "World/Timeline/4 Age of Serpents/Age of Serpents.md",
     "PC/Ashe Lightborn.md",
     "World/Timeline/3 Age of Lost Omens",
     "World/Timeline/1 Age of creation",
