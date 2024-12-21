@@ -1,12 +1,13 @@
 ---
 Description: 
 Affiliation: 
-Alignment:
+Alignment: 
 Location: 
-Factions:
-Titles:
-State:
-Age:
+Factions: 
+Titles: 
+Class: 
+State: 
+Age: 
 banner: ""
 banner_y: 0.244
 ---
@@ -26,6 +27,11 @@ bonds
 ```ad-idl
 ideals
 ```
+--- 
+## Statblocks
+
+___
+## Inventory
 
 ---
 ## Backstory
@@ -35,4 +41,4 @@ ___
 ## Relations
 
 
-___
+
