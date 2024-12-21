@@ -12,6 +12,6 @@ tags:
   - timeline
   - ageofserpents
 showOnTimeLine: true
-banner: https://i.imgur.com/RMu3RLA.png
+banner: "https://i.imgur.com/RMu3RLA.png"
 banner_y: 0.5
 ---
