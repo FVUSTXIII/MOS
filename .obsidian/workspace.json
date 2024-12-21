@@ -327,10 +327,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "b430d9df499655bb",
