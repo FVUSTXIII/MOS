@@ -1,0 +1,13 @@
+---
+title:
+descricption:
+classes:
+color:
+type:
+starDate:
+endDate:
+era:
+path:
+tags: 
+showOnTimeLine:
+---
