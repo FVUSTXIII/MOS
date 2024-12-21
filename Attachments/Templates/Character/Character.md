@@ -6,7 +6,10 @@ Location:
 Factions: 
 Titles: 
 Class: 
+Race: 
 State: 
+Birth: 
+Death: 
 Age: 
 banner: ""
 banner_y: 0.244
@@ -28,7 +31,8 @@ bonds
 ideals
 ```
 
-```ad-
+```ad-goals
+goals
 ```
 
 --- 

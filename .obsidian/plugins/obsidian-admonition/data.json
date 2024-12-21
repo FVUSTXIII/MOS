@@ -74,6 +74,18 @@
       "title": "Ideals",
       "injectColor": true,
       "noTitle": false
+    },
+    "goals": {
+      "type": "goals",
+      "color": "42, 136, 207",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAVxJREFUSEvdle9VwzAMxC+T0E5SmKR0EsoktJPQTgKjwC/Px1McO47h5Qv64vyxddLpJA/a2IaK/52kZ0kPkq6SHtNzvp1/x/Tx9fvMZ76hBvAhCRDsJOklvNsHznD6lj7wvl8L8J6i3gyA6KGF9ZZWZxQz4B9UYpe1FJFy7qxHClD6U4u8BkQNPX+xp5T16OP/A8Blbz26KKJgh6CUvDb0AUaf2OiFapHZRKExNnHwXpJfcEgn09E+M+nmUidbSe5UKIoRxiycASDsm9BTUpEzsFRbNXC0rlM3QG8/LAKc02T0AGMMtPh3ABYCAEwCMuN50mgecFYOzmvc55lRZEBYASC4RQA45YAVZYVYLS6qgWK2vwbAGfRxCXmCdgFQAw5DTSmDpYLHDMgcH4zv2bDjm+8CaIgUtQCgb3QarXZlsifeai254hhxzGwJgOh9obcAiB6augBaTlf9/wLyn1wZuKBxwgAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": true,
+      "title": "Goals",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
