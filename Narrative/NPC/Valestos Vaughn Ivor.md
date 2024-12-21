@@ -7,8 +7,8 @@ Factions:
 Titles: 
 State: 
 Age: 
-banner: https://i.imgur.com/Dc2kqqS.png
-banner_y: 0.308
+banner: "https://i.imgur.com/Dc2kqqS.png"
+banner_y: 0.4
 ---
 
 ```ad-Tr
