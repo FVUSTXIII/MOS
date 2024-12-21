@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-                "mode": "preview",
+                "file": "Attachments/References/Images to be used.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beginning of Age Of Serpents"
+              "title": "Images to be used"
             }
           }
         ],
@@ -327,13 +327,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "b430d9df499655bb",
   "lastOpenFiles": [
-    "Narrative/NPC/Valestos Vaughn Ivor.md",
     "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
+    "Narrative/NPC/Valestos Vaughn Ivor.md",
     "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
     "World/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Attachments/References/Images to be used.md",

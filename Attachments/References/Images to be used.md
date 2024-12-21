@@ -31,3 +31,9 @@
 
 ![](https://i.imgur.com/J4qIQ6N.png)
 
+Roger Haus
+
+![](https://i.imgur.com/Krfye9Z.jpeg)
+
+![](https://i.imgur.com/KGvFgQi.jpeg)
+
