@@ -3,7 +3,7 @@ title:
 descricption:
 classes:
 color:
-type:
+type: 
 starDate:
 endDate:
 era:
