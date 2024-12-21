@@ -10,4 +10,6 @@ era:
 path:
 tags: 
 showOnTimeLine:
+banner: ""
+banner_y: 0.316
 ---
