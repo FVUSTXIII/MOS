@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "World/Calendar/EVENTS/Current Day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Current Day"
             }
           }
         ]
@@ -317,6 +317,8 @@
   },
   "active": "261c38079153fa66",
   "lastOpenFiles": [
+    "World/Calendar/Days of the Week.md",
+    "Pending.md",
     "Index.canvas",
     "Campaing Overview.md",
     "Current Session Summary.md",
@@ -328,7 +330,6 @@
     "Attachments/Templates/Character/Inventory/Inventory Socket.md",
     "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Character/Wealth",
-    "Pending.md",
     "Attachments/Templates/Quest.md",
     "Attachments/Templates/Current Date Template.md",
     "Narrative/NPC/Valestos Vaughn Ivor.md",

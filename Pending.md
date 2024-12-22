@@ -2,7 +2,7 @@
 - [x]  check Emergency Force Sphere and overall immediate actions ruling as far as concentration checks go 
       Resolution: This was ruled on session 2, Emergency Force Sphere can only stack up to 40 HP. (temporary measure)
 - [ ]  Define Questline structure
-- [ ]  Define timeline structure
+- [x]  Define timeline structure
 - [ ]  Define world state machine structure
 - [ ]  Fix folder organization from npc folder 
 	- [ ]  "delete important character file"
@@ -19,6 +19,7 @@
 - [ ]  Research if metadata can be changed through events
 - [ ]  Define character location functions
 - [ ]  Define Item structure
+- [ ]  Research quickadd plugin
 
 #pending/session3
 - [ ]  Felix's new bread recipe
