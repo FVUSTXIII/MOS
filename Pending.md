@@ -15,7 +15,8 @@
 - [ ]  Make NPC page for characters in lost-lamb quest
 - [ ]  Research buttons 
 - [ ]  Research Dataview 
-- [ ]  Add 
+- [ ]  Define Inventory Structure
+- [ ]  Research if metadata can be changed through events
 
 #pending/session3
 - [ ]  Felix's new bread recipe

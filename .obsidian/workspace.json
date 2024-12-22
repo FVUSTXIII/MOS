@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "Attachments/Templates/Character/Inventory/Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Inventory"
             }
           }
         ]
@@ -315,15 +315,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "261c38079153fa66",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
+    "Attachments/Templates/Character/Statblocks.md",
+    "Attachments/Templates/Character/Relations.md",
+    "Attachments/Templates/Character/Backstory.md",
+    "Attachments/Templates/Character/Inventory/Wealth.md",
+    "Attachments/Templates/Character/Inventory/Inventory.md",
+    "Attachments/Templates/Character/Inventory/Inventory Socket.md",
     "Attachments/Templates/Character/Character.md",
+    "Attachments/Templates/Character/Wealth",
+    "Pending.md",
+    "Index.canvas",
     "Attachments/Templates/Quest.md",
     "Attachments/Templates/Current Date Template.md",
     "Narrative/NPC/Valestos Vaughn Ivor.md",
     "Attachments/Templates/Items.md",
-    "Attachments/Templates/Character/Inventory/Inventory Socket.md",
-    "Attachments/Templates/Character/Inventory/Inventory.md",
     "Attachments/Templates/Character/Inventory",
     "Attachments/Templates/Character/Untitled.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
@@ -331,7 +338,6 @@
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927580.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927507.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927475.png",
-    "Index.canvas",
     "Utilery",
     "PC/Ashe Lightborn.md",
     "Attachments/References/Images to be used.md",
@@ -351,15 +357,9 @@
     "Tale of a dying world/Corentyn.md",
     "Tale of a dying world/The witch.md",
     "Tale of a dying world/asdfasdf.md",
-    "Tale of a dying world/The wizard who never was.md",
-    "Tale of a dying world/Maws of Sacrilege.md",
-    "Tale of a dying world/Tale of a dying world.md",
-    "Tale of a dying world/The Wizard who never was.md",
-    "Tale of a dying world/Womb of horrors.md",
     "Tale of a dying world",
     "TOADW",
     "Maes",
-    "Tale of a Dying World",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",

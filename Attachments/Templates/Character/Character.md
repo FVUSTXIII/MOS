@@ -8,6 +8,7 @@ Titles:
 Class: 
 Race: 
 State: 
+Wealth: 
 Birth: 
 Death: 
 Age: 
