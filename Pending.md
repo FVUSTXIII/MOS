@@ -13,6 +13,9 @@
 - [ ]  Finish Region Reference
 - [ ]  Research Military things in pathfinder to add to nations
 - [ ]  Make NPC page for characters in lost-lamb quest
+- [ ]  Research buttons 
+- [ ]  Research Dataview 
+- [ ]  Add 
 
 #pending/session3
 - [ ]  Felix's new bread recipe

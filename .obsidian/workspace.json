@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Character/Character.md",
+                "file": "Pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Pending"
             }
           }
         ]
@@ -317,10 +317,10 @@
   },
   "active": "261c38079153fa66",
   "lastOpenFiles": [
+    "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Quest.md",
     "Attachments/Templates/Current Date Template.md",
     "Narrative/NPC/Valestos Vaughn Ivor.md",
-    "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Items.md",
     "Attachments/Templates/Character/Inventory/Inventory Socket.md",
     "Attachments/Templates/Character/Inventory/Inventory.md",
