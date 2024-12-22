@@ -17,6 +17,8 @@
 - [ ]  Research Dataview 
 - [ ]  Define Inventory Structure
 - [ ]  Research if metadata can be changed through events
+- [ ]  Define character location functions
+- [ ]  Define Item structure
 
 #pending/session3
 - [ ]  Felix's new bread recipe
