@@ -8,7 +8,7 @@ Titles:
 State: 
 Age: 
 banner: "https://i.imgur.com/Dc2kqqS.png"
-banner_y: 0.4
+banner_y: 0.316
 ---
 
 ```ad-Tr
