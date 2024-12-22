@@ -11,10 +11,14 @@
             "id": "261c38079153fa66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Attachments/Templates/Character/Character.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Character"
             }
           }
         ]
@@ -311,8 +315,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "261c38079153fa66",
   "lastOpenFiles": [
+    "Attachments/Templates/Quest.md",
     "Attachments/Templates/Current Date Template.md",
     "Narrative/NPC/Valestos Vaughn Ivor.md",
     "Attachments/Templates/Character/Character.md",
@@ -351,7 +356,6 @@
     "Tale of a dying world/Tale of a dying world.md",
     "Tale of a dying world/The Wizard who never was.md",
     "Tale of a dying world/Womb of horrors.md",
-    "Tale of a dying world/The Nameless Season.md",
     "Tale of a dying world",
     "TOADW",
     "Maes",
