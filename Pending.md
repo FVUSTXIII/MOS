@@ -15,7 +15,7 @@
 - [ ]  Make NPC page for characters in lost-lamb quest
 - [ ]  Research buttons 
 - [ ]  Research Dataview 
-- [ ]  Define Inventory Structure
+- [x]  Define Inventory Structure
 - [ ]  Research if metadata can be changed through events
 - [ ]  Define character location functions
 - [x]  Define Item structure
