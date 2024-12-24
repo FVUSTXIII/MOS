@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb84a837611ef0c4",
+        "id": "bbb227bdc90fa869",
         "type": "tabs",
         "children": [
           {
-            "id": "261c38079153fa66",
+            "id": "7b95b89182ae8c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -315,15 +315,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "Narrative/Plot Hooks/Plot Hooks.canvas",
+    "Pending.md",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC",
     "Narrative/NPC/Important Characters/MISC",
     "Narrative/NPC/Important Characters/Organizations",
     "Attachments/Templates/Items.md",
     "Attachments/Templates/Quest.md",
-    "Pending.md",
     "Attachments/Templates/Current Date Template.md",
     "World/Calendar/EVENTS/Current Day.md",
     "World/Calendar/Days of the Week.md",
@@ -355,11 +356,9 @@
     "World/Timeline/3 Age of Lost Omens",
     "World/Timeline/1 Age of creation",
     "World/Timeline/2 Age of Dragons",
-    "World/Timeline/4 Age of Serpents",
     "PC/Phantom.md",
     "World/Timeline/Timeline.md",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
-    "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
