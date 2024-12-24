@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "World/Memoria/Memoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Memoria"
             }
           }
         ]
@@ -317,8 +317,9 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
-    "Attachments/Templates/Character/Character.md",
+    "Attachments/References/Region reference.md",
     "Pending.md",
+    "Attachments/Templates/Character/Character.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC",
