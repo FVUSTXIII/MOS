@@ -18,7 +18,7 @@
 - [ ]  Define Inventory Structure
 - [ ]  Research if metadata can be changed through events
 - [ ]  Define character location functions
-- [ ]  Define Item structure
+- [x]  Define Item structure
 - [ ]  Research quickadd plugin
 
 #pending/session3
