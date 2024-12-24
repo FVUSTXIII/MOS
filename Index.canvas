@@ -10,7 +10,7 @@
 		{"id":"1d03de3e336e75f4","type":"file","file":"Narrative/Quests/Lost lambs.md","x":-1280,"y":-2020,"width":480,"height":580},
 		{"id":"83cd138d5aa97bcb","type":"file","file":"Campaing Overview.md","x":-400,"y":-1820,"width":520,"height":620},
 		{"id":"bda66c976d07ec12","type":"file","file":"PC/Phantom.md","x":1540,"y":-2220,"width":400,"height":400},
-		{"id":"a0bcf0a0732bba0b","type":"file","file":"Narrative/NPC/Evelyn Thorn.md","x":2040,"y":-2700,"width":400,"height":400},
+		{"id":"a0bcf0a0732bba0b","type":"file","file":"Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md","x":2040,"y":-2700,"width":400,"height":400},
 		{"id":"3c581ac3cc1d01fd","type":"file","file":"PC/Ashe Lightborn.md","x":1540,"y":-2720,"width":420,"height":440},
 		{"id":"47c7df2ca6634faf","type":"text","text":"Utilery","x":3060,"y":-2810,"width":480,"height":50}
 	],

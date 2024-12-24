@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Items.md",
+                "file": "Pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Items"
+              "title": "Pending"
             }
           }
         ]
@@ -315,12 +315,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "261c38079153fa66",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
+    "Attachments/IMG/Narrative/NPC/Important Characters/MISC/Bravian Soldier",
+    "Attachments/IMG/Narrative/NPC/Important Characters/MISC",
+    "Narrative/NPC/Important Characters/MISC",
+    "Narrative/NPC/Important Characters/Organizations",
+    "Attachments/Templates/Items.md",
     "Attachments/Templates/Quest.md",
     "Pending.md",
     "Attachments/Templates/Current Date Template.md",
-    "Attachments/Templates/Items.md",
     "World/Calendar/EVENTS/Current Day.md",
     "World/Calendar/Days of the Week.md",
     "Index.canvas",
@@ -334,7 +338,7 @@
     "Attachments/Templates/Character/Inventory/Inventory Socket.md",
     "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Character/Wealth",
-    "Narrative/NPC/Valestos Vaughn Ivor.md",
+    "Narrative/NPC/Important Characters/MISC/Valestos Vaughn Ivor.md",
     "Attachments/Templates/Character/Inventory",
     "Attachments/Templates/Character/Untitled.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
@@ -355,11 +359,7 @@
     "PC/Phantom.md",
     "World/Timeline/Timeline.md",
     "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
-    "Narrative/NPC/Important Characters/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
-    "Tale of a dying world",
-    "TOADW",
-    "Maes",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
