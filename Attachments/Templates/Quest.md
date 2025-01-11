@@ -1,5 +1,5 @@
 ---
-Type: 
+Type: []
 Provider: 
 Status: 
 Questline:
