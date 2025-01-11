@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1eaf461e51e1b7",
+        "id": "63efc3501c6fbfe4",
         "type": "tabs",
         "children": [
           {
-            "id": "c80939ad3e7250be",
+            "id": "b1563a27b47ad41a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": 459.1587259484501,
-                  "y": -1411.2368607139429,
-                  "zoom": -0.03358457229334311
-                }
+                "file": "World/Items/La espatula dorada.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Index"
+              "icon": "lucide-file",
+              "title": "La espatula dorada"
             }
           }
         ]
@@ -344,19 +341,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c80939ad3e7250be",
+  "active": "b1563a27b47ad41a",
   "lastOpenFiles": [
+    "World/Items/La espatula dorada.md",
     "Current Session Summary.md",
+    "World/Memoria/Cedonia/Bravia/Bravia.md",
+    "World/Memoria/Cedonia/Sigtritoft.md",
+    "World/Memoria/Memoria.md",
+    "Narrative/NPC/Torian Grimm.md",
     "Campaing Overview.md",
-    "PC/Zenshin Rusk.md",
     "Index.canvas",
+    "PC/Zenshin Rusk.md",
     "PC/Shitora.md",
     "Narrative/NPC/Jornax Grath.md",
     "World/Items/Melazza & Ginger Cookies Recipe.md",
     "PC/Felix Emberfeather.md",
     "World/Items/Unknown recipe.md",
     "PC/Ashe Lightborn.md",
-    "World/Memoria/Memoria.md",
     "World/Items/Nightcaller Egg.md",
     "Pending.md",
     "World/Calendar/EVENTS/Current Day.md",
@@ -371,10 +372,7 @@
     "World/Memoria/Seasons/The Season of Leaves.md",
     "World/Memoria/Seasons/The Season of Snow.md",
     "World/Memoria/Seasons/The Season of The Sun.md",
-    "Attachments/Templates/Season.md",
     "World/Memoria/Seasons",
-    "World/Seasons.md",
-    "Attachments/Templates/Character/Character.md",
     "World/Items",
     "Narrative/Questlines",
     "World/Memoria/Regions",

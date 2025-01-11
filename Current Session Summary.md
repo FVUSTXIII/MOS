@@ -31,3 +31,6 @@
 
 * [[Shitora]] sueña con un arbol totalmente oscuro, pero sale luz de la corteza y las hojas tambien son luz pura. Es un árbol gigante y sobre las ramas hay muchisimas figuras hechas de luz con ojos negros. Estos parecen ser niños. Al mirar hacia abajo un enjambre de distintos insectos trepa el árbol. El sueño termina ahí. 
 
+8:00 AM 
+
+* Festival de [[Torian Grimm]] en [[Sigtritoft]] el 19 Kuthona. El premio "[[La espatula dorada]]"
