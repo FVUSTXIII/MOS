@@ -15,6 +15,7 @@
 10:25 pm 
 
 * se encuentran con [[Jornax Grath]] guardia de Lightshore
+*  Encuentro con el viejito: "A war will wage in heaven"
 - [[Ashe Lightborn | Ashe]] pregunta por [[Evelyn Thorn | Evelyn]]
 - [[Felix Emberfeather | Felix]] encuentra panadería
 
