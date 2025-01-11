@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Seasons/The Season of Fire.md",
+                "file": "Attachments/Templates/Locations/Region.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Season of Fire"
+              "title": "Region"
             }
           },
           {
@@ -331,10 +331,10 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "World/Memoria/Seasons/The Season of Fire.md",
     "World/Memoria/Seasons/The Season of Leaves.md",
     "World/Memoria/Seasons/The Season of Snow.md",
     "World/Memoria/Seasons/The Season of The Sun.md",
-    "World/Memoria/Seasons/The Season of Fire.md",
     "Attachments/Templates/Season.md",
     "World/Memoria/Seasons",
     "World/Memoria/Memoria.md",
