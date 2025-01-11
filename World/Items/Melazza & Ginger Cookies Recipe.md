@@ -2,7 +2,7 @@
 Value: 0 gp
 itemtype:
   - Document
-weight: 0 lbs
+weight: 0.16 OZ
 Materials:
   - Paper
   - Ink
@@ -20,7 +20,7 @@ itemrarity: common
 - 3/4 taza (170 gr) mantequilla sin sal, a temperatura ambiente
 - 1/4 taza (50 gr) azúcar moreno
 - 1/4 taza (50 gr) azúcar blanco
-- 1 huevo
+- 1 huevo de Nightcaller
 - 1/4 taza (70 gr) melaza
 - 1/4 taza (50 gr) azúcar blanco, para hornear
 
