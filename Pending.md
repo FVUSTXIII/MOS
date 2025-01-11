@@ -21,6 +21,9 @@
 - [x]  Define Item structure
 - [ ]  Research quickadd plugin
 - [ ] Research Dataviewjs
+- [ ]  metadata menu research
+- [ ]  how to add a porperty conditionally metadata menu
+- [ ]  how to add icons to files 
 
 #pending/session3
 - [ ]  Felix's new bread recipe

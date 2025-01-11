@@ -72,6 +72,25 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
+          "1": "common",
+          "2": "uncommon",
+          "3": "rare",
+          "4": "legendary"
+        }
+      },
+      "name": "itemrarity",
+      "id": "lo1rfB",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
           "1": "Street",
           "2": "Avenue",
           "3": "Road",
@@ -138,7 +157,11 @@
           "2": "Magic",
           "3": "Masterwork",
           "4": "Key",
-          "5": "Material"
+          "5": "Material",
+          "6": "ammo",
+          "7": "armor",
+          "8": "weapon",
+          "9": "misc"
         }
       },
       "name": "itemtype",
@@ -152,7 +175,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.12",
+  "settingsVersion": "5.14",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
