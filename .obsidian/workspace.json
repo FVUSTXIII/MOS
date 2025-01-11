@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Reward.md",
+                "file": "Attachments/Templates/Item.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reward"
+              "title": "Item"
             }
           },
           {
@@ -329,22 +329,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "Attachments/Templates/Quest.md",
+    "Attachments/Templates/Reward.md",
+    "Pending.md",
     "World/Items",
-    "Attachments/Templates/Items.md",
+    "Attachments/Templates/Item.md",
     "Index.canvas",
     "Narrative/Questlines/A Lion's roar.md",
     "Narrative/Questlines/Five Of Cups.md",
-    "Attachments/Templates/Reward.md",
     "Narrative/Questlines/Quests/Lost lambs.md",
     "Narrative/Questlines/Quests/New Quest.md",
-    "Attachments/Templates/Quest.md",
     "Narrative/NPC/Important Characters/Factions/La Mano de Plata/Phillip Kasmaron.md",
     "Campaing Overview.md",
     "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Current Date Template.md",
-    "Pending.md",
     "Narrative/Questlines",
     "World/Memoria/Cedonia/Corentyn/Corentyn.md",
     "World/Memoria/Seasons.md",
@@ -368,7 +368,6 @@
     "Attachments/Templates/Character/Statblocks.md",
     "Attachments/Templates/Character/Relations.md",
     "Attachments/Templates/Character/Wealth",
-    "Attachments/Templates/Character/Inventory",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927613.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927580.png",

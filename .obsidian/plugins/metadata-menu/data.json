@@ -1,6 +1,26 @@
 {
   "presetFields": [
     {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Not started",
+          "2": "In Progress",
+          "3": "Abandoned",
+          "4": "Expired",
+          "5": "Completed"
+        }
+      },
+      "name": "Queststatus",
+      "id": "9RWXSN",
+      "path": ""
+    },
+    {
       "type": "Multi",
       "tagName": "multi",
       "icon": "bullet-list",
@@ -106,23 +126,23 @@
       "path": ""
     },
     {
-      "type": "Select",
-      "tagName": "select",
-      "icon": "right-triangle",
-      "tooltip": "Accepts a single value from a list",
-      "colorClass": "select",
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Not started",
-          "2": "In Progress",
-          "3": "Abandoned",
-          "4": "Expired",
-          "5": "Completed"
+          "1": "Consumable",
+          "2": "Magic",
+          "3": "Masterwork",
+          "4": "Key",
+          "5": "Material"
         }
       },
-      "name": "Queststatus",
-      "id": "9RWXSN",
+      "name": "itemtype",
+      "id": "hVzKnh",
       "path": ""
     }
   ],
@@ -132,7 +152,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.11",
+  "settingsVersion": "5.12",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

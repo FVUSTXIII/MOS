@@ -14,12 +14,13 @@
 - [ ]  Research Military things in pathfinder to add to nations
 - [ ]  Make NPC page for characters in lost-lamb quest
 - [ ]  Research buttons 
-- [ ]  Research Dataview 
+- [x]  Research Dataview 
 - [x]  Define Inventory Structure
 - [ ]  Research if metadata can be changed through events
 - [ ]  Define character location functions
 - [x]  Define Item structure
 - [ ]  Research quickadd plugin
+- [ ] Research Dataviewjs
 
 #pending/session3
 - [ ]  Felix's new bread recipe
