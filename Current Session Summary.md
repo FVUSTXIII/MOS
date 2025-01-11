@@ -2,8 +2,16 @@
 
 7:00 AM Salen de la inn
 
-8:47 am Zenshin Pregunta, le señalan lightcrest
+8:47 am [[Zenshin Rusk | Zenshin]] Pregunta, le señalan lightcrest
 
-9:23 se encuentran con ladrones de Noxian
+9:23 am se encuentran con ladrones de Noxian
 
-10:25 se encuentran con 
+10:25 pm se encuentran con Jornax Grath guardia de Lightshore
+
+- [[Ashe Lightborn | Ashe]] pregunta por [[Evelyn Thorn | Evelyn]]
+- [[Felix Emberfeather | Felix]] encuentra panadería
+
+11:00 pm Van a casa de viejita
+
+------
+

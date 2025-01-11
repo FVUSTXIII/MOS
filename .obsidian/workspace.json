@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2173b92be79b6a4d",
+        "id": "6cf1096f111b417b",
         "type": "tabs",
         "children": [
           {
-            "id": "7078b26adc1bd2b7",
+            "id": "8f505c4657436018",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Session Summary.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Current Session Summary"
+              "title": "New tab"
             }
           }
         ]
@@ -341,16 +337,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7078b26adc1bd2b7",
+  "active": "8f505c4657436018",
   "lastOpenFiles": [
-    "World/Items/Melazza & Ginger Cookies Recipe.md",
-    "World/Items/Unknown recipe.md",
+    "Zenshin Rusk.md",
     "Current Session Summary.md",
+    "Campaing Overview.md",
+    "World/Items/Melazza & Ginger Cookies Recipe.md",
+    "PC/Felix Emberfeather.md",
+    "World/Items/Unknown recipe.md",
     "PC/Ashe Lightborn.md",
     "World/Memoria/Memoria.md",
     "World/Items/Nightcaller Egg.md",
     "Index.canvas",
-    "Campaing Overview.md",
     "Pending.md",
     "World/Calendar/EVENTS/Current Day.md",
     "World/Memoria/Cedonia/Corentyn/Corentyn.md",
@@ -371,8 +369,6 @@
     "Attachments/Templates/Character/Inventory/Inventory.md",
     "Attachments/Templates/Character/Inventory/Inventory Socket.md",
     "Attachments/Templates/Item.md",
-    "Attachments/Templates/Character/Inventory/Untitled.md",
-    "Attachments/Templates/Character/Inventory/Wealth.md",
     "World/Items",
     "Narrative/Questlines",
     "World/Memoria/Regions",
