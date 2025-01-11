@@ -34,3 +34,8 @@
 8:00 AM 
 
 * Festival de [[Torian Grimm]] en [[Sigtritoft]] el 19 Kuthona. El premio "[[La espatula dorada]]"
+* Comen en la polleria de Luis el pollero, a Phantom le cae mal y se queda en el baño de la Inn.
+
+9:00 AM 
+
+* Deciden partir de lightcrest a 
