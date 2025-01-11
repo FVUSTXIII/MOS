@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f75f50bee6dfca",
+        "id": "ad1eaf461e51e1b7",
         "type": "tabs",
         "children": [
           {
-            "id": "010270c3241d8d82",
+            "id": "c80939ad3e7250be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Current Session Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Index.canvas",
+                "viewState": {
+                  "x": 459.1587259484501,
+                  "y": -1411.2368607139429,
+                  "zoom": -0.03358457229334311
+                }
               },
-              "icon": "lucide-file",
-              "title": "Current Session Summary"
+              "icon": "lucide-layout-dashboard",
+              "title": "Index"
             }
           }
         ]
@@ -341,14 +344,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "010270c3241d8d82",
+  "active": "c80939ad3e7250be",
   "lastOpenFiles": [
+    "Current Session Summary.md",
+    "Campaing Overview.md",
+    "PC/Zenshin Rusk.md",
     "Index.canvas",
     "PC/Shitora.md",
-    "Current Session Summary.md",
     "Narrative/NPC/Jornax Grath.md",
-    "PC/Zenshin Rusk.md",
-    "Campaing Overview.md",
     "World/Items/Melazza & Ginger Cookies Recipe.md",
     "PC/Felix Emberfeather.md",
     "World/Items/Unknown recipe.md",
