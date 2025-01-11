@@ -6,7 +6,7 @@ Foundation Date:
 Inner entities: 10
 Region: 
 Surface: 34288.853 km2
-banner: https://i.imgur.com/OZXIyxb.png
+banner: "https://i.imgur.com/OZXIyxb.png"
 banner_y: 0.372
 ---
 
