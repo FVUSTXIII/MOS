@@ -44,6 +44,28 @@
       "path": ""
     },
     {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "City",
+          "2": "District",
+          "3": "Settlement",
+          "4": "Town",
+          "5": "Neighborhood",
+          "6": "Nation",
+          "7": "Continent"
+        }
+      },
+      "name": "LocationType",
+      "id": "t1B6dL",
+      "path": ""
+    },
+    {
       "type": "Multi",
       "tagName": "multi",
       "icon": "bullet-list",
@@ -65,25 +87,22 @@
       "path": ""
     },
     {
-      "type": "Select",
-      "tagName": "select",
-      "icon": "right-triangle",
-      "tooltip": "Accepts a single value from a list",
-      "colorClass": "select",
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "City",
-          "2": "District",
-          "3": "Settlement",
-          "4": "Town",
-          "5": "Neighborhood",
-          "6": "Nation",
-          "7": "Continent"
+          "1": "Fetch",
+          "2": "Bounty",
+          "3": "Escort",
+          "4": "Message"
         }
       },
-      "name": "LocationType",
-      "id": "t1B6dL",
+      "name": "Questtype",
+      "id": "E1EZt3",
       "path": ""
     }
   ],
@@ -93,7 +112,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.9",
+  "settingsVersion": "5.10",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

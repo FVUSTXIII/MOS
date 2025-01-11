@@ -1,5 +1,5 @@
 ---
-Type: []
+Questtype: 
 Provider: 
 Status: 
 Questline:
@@ -7,7 +7,15 @@ Questline:
 
 ## Descrption
 
+### Requests
+
+### Actors
+
+### Places
+
+## Rewards
+
 ---
 
-
+### Completion Scene
 
