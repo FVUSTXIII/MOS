@@ -21,6 +21,26 @@
       "path": ""
     },
     {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Ammo",
+          "2": "Books",
+          "3": "Potions",
+          "4": "weapons",
+          "5": "misc"
+        }
+      },
+      "name": "slotcarry",
+      "id": "CWZyTN",
+      "path": ""
+    },
+    {
       "type": "Multi",
       "tagName": "multi",
       "icon": "bullet-list",
@@ -78,30 +98,6 @@
       },
       "name": "slottype",
       "id": "bQ2v40",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
-          "1": "Consumable",
-          "2": "Magic",
-          "3": "Masterwork",
-          "4": "Key",
-          "5": "Material",
-          "6": "ammo",
-          "7": "armor",
-          "8": "weapon",
-          "9": "misc"
-        }
-      },
-      "name": "itemtype",
-      "id": "hVzKnh",
       "path": ""
     },
     {
@@ -186,23 +182,28 @@
       "path": ""
     },
     {
-      "type": "Select",
-      "tagName": "select",
-      "icon": "right-triangle",
-      "tooltip": "Accepts a single value from a list",
-      "colorClass": "select",
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Ammo",
-          "2": "Books",
-          "3": "Potions",
-          "4": "weapons",
-          "5": "misc"
+          "1": "Consumable",
+          "2": "Magic",
+          "3": "Masterwork",
+          "4": "Key",
+          "5": "Material",
+          "6": "ammo",
+          "7": "armor",
+          "8": "weapon",
+          "9": "misc",
+          "10": "Document"
         }
       },
-      "name": "slotcarry",
-      "id": "CWZyTN",
+      "name": "itemtype",
+      "id": "hVzKnh",
       "path": ""
     }
   ],
@@ -212,7 +213,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.16",
+  "settingsVersion": "5.17",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
