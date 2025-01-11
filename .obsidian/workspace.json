@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/Questlines/Quests/Lost lambs.md",
+                "file": "Narrative/Questlines/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lost lambs"
+              "title": "Untitled"
             }
           }
         ]
@@ -317,6 +317,8 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "Narrative/Questlines/Quests/Lost lambs.md",
+    "Narrative/Questlines/Untitled.md",
     "Pending.md",
     "Narrative/Questlines",
     "World/Memoria/Cedonia/Corentyn/Corentyn.md",
@@ -358,7 +360,6 @@
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927507.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927475.png",
     "PC/Ashe Lightborn.md",
-    "Attachments/References/Images to be used.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
