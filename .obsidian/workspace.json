@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbb227bdc90fa869",
+        "id": "2173b92be79b6a4d",
         "type": "tabs",
         "children": [
           {
-            "id": "70d28679527b08dd",
+            "id": "7078b26adc1bd2b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Items/Nightcaller Egg.md",
+                "file": "Current Session Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nightcaller Egg"
+              "title": "Current Session Summary"
             }
           }
         ]
@@ -341,12 +341,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "70d28679527b08dd",
+  "active": "7078b26adc1bd2b7",
   "lastOpenFiles": [
-    "World/Memoria/Memoria.md",
     "World/Items/Melazza & Ginger Cookies Recipe.md",
-    "World/Items/Nightcaller Egg.md",
+    "World/Items/Unknown recipe.md",
     "Current Session Summary.md",
+    "PC/Ashe Lightborn.md",
+    "World/Memoria/Memoria.md",
+    "World/Items/Nightcaller Egg.md",
     "Index.canvas",
     "Campaing Overview.md",
     "Pending.md",
@@ -371,8 +373,6 @@
     "Attachments/Templates/Item.md",
     "Attachments/Templates/Character/Inventory/Untitled.md",
     "Attachments/Templates/Character/Inventory/Wealth.md",
-    "Attachments/Templates/Inventory.md",
-    "PC/Ashe Lightborn.md",
     "World/Items",
     "Narrative/Questlines",
     "World/Memoria/Regions",
