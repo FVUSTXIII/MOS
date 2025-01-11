@@ -66,6 +66,7 @@ Espero que algún día encuentres paz.
 
 **Isaac**
 
+--- 
 
 ## Session Summary
 

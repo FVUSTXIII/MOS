@@ -28,3 +28,18 @@ banner_y:
 * and that
 ```
 
+## Places
+
+### Place 1
+#### People 
+##### Person
+ * Plot Relevancy
+#### Events
+
+
+
+
+## Plot Lines
+
+
+## Session Summary
