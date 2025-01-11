@@ -196,7 +196,12 @@
               "state": {
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
-                  "viewState": 0,
+                  "viewing": {
+                    "day": 5,
+                    "month": 8,
+                    "year": 4720
+                  },
+                  "viewState": 2,
                   "displaying": {
                     "day": 4,
                     "month": 8,
@@ -208,7 +213,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_9a5a1b3829c8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -288,6 +294,26 @@
           }
         ],
         "currentTab": 8
+      },
+      {
+        "id": "6ca045c651b18121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd8a8bed831f673",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "id": "ID_9a5a1b3829c8",
+                "parent": "ID_fab95b49890b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,8 +344,11 @@
   "active": "70d28679527b08dd",
   "lastOpenFiles": [
     "Index.canvas",
-    "Current Session Summary.md",
     "Campaing Overview.md",
+    "Pending.md",
+    "World/Calendar/EVENTS/Current Day.md",
+    "World/Memoria/Memoria.md",
+    "Current Session Summary.md",
     "World/Memoria/Cedonia/Corentyn/Corentyn.md",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves",
@@ -333,7 +362,6 @@
     "World/Memoria/Seasons/The Season of The Sun.md",
     "Attachments/Templates/Season.md",
     "World/Memoria/Seasons",
-    "World/Memoria/Memoria.md",
     "World/Seasons.md",
     "Attachments/Templates/Character/Character.md",
     "Attachments/Templates/Character/Inventory/Inventory.md",
@@ -344,9 +372,7 @@
     "Attachments/Templates/Inventory.md",
     "PC/Ashe Lightborn.md",
     "Attachments/Templates/Reward.md",
-    "Pending.md",
     "World/Items",
-    "Narrative/Questlines/A Lion's roar.md",
     "Narrative/Questlines",
     "World/Memoria/Regions",
     "World/Memoria/Cedonia/Narghol",
