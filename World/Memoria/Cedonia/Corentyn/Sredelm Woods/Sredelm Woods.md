@@ -38,5 +38,6 @@ https://www.d20pfsrd.com/bestiary/monster-listings/animals/wolverine/wolverine-d
 https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/werebear
 https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/winter-wolf/two-headed-winter-worg
 https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hound-of-tindalos
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/winter-wolf/two-headed-winter-worg
 
 https://www.d20pfsrd.com/bestiary/monster-listings/plants/mandragora/immense-mandragora
