@@ -2,7 +2,7 @@
 Questtype:
   - Bounty
 Provider: "[[Theodore Fairholm]]"
-Status: 
+Queststatus: In Progress
 Questline: a Lion's Roar
 ---
 #quests/lost-lambs

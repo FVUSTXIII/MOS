@@ -1,6 +1,25 @@
 {
   "presetFields": [
     {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Fetch",
+          "2": "Bounty",
+          "3": "Escort",
+          "4": "Message"
+        }
+      },
+      "name": "Questtype",
+      "id": "E1EZt3",
+      "path": ""
+    },
+    {
       "type": "Select",
       "tagName": "select",
       "icon": "right-triangle",
@@ -87,22 +106,23 @@
       "path": ""
     },
     {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Fetch",
-          "2": "Bounty",
-          "3": "Escort",
-          "4": "Message"
+          "1": "Not started",
+          "2": "In Progress",
+          "3": "Abandoned",
+          "4": "Expired",
+          "5": "Completed"
         }
       },
-      "name": "Questtype",
-      "id": "E1EZt3",
+      "name": "Queststatus",
+      "id": "9RWXSN",
       "path": ""
     }
   ],
@@ -112,7 +132,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.10",
+  "settingsVersion": "5.11",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
