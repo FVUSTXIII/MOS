@@ -6,7 +6,7 @@
 
 9:23 am se encuentran con ladrones de Noxian
 
-10:25 pm se encuentran con Jornax Grath guardia de Lightshore
+10:25 pm se encuentran con [[Jornax Grath]] guardia de Lightshore
 
 - [[Ashe Lightborn | Ashe]] pregunta por [[Evelyn Thorn | Evelyn]]
 - [[Felix Emberfeather | Felix]] encuentra panadería
@@ -15,3 +15,6 @@
 
 ------
 
+5/08/4720 - 116 days before [[Ashe Lightborn | Ashe's]] Exorcism
+
+12:00 AM [[Shitora]] dreams of 
