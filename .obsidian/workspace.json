@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Seasons.md",
+                "file": "World/Memoria/Cedonia/Corentyn/Corentyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seasons"
+              "title": "Corentyn"
             }
           }
         ]
@@ -317,13 +317,15 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
-    "World/Memoria/Memoria.md",
+    "Pending.md",
     "World/Memoria/Seasons.md",
+    "World/Memoria/Memoria.md",
+    "World/Memoria/Cedonia/Bravia/Bravia.md",
+    "World/Memoria/Floating City of Koloran/Floating City of Koloran.md",
     "World/Memoria/Regions",
     "World/Memoria/Cedonia/Narghol",
     "World/Memoria/Cedonia",
     "Attachments/References/Region reference.md",
-    "Pending.md",
     "Attachments/Templates/Character/Character.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC/Bravian Soldier",
@@ -358,8 +360,6 @@
     "Attachments/References/Images to be used.md",
     "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
-    "World/Timeline/4 Age of Serpents/Age of Serpents.md",
-    "PC/Phantom.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
