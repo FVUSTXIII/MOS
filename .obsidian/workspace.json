@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Memoria.md",
+                "file": "World/Memoria/Seasons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria"
+              "title": "Seasons"
             }
           }
         ]
@@ -311,12 +311,17 @@
       "fantasy-content-generator:Fantasy Generators": false,
       "markdown-importer:Open format converter": false,
       "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "World/Memoria/Memoria.md",
+    "World/Memoria/Seasons.md",
+    "World/Memoria/Regions",
+    "World/Memoria/Cedonia/Narghol",
+    "World/Memoria/Cedonia",
     "Attachments/References/Region reference.md",
     "Pending.md",
     "Attachments/Templates/Character/Character.md",
@@ -354,12 +359,7 @@
     "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
     "World/Timeline/4 Age of Serpents/Age of Serpents.md",
-    "World/Timeline/3 Age of Lost Omens",
-    "World/Timeline/1 Age of creation",
-    "World/Timeline/2 Age of Dragons",
     "PC/Phantom.md",
-    "World/Timeline/Timeline.md",
-    "Narrative/NPC/Important Characters/Nobility/Bravian Nobility/House Fairholm/Theodore Fairholm/Theodore Fairholm.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213163927475.png",
     "Attachments/IMG/World/Provisional Bravia/IMG-20241120015255842.svg",
