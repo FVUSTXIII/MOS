@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
+                "file": "Sessions/03 - The witch/03 - The Witch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sredelm Woods"
+              "title": "03 - The Witch"
             }
           }
         ],
@@ -358,8 +358,8 @@
   },
   "active": "dee00b905ff464db",
   "lastOpenFiles": [
-    "World/Memoria/Memoria.md",
     "World/Memoria/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
+    "World/Memoria/Memoria.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
     "Sessions/04 - The Woods/Encounters",
     "Sessions/04 - The Woods/DC Tables.md",
