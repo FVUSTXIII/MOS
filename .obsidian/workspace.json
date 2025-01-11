@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Quest.md",
+                "file": "Narrative/Questlines/Quests/Lost lambs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quest"
+              "title": "Lost lambs"
             }
           }
         ]
@@ -317,10 +317,10 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "Attachments/Templates/Quest.md",
     "Narrative/Questlines/Quests/Lost lambs.md",
     "Narrative/Questlines/A Lion's roar.md",
     "Narrative/Questlines/Five Of Cups.md",
-    "Attachments/Templates/Quest.md",
     "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Items.md",

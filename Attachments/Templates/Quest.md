@@ -1,7 +1,7 @@
 ---
 Questtype: 
 Provider: 
-QuestStatus: 
+Queststatus: 
 Questline:
 ---
 
