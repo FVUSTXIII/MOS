@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Narrative/Questlines/Quests/Lost lambs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -317,12 +317,13 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
+    "Narrative/Questlines/A Lion's roar.md",
+    "Narrative/Questlines/Five Of Cups.md",
+    "Narrative/Questlines/Quests/Lost lambs.md",
     "Attachments/Templates/Quest.md",
     "Attachments/Templates/Locations/Building.md",
     "Attachments/Templates/Current Date Template.md",
     "Attachments/Templates/Items.md",
-    "Narrative/Questlines/Quests/Lost lambs.md",
-    "Narrative/Questlines/A lion's roar.md",
     "Pending.md",
     "Narrative/Questlines",
     "World/Memoria/Cedonia/Corentyn/Corentyn.md",
@@ -354,7 +355,6 @@
     "Attachments/Templates/Character/Wealth",
     "Narrative/NPC/Important Characters/MISC/Valestos Vaughn Ivor.md",
     "Attachments/Templates/Character/Inventory",
-    "Attachments/Templates/Character/Untitled.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927613.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927580.png",
