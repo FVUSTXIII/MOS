@@ -106,7 +106,8 @@ Espero que algún día encuentres paz.
 
 * Festival de [[Torian Grimm]] en [[Sigtritoft]] el 19 Kuthona. El premio "[[La espatula dorada]]"
 * Comen en la polleria de Luis el pollero, a Phantom le cae mal y se queda en el baño de la Inn.
+* llegan con el viejito y ashe lo cura
 
 9:00 AM 
 
-* Deciden partir de lightcrest a 
+* Deciden partir de lightcrest mediante un atajo
