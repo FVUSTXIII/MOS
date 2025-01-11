@@ -1,15 +1,13 @@
-
-```dataview
-table
-from "Narrative/Questlines/Quests"
-where Questline = "a Lion's Roar"
-```
 ```dataview
 TABLE WITHOUT ID
-file.link AS Quest
+file.link AS Quest,
+Provider,
+Queststatus as Status
+
 
 FROM
-Quests
+"Narrative/Questlines/Quests"
 
-WHER
+WHERE
+Questline = "a Lion's Roar"
 ```
