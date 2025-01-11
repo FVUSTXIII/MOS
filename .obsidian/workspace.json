@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/Inventory.md",
+                "file": "Attachments/Templates/Character/Inventory/Inventory Socket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Inventory Socket"
             }
           },
           {
@@ -331,8 +331,14 @@
   },
   "active": "7b95b89182ae8c4b",
   "lastOpenFiles": [
-    "Attachments/Templates/Item.md",
+    "Attachments/Templates/Character/Inventory/Inventory.md",
+    "Attachments/Templates/Character/Inventory/Inventory Socket.md",
+    "Attachments/Templates/Character/Inventory/Untitled.md",
+    "Attachments/Templates/Character/Character.md",
+    "Attachments/Templates/Character/Inventory/Wealth.md",
     "Attachments/Templates/Inventory.md",
+    "PC/Ashe Lightborn.md",
+    "Attachments/Templates/Item.md",
     "Attachments/Templates/Reward.md",
     "Attachments/Templates/Quest.md",
     "Pending.md",
@@ -356,18 +362,12 @@
     "World/Memoria/Cedonia/Narghol",
     "World/Memoria/Cedonia",
     "Attachments/References/Region reference.md",
-    "Attachments/Templates/Character/Character.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC/Bravian Soldier",
     "Attachments/IMG/Narrative/NPC/Important Characters/MISC",
     "Narrative/NPC/Important Characters/MISC",
     "Narrative/NPC/Important Characters/Organizations",
     "World/Calendar/EVENTS/Current Day.md",
-    "World/Calendar/Days of the Week.md",
-    "Current Session Summary.md",
-    "Attachments/Templates/Character/Inventory/Inventory.md",
-    "Attachments/Templates/Character/Statblocks.md",
-    "Attachments/Templates/Character/Relations.md",
     "Attachments/Templates/Character/Wealth",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927613.png",
