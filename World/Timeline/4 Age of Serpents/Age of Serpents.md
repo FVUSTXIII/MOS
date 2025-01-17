@@ -39,7 +39,17 @@ date: 14-Gozran-4705
 title: [[XIV International Magic Convention]]
 content: sdfgsdfg
 
+date: 17-Sarenith-4705
+title: [[Koloran Separatist Faction Creation]]
+content: asdfasdf
 
+date: 04-Desnus-4706
+title: [[Xandalar Treaty Sign]]
+content: asdf
+
+date: 22-Rova-4708
+title: [[Death of Isaac Ruvalcaf, Hunter Lasso, Hunter Lasso Jr. & Walter Peters]]
+content: asdfasdf
 
 
 date: 31-Arodus-4720 
