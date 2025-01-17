@@ -31,7 +31,16 @@ date: 25-Neth-4703
 title: [[Kaynakla Expedition]]
 content: asdfasdf
 
-date: 
+date: 05-Desnus-4704
+title: [[Hunter Lasso Marries Evelyn Thorn in 4704]]
+content: asdfasdf
+
+date: 14-Gozran-4705
+title: [[XIV International Magic Convention]]
+content: sdfgsdfg
+
+
+
 
 date: 31-Arodus-4720 
 title: [[Death of Oliver Wrynn]]
