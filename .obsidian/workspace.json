@@ -221,11 +221,11 @@
                     "month": 8,
                     "year": 4720
                   },
-                  "viewState": 2,
+                  "viewState": 0,
                   "displaying": {
-                    "day": 4,
-                    "month": 8,
-                    "year": 4720
+                    "day": 5,
+                    "month": 0,
+                    "year": 4695
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -337,7 +337,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,13 +363,14 @@
   },
   "active": "8bee7e5ac47f2154",
   "lastOpenFiles": [
-    "World/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Narrative/Plot Hooks/Untitled.md",
+    "World/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "World/Timeline/4 Age of Serpents/Death of Bonobo's Son.md",
+    "World/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "World/Items/Unknown recipe.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Narrative/NPC/Important Characters/MISC/Valestos Vaughn Ivor.md",
     "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-    "World/Timeline/4 Age of Serpents/Age of Serpents.md",
     "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
     "Campaing Overview.md",
     "Current Session Summary.md",
@@ -394,7 +395,6 @@
     "PC/Zenshin Rusk.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
-    "Attachments/Templates/Character/Inventory/Inventory Socket.md",
     "Index.canvas",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves",
