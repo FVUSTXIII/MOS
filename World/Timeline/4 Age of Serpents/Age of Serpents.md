@@ -21,6 +21,9 @@ date: 10-Pharast-4670
 title: [[Start of Third Great War]]
 content: asdfasdf
 
+date: 28-Desnus-4674
+title: 
+
 date: 16-Neth-4675
 title: [[Birth of Miranda Gemini]]
 content: asdfasdf
@@ -130,6 +133,10 @@ content: asdfasdf
 date: 08-Abadius-4708
 title: [[Death of Isaac Ruvalcaf, Hunter Lasso, Hunter Lasso Jr. & Walter Peters]]
 content: asdfasdf
+
+date: 19-Arodus-4710
+title: [[Death of Frances Gemini]]
+content: asdfasd
 
 date: 31-Arodus-4720 
 title: [[Death of Oliver Wrynn]]
