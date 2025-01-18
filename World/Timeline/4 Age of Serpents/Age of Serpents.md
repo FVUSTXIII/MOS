@@ -9,6 +9,10 @@ date: 01-Rova-4494
 title: [[Birth of Phantom]]
 content: asdf
 
+date: 12-Rova-4636
+title: [[Birth of Mark Gemini]]
+content: zxczx
+
 date: 04-Calistri-4658
 title: [[Birth of Frances Donbrook]]
 content: asdfasd
