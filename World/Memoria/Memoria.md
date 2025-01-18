@@ -24,7 +24,7 @@ Cedonia:
 * Bouldcorr
 * Indiggulf
 * Lunacreg
-* Estchall
+* 
 * Onyned
 
 ## Subentities

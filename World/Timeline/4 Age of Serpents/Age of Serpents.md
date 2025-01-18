@@ -21,7 +21,13 @@ date: 30-Abadius-4678
 title: [[Birth of Evelyn Thorn]]
 content: asdfasd
 
-date: 
+date: 31-Pharast-4681
+title: [[Corentyn Invasion By Bravian Forces]]
+content: asdf
+
+date: 7-Kuthona-4682
+title: [[Battle of Sredelm]]
+content: asdfa
 
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Timeline/4 Age of Serpents/Age of Serpents.md",
+                "file": "World/Memoria/Memoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Age of Serpents"
+              "title": "Memoria"
             }
           }
         ]
@@ -343,8 +343,9 @@
   },
   "active": "8bee7e5ac47f2154",
   "lastOpenFiles": [
-    "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
+    "Battle of Sredelm.md",
     "World/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "World/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
     "World/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "World/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Narrative/Plot Hooks/Untitled.md",
