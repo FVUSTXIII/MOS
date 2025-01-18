@@ -77,7 +77,9 @@ date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
 content: asdfasdf
 
-
+date: 06-Abadius-4965
+title: [[Hunter Lasso Meets Evelyn Thorn]]
+content: asdfasdf
 
 date: 23-Lamashan-4695
 title: [[Death of Urkle Green|Death of Bonobo's Son]]
