@@ -17,6 +17,10 @@ date: 10-Pharast-4670
 title: [[Start of Third Great War]]
 content: asdfasdf
 
+date: 16-Neth-4675
+title: [[Birth of Miranda Gemini]]
+content: asdfasdf
+
 date: 30-Abadius-4678
 title: [[Birth of Evelyn Thorn]]
 content: asdfasd
