@@ -69,7 +69,9 @@ date: 10-Pharast-4699
 title: [[Generation of 95 Graduates]]
 content: as
 
-
+date: 26-Abadius-4700
+title: [[Birth of Zenshin Rusk]]
+content: asdfasdf
 
 date: 24-Gozran-4700
 title: [[End of 3rd Great War]]
@@ -90,6 +92,8 @@ content: asdfasdf
 date: 05-Desnus-4704
 title: [[Hunter Lasso Marries Evelyn Thorn in 4704]]
 content: asdfasdf
+
+date: 26-Sarenith-
 
 date: 14-Gozran-4705
 title: [[XIV International Magic Convention]]
