@@ -21,6 +21,8 @@ date: 30-Abadius-4678
 title: [[Birth of Evelyn Thorn]]
 content: asdfasd
 
+date: 
+
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
 content: asdfasdf
