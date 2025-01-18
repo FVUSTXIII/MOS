@@ -81,6 +81,10 @@ date: 10-Abadaius-4691
 title: [[Miranda Gemini first day of school at Koloran´s Magic Academy]]
 content: asdfasdf
 
+date: 24-Kuthona-4694
+title: [[Generation of 91 Graduates | Miranda Graduates]]
+content: asdf
+
 date: 06-Abadius-4695
 title: [[Hunter Lasso Meets Evelyn Thorn]]
 content: asdfasdf
