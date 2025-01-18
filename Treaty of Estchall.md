@@ -1,0 +1,1 @@
+All territory gained during Bravian Occupation was returned to their previous owners.
