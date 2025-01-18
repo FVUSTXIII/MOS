@@ -77,7 +77,11 @@ date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
 content: asdfasdf
 
-date: 06-Abadius-4965
+date: 10-Abadaius-4691
+title: [[Miranda Gemini first day of school at Koloran´s Magic Academy]]
+content: asdfasdf
+
+date: 06-Abadius-4695
 title: [[Hunter Lasso Meets Evelyn Thorn]]
 content: asdfasdf
 
