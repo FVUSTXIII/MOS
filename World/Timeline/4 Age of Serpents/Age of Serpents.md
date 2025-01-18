@@ -38,7 +38,7 @@ title: [[Evelyn Parents Die]]
 content: asdf
 
 date: 15-Kuthona-4682
-title: [[Wath Thorn Funds Thorn Institute]]
+title: [[Waith Thorn Funds Thorn Institute]]
 content: asdf
 
 date: 18-Erastus-4683
