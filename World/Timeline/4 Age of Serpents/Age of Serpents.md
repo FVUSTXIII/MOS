@@ -43,12 +43,17 @@ content: asdf
 
 date: 12-Desnus-4684
 title: [[Oliver Wrynn is given Birth in Thorn Institute]]
+content:
+
+date: 30-Gozran-4686
+title: [[Evelyn Thorn is adopted by the Gemini Household]]
+content: 
+
+
 
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
 content: asdfasdf
-
-
 
 date: 23-Lamashan-4695
 title: [[Death of Bonobo's Son]]
