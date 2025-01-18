@@ -317,7 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 508.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,7 +341,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b8a15af0b7fd72c",
+  "active": "4f775a0fbcd11efd",
   "lastOpenFiles": [
     "World/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "World/Timeline/4 Age of Serpents/Age of Serpents.md",
