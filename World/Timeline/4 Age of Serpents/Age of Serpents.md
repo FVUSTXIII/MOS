@@ -81,6 +81,10 @@ date: 10-Abadaius-4691
 title: [[Miranda Gemini first day of school at Koloran´s Magic Academy]]
 content: asdfasdf
 
+date: 11-Abadaius-4691
+title: [[Miranda Gemini meets Bonobo Green]]
+content: asdfasdf 
+
 date: 24-Kuthona-4694
 title: [[Generation of 91 Graduates | Miranda Graduates]]
 content: asdf

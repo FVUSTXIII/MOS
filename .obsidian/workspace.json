@@ -197,15 +197,15 @@
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 5,
-                    "month": 8,
-                    "year": 4720
+                    "day": 19,
+                    "month": 4,
+                    "year": 4691
                   },
                   "viewState": 0,
                   "displaying": {
                     "day": 5,
                     "month": 0,
-                    "year": 4694
+                    "year": 4691
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -341,7 +341,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f775a0fbcd11efd",
+  "active": "8b8a15af0b7fd72c",
   "lastOpenFiles": [
     "World/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "World/Timeline/4 Age of Serpents/Age of Serpents.md",
