@@ -22,14 +22,17 @@ title: [[Birth of Evelyn Thorn]]
 content: asdfasd
 
 date: 31-Pharast-4681
-title: [[Corentyn Invasion By Bravian Forces]]
+title: [[Corentyn Invaded By Bravian Forces]]
 content: asdf
 
-date: 7-Kuthona-4682
+
+
+date: 7-Gozran-4682
 title: [[Battle of Sredelm]]
 content: asdfa
 
-date: 15-Gozran-4682
+
+date: 15-Kuthona-4682
 title: [[Wath Thorn Funds Thorn Institute]]
 content: asdf
 
@@ -37,9 +40,13 @@ date: 18-Erastus-4683
 title: [[Treaty of Estchall]]
 content: asdf
 
+date: 12-Desnus-
+
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
 content: asdfasdf
+
+
 
 date: 23-Lamashan-4695
 title: [[Death of Bonobo's Son]]
