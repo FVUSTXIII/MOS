@@ -19,13 +19,13 @@ date: 10-Pharast-4670
 title: [[Start of Third Great War]]
 content: asdfasdf
 
+date: 30-Abadius-4678
+title: [[Birth of Evelyn Thorn]]
+content: asdfasd
+
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
-content:
-
-date: 30-A
-title: [[Birth of Evelyn Thorn]]
-content:
+content: asdfasdf
 
 date: 23-Lamashan-4695
 title: [[Death of Bonobo's Son]]
