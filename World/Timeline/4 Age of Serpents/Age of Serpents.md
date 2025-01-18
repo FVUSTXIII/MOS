@@ -22,7 +22,8 @@ title: [[Start of Third Great War]]
 content: asdfasdf
 
 date: 28-Desnus-4674
-title: 
+title: [[Mark Gemini and Frances Donbrook get married]]
+content: 
 
 date: 16-Neth-4675
 title: [[Birth of Miranda Gemini]]
