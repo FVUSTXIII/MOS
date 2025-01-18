@@ -1,6 +1,4 @@
 
-
-
 ```timeline-labeled
 [line-3, body-2] 
 date: 01-Abadaius-0
