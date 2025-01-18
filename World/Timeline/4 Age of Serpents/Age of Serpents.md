@@ -138,12 +138,16 @@ title: [[Xandalar Treaty Sign]]
 content: asdf
 
 date: 22-Rova-4707
-title: [[Evelyn Thorn Becomes Pregnant with Hunter Lasso Jr]]
+title: [[Evelyn Lasso Becomes Pregnant with Hunter Lasso Jr]]
 content: asdfasdf
 
 date: 08-Abadius-4708
 title: [[Death of Isaac Ruvalcaf, Hunter Lasso, Hunter Lasso Jr. & Walter Peters]]
 content: asdfasdf
+
+date: 17-Sarenith-4709
+title: [[Evelyn Thorn Moves back to Gemini Manor back at Sredelm Woods]]
+content: asdfasd
 
 date: 19-Arodus-4710
 title: [[Death of Frances Gemini]]
