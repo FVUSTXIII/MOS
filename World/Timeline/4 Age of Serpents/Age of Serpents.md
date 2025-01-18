@@ -4,7 +4,7 @@
 ```timeline-labeled
 [line-3, body-2] 
 date: 01-Abadaius-0
-title: Beginning of The Age Of Serpents
+title: [[Beginning of Age Of Serpents|Beginning of The Age Of Serpents]]
 content: The modern version of roasted coffee originated in Arabia. During the 13th century, coffee was extremely popular with the Muslim community for its stimulant powers, which proved useful during long prayer sessions. By parching and boiling the coffee beans, rendering them infertile, the Arabs were able to corner the market on coffee crops. In fact, tradition says that not a single coffee plant existed outside of Arabia or Africa until the 1600s, when Baba Budan, an Indian pilgrim, left Mecca with fertile beans fastened to a strap across his abdomen. Baba’s beans resulted in a new and competitive European coffee trade. 
 
 date: 23-Lamashan-4695
@@ -47,10 +47,13 @@ date: 04-Desnus-4706
 title: [[Xandalar Treaty Sign]]
 content: asdf
 
-date: 22-Rova-4708
-title: [[Death of Isaac Ruvalcaf, Hunter Lasso, Hunter Lasso Jr. & Walter Peters]]
+date: 22-Rova-4707
+title: [[Evelyn Thorn Becomes Pregnant with Hunter Lasso Jr]]
 content: asdfasdf
 
+date: 08-Abadius-4708
+title: [[Death of Isaac Ruvalcaf, Hunter Lasso, Hunter Lasso Jr. & Walter Peters]]
+content: asdfasdf
 
 date: 31-Arodus-4720 
 title: [[Death of Oliver Wrynn]]
