@@ -53,8 +53,6 @@ date: 30-Gozran-4686
 title: [[Evelyn Thorn is adopted by the Gemini Household]]
 content: 
 
-
-
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
 content: asdfasdf
@@ -63,9 +61,15 @@ date: 23-Lamashan-4695
 title: [[Death of Bonobo's Son]]
 content: In 1616, the Dutch founded the first European-owned coffee estate in Sri Lanka, then Ceylon, then Java in 1696. The French began growing coffee in the Caribbean, followed by the Spanish in Central America and the Portuguese in Brazil. European coffee houses sprang up in Italy and later France, where they reached a new level of popularity. Now, it is de _rigueur_ for Parisians to indulge in a cup of coffee and a baguette or croissant at the numerous coffee cafes throughout Paris.
 
+date: 23-Calistril-4699
+title: [[Birth of Ashe Lightborn]]
+content: asdfasdf
+
 date: 10-Pharast-4699
 title: [[Generation of 95 Graduates]]
 content: as
+
+
 
 date: 24-Gozran-4700
 title: [[End of 3rd Great War]]
