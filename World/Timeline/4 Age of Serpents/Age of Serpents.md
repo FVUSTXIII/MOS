@@ -30,6 +30,8 @@ title: [[Battle of Sredelm]]
 content: asdfa
 
 date: 18-Erastus-4683
+title: [[Treaty of Estchall]]
+content: asdf
 
 date: 24-Erastus-4690
 title: [[Vostrillian Invasion to Cedonia]]
