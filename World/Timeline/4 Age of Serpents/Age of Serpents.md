@@ -21,6 +21,10 @@ date: 16-Neth-4675
 title: [[Birth of Miranda Gemini]]
 content: asdfasdf
 
+date: 27-Calistri-4676
+title: [[Frances Gemini Falls ill]]
+content: asdfasdf
+
 date: 30-Abadius-4678
 title: [[Birth of Evelyn Thorn]]
 content: asdfasd
@@ -93,7 +97,9 @@ date: 05-Desnus-4704
 title: [[Hunter Lasso Marries Evelyn Thorn in 4704]]
 content: asdfasdf
 
-date: 26-Sarenith-
+date: 26-Sarenith-4704
+title: [[Birth of Felix Emberfeather]]
+content: asdfapsdokf
 
 date: 14-Gozran-4705
 title: [[XIV International Magic Convention]]
