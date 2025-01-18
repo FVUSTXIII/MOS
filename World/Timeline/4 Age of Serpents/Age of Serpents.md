@@ -7,15 +7,17 @@ date: 01-Abadaius-0
 title: [[Beginning of Age Of Serpents|Beginning of The Age Of Serpents]]
 content: The modern version of roasted coffee originated in Arabia. During the 13th century, coffee was extremely popular with the Muslim community for its stimulant powers, which proved useful during long prayer sessions. By parching and boiling the coffee beans, rendering them infertile, the Arabs were able to corner the market on coffee crops. In fact, tradition says that not a single coffee plant existed outside of Arabia or Africa until the 1600s, when Baba Budan, an Indian pilgrim, left Mecca with fertile beans fastened to a strap across his abdomen. Baba’s beans resulted in a new and competitive European coffee trade. 
 
-date: 12-Kuthona-
+date: 12-Kuthona-4662
 title: [[United Vostrillian front is created]]
-content: 
+content: asdfasd
 
 date: 10-Pharast-4670
 title: [[Start of Third Great War]]
 content: asdfasdf
 
-
+date: 24-Erastus-4690
+title: [[Vostrillian Invasion to Cedonia]]
+content:
 
 date: 23-Lamashan-4695
 title: [[Death of Bonobo's Son]]
