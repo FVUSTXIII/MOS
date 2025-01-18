@@ -9,6 +9,10 @@ date: 01-Rova-4494
 title: [[Birth of Phantom]]
 content: asdf
 
+date: 04-Calistri-4658
+title: [[Birth of Frances Donbrook]]
+content: asdfasd
+
 date: 12-Kuthona-4662
 title: [[United Vostrillian front is created]]
 content: asdfasd
