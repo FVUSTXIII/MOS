@@ -213,8 +213,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b",
-                "child": "ID_9a5a1b3829c8"
+                "id": "ID_fab95b49890b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -305,7 +304,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -335,10 +333,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "3a3a80f2b78bc3b6",
