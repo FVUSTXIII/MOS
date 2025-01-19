@@ -10,11 +10,16 @@ title: [[Birth of Phantom]]
 content: asdf
 
 date: 04-Sarenith-4634
-title: 
+title: [[Birth of Bonobo Green]]
+content: asdfasdf
 
 date: 12-Rova-4636
 title: [[Birth of Mark Gemini]]
 content: zxczx
+
+date: 28-Pharast-4656
+title: [[Birth of Urkle Green]]
+content: asdfasdf
 
 date: 04-Calistri-4658
 title: [[Birth of Frances Donbrook]]
