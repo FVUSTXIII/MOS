@@ -1,6 +1,7 @@
 ---
-Buildingtype: 
-OcuppiedBy: 
+Buildingtype:
+  - Education
+OcuppiedBy: Waith Thorn
 Habitants: 
 Located: 
 Floors: 
@@ -16,7 +17,10 @@ Rooms:
 
 ![](https://i.imgur.com/nGyVAiL.png)
 
-### b1
+### B1
+
+![](https://i.imgur.com/EgFJjlg.png)
+
 
 ### B2
 
@@ -24,3 +28,7 @@ Rooms:
 
 
 ![](https://i.imgur.com/zpTHOpW.png)
+
+### B3
+
+![](https://i.imgur.com/wlvHkrf.png)

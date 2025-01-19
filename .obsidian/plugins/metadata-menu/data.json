@@ -101,6 +101,31 @@
       "path": ""
     },
     {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Consumable",
+          "2": "Magic",
+          "3": "Masterwork",
+          "4": "Key",
+          "5": "Material",
+          "6": "ammo",
+          "7": "armor",
+          "8": "weapon",
+          "9": "misc",
+          "10": "Document"
+        }
+      },
+      "name": "itemtype",
+      "id": "hVzKnh",
+      "path": ""
+    },
+    {
       "type": "Select",
       "tagName": "select",
       "icon": "right-triangle",
@@ -174,36 +199,12 @@
           "3": "Social",
           "4": "Business",
           "5": "Crime",
-          "6": "Military"
+          "6": "Military",
+          "7": "Education"
         }
       },
       "name": "Buildingtype",
       "id": "ug3qsq",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
-          "1": "Consumable",
-          "2": "Magic",
-          "3": "Masterwork",
-          "4": "Key",
-          "5": "Material",
-          "6": "ammo",
-          "7": "armor",
-          "8": "weapon",
-          "9": "misc",
-          "10": "Document"
-        }
-      },
-      "name": "itemtype",
-      "id": "hVzKnh",
       "path": ""
     }
   ],
@@ -213,7 +214,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.17",
+  "settingsVersion": "5.18",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
