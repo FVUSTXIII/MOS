@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "showOnTimeLine": "checkbox",
     "Type": "multitext",
-    "Materials": "multitext"
+    "Materials": "multitext",
+    "Actors": "multitext"
   }
 }
