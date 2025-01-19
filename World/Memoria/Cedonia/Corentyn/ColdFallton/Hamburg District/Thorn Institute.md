@@ -6,11 +6,29 @@ Habitants: "196"
 Located: "[[Hamburg District]]"
 Floors: "5"
 Status: 
-Rooms:
+Rooms: "86"
 ---
 ## General Floor
 
 ![](https://i.imgur.com/N4B4n5u.png)
+
+## First Floor
+
+![](https://i.imgur.com/H2TmvBo.png)
+
+
+## Second Floor
+
+![](https://i.imgur.com/ldEUqpj.png)
+
+
+## Third Floor
+
+![](https://i.imgur.com/6wnFdvG.png)
+
+## Forth Floor
+
+![](https://i.imgur.com/CGH5oGk.png)
 
 
 ## Basement
@@ -32,3 +50,4 @@ Rooms:
 ### B3
 
 ![](https://i.imgur.com/wlvHkrf.png)
+
