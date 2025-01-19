@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b91383a612a9d7de",
+        "id": "bddda1923d9bfa04",
         "type": "tabs",
         "children": [
           {
-            "id": "4f775a0fbcd11efd",
+            "id": "3a3a80f2b78bc3b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Cedonia/Corentyn/ColdFallton/Thorn Institute.md",
+                "file": "World/Memoria/Cedonia/Corentyn/ColdFallton/Hamburg District/Thorn Institute.md",
                 "mode": "source",
                 "source": false
               },
@@ -341,11 +341,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f775a0fbcd11efd",
+  "active": "3a3a80f2b78bc3b6",
   "lastOpenFiles": [
+    "World/Memoria/Cedonia/Corentyn/ColdFallton/Hamburg District/Hamburg District.md",
     "World/Memoria/Cedonia/Corentyn/ColdFallton/ColdFallton.md",
-    "World/Memoria/Cedonia/Corentyn/ColdFallton/Thorn Institute.md",
     "World/Memoria/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
+    "World/Memoria/Cedonia/Corentyn/Corentyn.md",
+    "World/Memoria/Cedonia/Corentyn/ColdFallton/Hamburg District",
+    "World/Memoria/Cedonia/Corentyn/ColdFallton/Hamburg District/Thorn Institute.md",
+    "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility/Waith Thorn.md",
+    "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility",
     "World/Memoria/Memoria.md",
     "World/Timeline/4 Age of Serpents/Age of Serpents.md",
     "World/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
@@ -367,9 +372,6 @@
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "World/Items/Unknown recipe.md",
     "Sessions/03 - The witch/03 - The Witch.md",
-    "Sessions/01 - The wizard who never was/0 - Recap.md",
-    "Sessions/01 - The wizard who never was/Introducción.md",
-    "Beginning of The Age Of Serpents.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "World/Memoria/Cedonia/Corentyn/ColdFallton",
     "Sessions/04 - The Woods/Encounters",
@@ -382,8 +384,6 @@
     "World/Memoria/Seasons",
     "World/Items",
     "Narrative/Questlines",
-    "World/Memoria/Regions",
-    "World/Memoria/Narghol",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927613.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927580.png",

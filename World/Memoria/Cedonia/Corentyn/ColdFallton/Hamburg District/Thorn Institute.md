@@ -1,10 +1,10 @@
 ---
 Buildingtype:
   - Education
-OcuppiedBy: Waith Thorn
-Habitants: 
-Located: 
-Floors: 
+OcuppiedBy: "[[Waith Thorn]]"
+Habitants: "196"
+Located: "[[Hamburg District]]"
+Floors: "5"
 Status: 
 Rooms:
 ---
