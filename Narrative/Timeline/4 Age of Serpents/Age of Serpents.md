@@ -9,6 +9,9 @@ date: 01-Rova-4494
 title: [[Birth of Phantom]]
 content: asdf
 
+date: 04-Sarenith-4634
+title: 
+
 date: 12-Rova-4636
 title: [[Birth of Mark Gemini]]
 content: zxczx

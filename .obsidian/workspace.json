@@ -205,7 +205,7 @@
                   "displaying": {
                     "day": 5,
                     "month": 0,
-                    "year": 4691
+                    "year": 4634
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -341,7 +341,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4aa812af24b5c705",
+  "active": "8b8a15af0b7fd72c",
   "lastOpenFiles": [
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Attachments/Templates/Event.md",
