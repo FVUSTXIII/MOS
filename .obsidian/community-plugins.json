@@ -25,5 +25,6 @@
   "metadata-menu",
   "checklist-progress",
   "obsidian-timeline",
-  "quickadd"
+  "quickadd",
+  "obsidian-import-json"
 ]
