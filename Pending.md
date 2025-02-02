@@ -21,6 +21,7 @@
 - [x]  Define Item structure
 - [ ]  Research quickadd plugin
 - [ ] Research Dataviewjs
+- [ ] research on goverment organizations and cultures
 - [ ]  metadata menu research
 - [ ]  how to add a porperty conditionally metadata menu
 - [ ]  how to add icons to files 
