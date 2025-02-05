@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pending.md",
+                "file": "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pending"
+              "title": "Age of Serpents"
             }
           }
         ]
@@ -214,7 +214,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_9a5a1b3829c8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -335,11 +336,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "090f354fbea9e19b",
   "lastOpenFiles": [
+    "Pending.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
     "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
@@ -347,7 +352,6 @@
     "Narrative/Timeline/4 Age of Serpents/Death of Oliver Wrynn.md",
     "Narrative/Timeline/4 Age of Serpents/Death of Urkle Green.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
-    "Pending.md",
     "Attachments/Templates/Event.md",
     "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "Narrative/Timeline/4 Age of Serpents/Mark Gemini and Frances Donbrook get married.md",
