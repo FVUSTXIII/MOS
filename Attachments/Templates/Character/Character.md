@@ -14,6 +14,7 @@ Death:
 Age: 
 banner: ""
 banner_y: 0.244
+statblock: inline
 ---
 
 ```ad-Tr

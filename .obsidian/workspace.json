@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Memoria.md",
+                "file": "Attachments/Templates/Character/Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria"
+              "title": "Character"
             }
           }
         ]
@@ -211,6 +211,7 @@
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
+                  "displayAbsoluteYear": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
@@ -342,8 +343,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "8b8a15af0b7fd72c",
   "lastOpenFiles": [
+    "World/Memoria/Memoria.md",
     "World/Golarion/Age of Dragons",
     "World/Golarion/Age of creation",
     "World/Golarion",
@@ -372,7 +374,6 @@
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District",
     "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility/Waith Thorn.md",
     "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility",
-    "World/Memoria/Memoria.md",
     "Narrative/NPC/Important Characters/Organizations/Sociedad Internacional Arcana/Mark Gemini.md",
     "2025-01-18.md",
     "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
@@ -381,7 +382,6 @@
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton",
-    "Sessions/04 - The Woods/Encounters",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Index.canvas",
