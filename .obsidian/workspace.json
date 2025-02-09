@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6a87a0f80cd2d2",
+        "id": "16d0f0c13c30fad2",
         "type": "tabs",
         "children": [
           {
-            "id": "090f354fbea9e19b",
+            "id": "009b96da32b22ab9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attachments/References/Images to be used.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Images to be used"
+              "title": "New tab"
             }
           }
         ]
@@ -215,7 +211,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_fab95b49890b"
+                "id": "ID_fab95b49890b",
+                "child": "ID_9a5a1b3829c8"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -336,11 +333,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "090f354fbea9e19b",
+  "active": "009b96da32b22ab9",
   "lastOpenFiles": [
+    "Attachments/References/Images to be used.md",
     "Pending.md",
     "Attachments/Templates/Character/Character.md",
     "World/Memoria/Memoria.md",
@@ -375,7 +376,6 @@
     "2025-01-18.md",
     "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
     "Narrative/NPC/Important Characters/Organizations/Sociedad Internacional Arcana/Sociedad Internacional Arcana.md",
-    "Narrative/NPC/Important Characters/Organizations/Sociedad Internacional Arcana/Miranda Gemini.md",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton",
