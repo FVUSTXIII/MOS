@@ -15,6 +15,8 @@ Age:
 banner: ""
 banner_y: 0.244
 statblock: inline
+Name: {{name}}
+Alignment: {{alignment}}
 ---
 
 ```ad-Tr
