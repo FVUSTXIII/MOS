@@ -46,7 +46,7 @@ goals
 
 ```statblock
 layout: Layout
-Name: "Name"
+Name:
 ```
 
 ___

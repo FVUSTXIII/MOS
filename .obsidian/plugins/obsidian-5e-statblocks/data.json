@@ -68,7 +68,7 @@
   "paths": [
     "/"
   ],
-  "autoParse": true,
+  "autoParse": false,
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": false,
