@@ -46,7 +46,7 @@ goals
 
 ```statblock
 layout: Layout
-Name: <% tp.file.Name %>
+Name: Name
 ```
 
 ___
