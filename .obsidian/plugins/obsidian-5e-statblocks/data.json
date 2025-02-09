@@ -1,7 +1,60 @@
 {
   "monsters": [],
   "defaultLayouts": {},
-  "layouts": [],
+  "layouts": [
+    {
+      "name": "Layout",
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "a81ae8b8eb69",
+          "properties": [],
+          "nested": [
+            {
+              "type": "image",
+              "id": "3ac8db8a086a",
+              "properties": [
+                "portrait"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "property",
+              "id": "3b9b8a78fa48",
+              "properties": [
+                "Name"
+              ],
+              "fallback": "-",
+              "display": "",
+              "doNotAddClass": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "7829f85abb69",
+          "properties": [
+            "AbilityScores"
+          ],
+          "headers": [
+            "Str",
+            "Int",
+            "Dex",
+            "Wis",
+            "Con",
+            "Cha"
+          ],
+          "calculate": true,
+          "fallback": "-"
+        }
+      ],
+      "id": "7ba98a98fa88",
+      "cssProperties": {
+        "ruleColor": "#7a200d",
+        "headingFontColor": "barColor"
+      }
+    }
+  ],
   "default": "basic-5e-layout",
   "useDice": true,
   "renderDice": false,

@@ -44,7 +44,11 @@ goals
 --- 
 ## Statblocks
 
-```
+```statblock
+layout: Layout
+name: `=this.file.Name`
+portrait: `=this.file.Icon`
+AbilityScores: [`=this.file.`]
 ```
 
 ___
