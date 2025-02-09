@@ -48,7 +48,7 @@ goals
 layout: Layout
 name: `=this.file.Name`
 portrait: `=this.file.Icon`
-AbilityScores: [`=this.file.`]
+AbilityScores: [`=this.file.AbilityScores.str`, `=this.file.AbilityScores.int`, `=this.file.AbilityScores.dex`, `=this.file.AbilityScores.con`, `=this.file.AbilityScores.char`]
 ```
 
 ___
