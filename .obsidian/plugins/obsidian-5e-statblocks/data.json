@@ -6,7 +6,7 @@
   "useDice": true,
   "renderDice": false,
   "export": true,
-  "showAdvanced": true,
+  "showAdvanced": false,
   "version": {
     "major": 4,
     "minor": 8,
