@@ -16,6 +16,8 @@ banner_y: {{avatar_align}}
 statblock: inline
 Name: {{name}}
 Alignment: {{alignment}}
+BAB: {{bab}}
+AbilityScores: {{table AS}}
 ---
 
 ```ad-Tr
