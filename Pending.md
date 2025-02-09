@@ -43,3 +43,8 @@
 - [ ]  Prepare music
 - [ ]  Prepare plot 
 - [ ]  Prepare items
+
+>[!infobox]
+># `=this.file.name` 
+>![[]]
+
