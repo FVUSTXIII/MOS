@@ -17,7 +17,7 @@ statblock: inline
 Name: {{name}}
 Alignment: {{alignment}}
 BAB: {{bab}}
-AbilityScores: {{table AS}}
+AbilityScores: { str: {{abilities.str}}, int: {{abilities.int }}, dex: {{abilities.dex}} }
 ---
 
 ```ad-Tr
