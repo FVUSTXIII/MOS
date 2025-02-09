@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d0db7f400d78c18a","type":"text","text":"# PCs","x":-289,"y":-362,"width":554,"height":122},
+		{"id":"d0db7f400d78c18a","type":"text","text":"# PCs","x":-289,"y":-362,"width":554,"height":522},
 		{"id":"b6b685643baacada","type":"text","text":"# NPCs","x":1200,"y":-343,"width":178,"height":85},
 		{"id":"5b9109a5076e7b32","type":"file","file":"Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png","x":1139,"y":-160,"width":301,"height":400}
 	],

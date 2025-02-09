@@ -5,7 +5,7 @@ Alignment:
 Location: 
 Factions: 
 Titles: 
-Class: 
+Class: {{level}}
 Race: 
 State: 
 Wealth: 
@@ -41,6 +41,8 @@ goals
 
 --- 
 ## Statblocks
+
+
 
 ___
 ## Inventory
