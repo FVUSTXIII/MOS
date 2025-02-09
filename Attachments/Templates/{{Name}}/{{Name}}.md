@@ -1,7 +1,6 @@
 ---
 Description: 
 Affiliation: 
-Alignment: 
 Location: 
 Factions: 
 Titles: 
@@ -11,9 +10,9 @@ State:
 Wealth: 
 Birth: 
 Death: 
-Age: 
-banner: ""
-banner_y: 0.244
+Age: {{age}}
+banner: {{avatar}}
+banner_y: {{avatar_align}}
 statblock: inline
 Name: {{name}}
 Alignment: {{alignment}}
