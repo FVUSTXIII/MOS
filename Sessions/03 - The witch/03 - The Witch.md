@@ -88,7 +88,7 @@ Espero que algún día encuentres paz.
 
 * se encuentran con [[Jornax Grath]] guardia de Lightshore
 *  Encuentro con el viejito: "A war will wage in heaven"
-- [[Ashe Lightborn | Ashe]] pregunta por [[Evelyn Thorn | Evelyn]]
+- [[Ashe Lightborn_old| Ashe]] pregunta por [[Evelyn Thorn | Evelyn]]
 - [[Felix Emberfeather | Felix]] encuentra panadería
 
 11:00 pm 
@@ -97,7 +97,7 @@ Espero que algún día encuentres paz.
 
 ------
 
-5/08/4720 - 116 days before [[Ashe Lightborn | Ashe's]] Exorcism
+5/08/4720 - 116 days before [[Ashe Lightborn_old| Ashe's]] Exorcism
 
 12:00 AM 
 
