@@ -17,7 +17,8 @@ statblock: inline
 Name: {{name}}
 Alignment: {{alignment}}
 BAB: {{bab}}
-AbilityScores: { str: {{abilities.str}}, int: {{abilities.int }}, dex: {{abilities.dex}} }
+AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, con: {{abilities.con }}, char: {{abilities.cha}} }
+Icon: {{token}}
 ---
 
 ```ad-Tr
@@ -43,7 +44,8 @@ goals
 --- 
 ## Statblocks
 
-
+```
+```
 
 ___
 ## Inventory
