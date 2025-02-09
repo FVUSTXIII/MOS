@@ -20,11 +20,15 @@
 - [ ]  Define character location functions
 - [x]  Define Item structure
 - [ ]  Research quickadd plugin
-- [ ] Research Dataviewjs
+- [ ] Research Dataviewjs/Dataview
 - [ ] research on goverment organizations and cultures
 - [ ]  metadata menu research
 - [ ]  how to add a porperty conditionally metadata menu
 - [ ]  how to add icons to files 
+- [ ] Build json file template for character sheet
+- [ ] Define statblock sheet and properties
+
+
 
 #pending/session3
 - [ ]  Felix's new bread recipe
