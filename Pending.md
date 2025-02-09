@@ -46,5 +46,9 @@
 
 >[!infobox]
 ># `=this.file.name` 
->![[]]
+>![[IMG-20241123160632799.png|cover hsmall]]
+>#### Geography
+>Type |  Stat |
+> ---|---|
+```
 
