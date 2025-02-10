@@ -46,7 +46,7 @@ goals
 
 ```statblock
 layout: PF1stedCS
-name: 
+name: `=this.file.name`
 portrait: 
 ability_scores: [0,0,0,0,0,0]
 ```
