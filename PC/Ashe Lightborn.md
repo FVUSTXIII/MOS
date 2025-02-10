@@ -46,10 +46,17 @@ goals
 
 ```statblock
 layout: PF1stedCS
-name: Ashe Lightborn
+name: `=this.file.name`
 portrait: 
 ability_scores: [0,0,0,0,0,0]
 ```
+
+```dataviewjs
+	const frontmatter = dv.current().file.frontmatter;
+	console.log(Object.keys(frontmatter))
+	
+```
+
 
 ___
 ## Inventory

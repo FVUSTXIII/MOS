@@ -54,7 +54,7 @@ ability_scores: [0,0,0,0,0,0]
 ```dataviewjs
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
-	+ ' name: '  
+	+ ' name: ' + dv.current().fontmatter[15] + '\n'  
 	+ '```');
 ```
 
