@@ -4,21 +4,21 @@ Affiliation:
 Location: 
 Factions: 
 Titles: 
-Class: {{level}}
+Class: Paladin Lvl 10
 Race: 
 State: 
 Wealth: 
 Birth: 
 Death: 
-Age: {{age}}
-banner: {{user.avatar}}
-banner_y: {{user.avatar_align}}
+Age: 21
+banner: "https://i.imgur.com/99imyQ0.png"
+banner_y: 0.332
 statblock: true
-name: {{name}}
-Alignment: {{alignment}}
-BAB: {{bab}}
-AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, con: {{abilities.con }}, char: {{abilities.cha}} }
-Icon: {{token}}
+name: Ashe Lightborn
+Alignment: Lawful Good
+BAB: 11/6+1
+AbilityScores: { str: 10, int: 8, dex: 17, con: 16, char: 20 }
+Icon: 
 ---
 
 ```ad-Tr
@@ -46,7 +46,7 @@ goals
 
 ```statblock
 layout: PF1stedCS
-name: `=this.file.name`
+name: Ashe Lightborn
 portrait: 
 ability_scores: [0,0,0,0,0,0]
 ```
