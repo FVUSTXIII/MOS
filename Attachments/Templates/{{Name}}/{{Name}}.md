@@ -44,20 +44,22 @@ goals
 --- 
 ## Statblocks
 
-```statblock
-layout: PF1stedCS
-name: `=this.file.name`
-portrait: 
-ability_scores: [0,0,0,0,0,0]
-```
-
 ```dataviewjs
 	const frontmatter = dv.current().file.frontmatter;
+	const abilityScores = frontmatter.AbilityScores;
+	let asString = '[';
+	for(const [key, value] of Object.entries(abilityScores)) {
+		if (key !== 'char') {
+			asString += value + ','
+		} else {
+			asString += value + ']'
+		}
+	}
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
 	+ ' portrait: ' + frontmatter.Icon +'\n'
-	+ ' ability_scores: [${frontmatter.AbilityScores.str},0,0,0,0,0]' 
+	+ ' ability_scores: '+ asString + '\n'
 	+ '```');
 ```
 
