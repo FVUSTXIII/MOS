@@ -57,7 +57,7 @@ ability_scores: [0,0,0,0,0,0]
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
 	+ ' portrait: ' + frontmatter.Icon +'\n'
-	+ ' ability_scores: [0,0,0,0,0,0]' 
+	+ ' ability_scores: [${frontmatter.AbilityScores.str},0,0,0,0,0]' 
 	+ '```');
 ```
 
