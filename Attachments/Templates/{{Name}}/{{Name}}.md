@@ -51,6 +51,11 @@ portrait:
 ability_scores: [0,0,0,0,0,0]
 ```
 
+```dataviewjs
+dv.paragraph('```statblock' + '\n' + '```');
+```
+
+
 ___
 ## Inventory
 
