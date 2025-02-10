@@ -44,10 +44,7 @@ goals
 --- 
 ## Statblocks
 
-```statblock
-layout: Layout
-Name:
-```
+
 
 ___
 ## Inventory
