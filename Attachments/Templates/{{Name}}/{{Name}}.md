@@ -17,7 +17,7 @@ statblock: true
 Name: {{name}}
 Alignment: {{alignment}}
 BAB: {{bab}}
-AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, con: {{abilities.con }}, char: {{abilities.cha}} }
+AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, wis: {{abilities.wis}}, con: {{abilities.con }}, char: {{abilities.cha}} }
 Icon: {{user.token}}
 ---
 

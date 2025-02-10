@@ -53,11 +53,19 @@ ability_scores: [0,0,0,0,0,0]
 
 ```dataviewjs
 	const frontmatter = dv.current().file.frontmatter;
+	const abilityScores = frontmatter.AbilityScores;
+	let asString = '[';
+	
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
 	+ ' portrait: ' + frontmatter.Icon +'\n'
-	+ ' ability_scores: [0,0,0,0,0,0]' + '\n'
+	+ ' ability_scores: [' 
+	+ frontmatter.AbilityScores.str +',' +
+	+ frontmatter.AbilityScores.int +',' +
+	+ frontmatter.AbilityScores.dex +',' +
+	+ frontmatter.AbilityScores.wis +',' +
+	+ frontmatter.AbiliryScores.con +',' 0,0]' + '\n'
 	+ '```');
 ```
 
