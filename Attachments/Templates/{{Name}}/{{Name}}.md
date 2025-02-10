@@ -14,11 +14,11 @@ Age: {{age}}
 banner: {{user.avatar}}
 banner_y: {{user.avatar_align}}
 statblock: true
-name: {{name}}
+Name: {{name}}
 Alignment: {{alignment}}
 BAB: {{bab}}
 AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, con: {{abilities.con }}, char: {{abilities.cha}} }
-Icon: {{token}}
+Icon: {{user.token}}
 ---
 
 ```ad-Tr
@@ -52,9 +52,12 @@ ability_scores: [0,0,0,0,0,0]
 ```
 
 ```dataviewjs
+	const frontmatter = dv.current().file.frontmatter;
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
-	+ ' name: ' + dv.current().fontmatter[15] + '\n'  
+	+ ' name: ' + frontmatter.Name + '\n'
+	+ ' portrait: ' + frontmatter.Icon +'\n'
+	+ ' ability_scores: [0,0,0,0,0,0]' 
 	+ '```');
 ```
 

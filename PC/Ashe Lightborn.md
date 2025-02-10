@@ -54,7 +54,10 @@ ability_scores: [0,0,0,0,0,0]
 ```dataviewjs
 	const frontmatter = dv.current().file.frontmatter;
 	console.log(Object.keys(frontmatter))
-	
+	dv.paragraph('```statblock \n' 
+	+ ' layout: PF1stedCS \n' 
+	+ ' name: ' + frontmatter.name + '\n'  
+	+ '```');
 ```
 
 
