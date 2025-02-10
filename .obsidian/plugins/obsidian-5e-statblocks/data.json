@@ -4,7 +4,44 @@
   "layouts": [
     {
       "name": "PF1stedCS",
-      "blocks": [],
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "e99bc9e9a8ba",
+          "properties": [],
+          "nested": [
+            {
+              "type": "image",
+              "id": "6988b8c9e879",
+              "properties": [
+                "portrait"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "heading",
+              "id": "9bbbd9abe969",
+              "properties": [
+                "character_name"
+              ],
+              "size": 1,
+              "fallback": "-"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "f95838cbb959",
+          "properties": [
+            "ability_scores"
+          ],
+          "headers": [
+            "str"
+          ],
+          "calculate": true,
+          "fallback": "-"
+        }
+      ],
       "id": "d85af81b0baa"
     }
   ],
