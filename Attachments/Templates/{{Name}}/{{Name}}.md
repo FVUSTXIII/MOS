@@ -13,8 +13,8 @@ Death:
 Age: {{age}}
 banner: {{avatar}}
 banner_y: {{avatar_align}}
-statblock: inline
-Name: {{name}}
+statblock: true
+name: {{name}}
 Alignment: {{alignment}}
 BAB: {{bab}}
 AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, con: {{abilities.con }}, char: {{abilities.cha}} }
@@ -45,10 +45,10 @@ goals
 ## Statblocks
 
 ```statblock
-layout: Layout
-name: `=this.file.Name`
-portrait: `=this.file.Icon`
-AbilityScores: [`=this.file.AbilityScores.str`, `=this.file.AbilityScores.int`, `=this.file.AbilityScores.dex`, `=this.file.AbilityScores.con`, `=this.file.AbilityScores.char`]
+layout: PF1stedCS
+name: 
+portrait: 
+AbilityScores: [0,0,0,0,0,0]
 ```
 
 ___
