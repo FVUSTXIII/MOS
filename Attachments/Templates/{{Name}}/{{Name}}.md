@@ -48,7 +48,7 @@ goals
 layout: PF1stedCS
 name: 
 portrait: 
-AbilityScores: [0,0,0,0,0,0]
+ability_scores: [0,0,0,0,0,0]
 ```
 
 ___

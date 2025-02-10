@@ -22,7 +22,7 @@
               "type": "heading",
               "id": "9bbbd9abe969",
               "properties": [
-                "character_name"
+                "name"
               ],
               "size": 1,
               "fallback": "-"
@@ -36,7 +36,12 @@
             "ability_scores"
           ],
           "headers": [
-            "str"
+            "str",
+            "int",
+            "dex",
+            "wis",
+            "con",
+            "cha"
           ],
           "calculate": true,
           "fallback": "-"
