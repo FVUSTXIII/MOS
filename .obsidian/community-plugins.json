@@ -26,5 +26,6 @@
   "checklist-progress",
   "obsidian-timeline",
   "quickadd",
-  "obsidian-import-json"
+  "obsidian-import-json",
+  "obsidian-meta-bind-plugin"
 ]

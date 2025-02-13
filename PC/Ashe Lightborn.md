@@ -19,7 +19,10 @@ Alignment: Lawful Good
 BAB: 11/6+1
 AbilityScores: { str: 10, int: 8, dex: 17, wis: 12, con: 16, char: 20 }
 Icon: https://i.imgur.com/VSJSnnR.png
+TextA: johnny
 ---
+
+<% tp.frontmatter.TextA %>
 
 ```ad-Tr
 traits
