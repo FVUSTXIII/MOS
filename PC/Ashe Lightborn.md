@@ -6,13 +6,13 @@ Factions:
 Titles: 
 Class: Paladin Lvl 10
 Race: 
-State: 
+State: Alive
 Wealth: 
 Birth: 
 Death: 
 Age: 21
-banner: https:/i.imgur.com/99imyQ0.png
-banner_y: 0.332
+banner: "https:/i.imgur.com/99imyQ0.png"
+banner_y: 0.324
 statblock: true
 Name: Ashe Lightborn
 Alignment: Lawful Good
