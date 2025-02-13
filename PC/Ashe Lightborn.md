@@ -30,9 +30,11 @@ TextA: Jorgitod
 
 ##  `VIEW[{TextA}]`
 
-```meta-bind
-INPUT[text(defaultValue('"a"')):TextA]
-INPUT[text(defaultValue("'"+banner+"'")):banner]
+```meta-bind-js-view
+{banner} as banner
+---
+const banner_str = `\`INPUT[text(defaultValue(${context.bound.banner})):]\``;
+return engine.markdown.create(banner_str);
 ```
 
 
