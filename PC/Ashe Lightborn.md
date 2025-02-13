@@ -11,7 +11,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 21
-banner: https://i.imgur.com/99imyQ0.png
+banner: ![](https://i.imgur.com/99imyQ0.png)
 banner_y: 0.332
 statblock: true
 Name: Ashe Lightborn
@@ -25,7 +25,7 @@ AbilityScores:
   con: 16
   char: 20
 Icon: https://i.imgur.com/VSJSnnR.png
-TextA: Jorgito
+TextA: Jorgitoa
 ---
 
 ##  `VIEW[{TextA}]`
