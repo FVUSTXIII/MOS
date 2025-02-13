@@ -31,7 +31,7 @@ TextA: Jorgitob
 ##  `VIEW[{TextA}]`
 
 ```meta-bind
-INPUT[text):TextA]
+INPUT[text(defaultValue('a')):TextA]
 ```
 
 
