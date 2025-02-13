@@ -25,14 +25,16 @@ AbilityScores:
   con: 16
   char: 20
 Icon: https://i.imgur.com/VSJSnnR.png
-TextA: Jorgitob
+TextA: Jorgitod
 ---
 
 ##  `VIEW[{TextA}]`
 
 ```meta-bind
-INPUT[text(defaultValue('a')):TextA]
+INPUT[text(defaultValue('"a"')):TextA]
+INPUT[text(defaultValue("'"+banner+"'")):banner]
 ```
+
 
 
 
