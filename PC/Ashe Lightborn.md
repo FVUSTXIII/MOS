@@ -11,7 +11,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 21
-banner: "https:/i.imgur.com/99imyQ0.png"
+banner: https:/i.imgur.com/99imyQ0.png
 banner_y: 0.332
 statblock: true
 Name: Ashe Lightborn
@@ -34,8 +34,10 @@ banner: `INPUT[text(defaultValue(null)):banner]`
 
 ```meta-bind-js-view
 {banner} as banner
+{TextA} as text
 ---
-const banner_str = `\`INPUT[text(defaultValue(${context.bound.banner}))]\``;
+const bannerValue = context.bound.banner;
+const banner_str = `\`INPUT[text(defaultValue('"${bannerValue}"')):banner]\``;
 return engine.markdown.create(banner_str);
 ```
 
