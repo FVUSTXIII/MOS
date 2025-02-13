@@ -11,18 +11,27 @@ Wealth:
 Birth: 
 Death: 
 Age: 21
-banner: "https://i.imgur.com/99imyQ0.png"
+banner: https://i.imgur.com/99imyQ0.png
 banner_y: 0.332
 statblock: true
 Name: Ashe Lightborn
 Alignment: Lawful Good
 BAB: 11/6+1
-AbilityScores: { str: 10, int: 8, dex: 17, wis: 12, con: 16, char: 20 }
+AbilityScores:
+  str: 10
+  int: 8
+  dex: 17
+  wis: 12
+  con: 16
+  char: 20
 Icon: https://i.imgur.com/VSJSnnR.png
-TextA: johnny
+TextA: Juanito
 ---
 
-<% tp.frontmatter.TextA %>
+##  `=this.file.frontmatter.TextA`
+
+
+`INPUT[text(showcase, title('Does this work?')):TextA]`
 
 ```ad-Tr
 traits
