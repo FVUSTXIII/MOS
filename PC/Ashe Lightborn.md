@@ -11,7 +11,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 21
-banner: "https:/i.imgur.com/99imyQ0.png"
+banner: https:/i.imgur.com/99imyQ0.png
 banner_y: 0.324
 statblock: true
 Name: Ashe Lightborn
@@ -32,7 +32,7 @@ AC:
     - +2 When cast Smite Evil
     - +6 Ironskin
     - +2 Behind
-  total: "15"
+  total: "24"
   flatFooted: 
   touch: 
 ---
