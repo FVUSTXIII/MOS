@@ -37,7 +37,7 @@ banner: `INPUT[text(defaultValue(null)):banner]`
 {TextA} as text
 ---
 const bannerValue = context.bound.banner;
-const banner_str = `\`INPUT[text(defaultValue('"${bannerValue}"')):banner]\``;
+const banner_str = `\`INPUT[text(defaultValue('${bannerValue}')):banner]\``;
 return engine.markdown.create(banner_str);
 ```
 
