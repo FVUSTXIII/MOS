@@ -46,8 +46,8 @@ banner: `INPUT[text(defaultValue(null)):banner]`
 const bannerValue = context.bound.banner;
 const ac = context.bound.ac;
 const as = context.bound.as;
-let total = 10 + Math.trunc(as.dex/2) +  
-const banner_str = `\`INPUT[text(defaultValue(${bannerValue})):total]\``;
+let total = 10 + Math.trunc(as.dex/2) + ac.deflectionModifier + ac.armorBonus; 
+const banner_str = `\`INPUT[text():AC.total]\``;
 return engine.markdown.create(banner_str);
 ```
 
