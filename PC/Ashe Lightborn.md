@@ -37,9 +37,10 @@ banner: `INPUT[text(defaultValue(null)):banner]`
 
 ```meta-bind-js-view
 {banner} as banner
-{TextA} as text
+{AC} as ac
 ---
 const bannerValue = context.bound.banner;
+const ac = context.bound.ac;
 const banner_str = `\`INPUT[text(defaultValue('${bannerValue}')):banner]\``;
 return engine.markdown.create(banner_str);
 ```
