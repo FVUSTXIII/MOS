@@ -26,9 +26,12 @@ AbilityScores:
   char: 20
 Icon: https://i.imgur.com/VSJSnnR.png
 AC:
-  deflectionModifier: 10
-  armorBonus: 8
+  deflectionModifier: 4
+  armorBonus: 7
   miscModifier: ["+2 When cast Smite Evil", "+6 Ironskin", "+2 Behind"]
+  total:
+  flatFooted:
+  touch:
 ---
 
 ##  `VIEW[{TextA}]`
@@ -38,9 +41,11 @@ banner: `INPUT[text(defaultValue(null)):banner]`
 ```meta-bind-js-view
 {banner} as banner
 {AC} as ac
+{AbilityScores} as as
 ---
 const bannerValue = context.bound.banner;
 const ac = context.bound.ac;
+const as = context.bound.as;
 const banner_str = `\`INPUT[text(defaultValue('${bannerValue}')):banner]\``;
 return engine.markdown.create(banner_str);
 ```
