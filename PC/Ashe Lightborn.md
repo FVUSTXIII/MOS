@@ -25,7 +25,7 @@ AbilityScores:
   con: 16
   char: 20
 Icon: https://i.imgur.com/VSJSnnR.png
-TextA: Jorgitod
+AC: Jorgitod
 ---
 
 ##  `VIEW[{TextA}]`
