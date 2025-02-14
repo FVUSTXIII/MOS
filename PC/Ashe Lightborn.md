@@ -25,7 +25,13 @@ AbilityScores:
   con: 16
   char: 20
 Icon: https://i.imgur.com/VSJSnnR.png
-AC: Jorgitod
+AC:
+  deflectionModifier: 10
+  armorBonus: 8
+  miscModifier: 17
+  wis: 12
+  con: 16
+  char: 20
 ---
 
 ##  `VIEW[{TextA}]`
