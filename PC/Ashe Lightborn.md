@@ -28,7 +28,7 @@ Icon: https://i.imgur.com/VSJSnnR.png
 AC:
   deflectionModifier: 10
   armorBonus: 8
-  miscModifier: 17
+  miscModifier: ["+7 Smite Evil", "+6 Ironskin", "+2 Behind"]
   wis: 12
   con: 16
   char: 20
