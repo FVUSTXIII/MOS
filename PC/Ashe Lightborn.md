@@ -28,10 +28,13 @@ Icon: https://i.imgur.com/VSJSnnR.png
 AC:
   deflectionModifier: 4
   armorBonus: 7
-  miscModifier: ["+2 When cast Smite Evil", "+6 Ironskin", "+2 Behind"]
-  total:
-  flatFooted:
-  touch:
+  miscModifier:
+    - +2 When cast Smite Evil
+    - +6 Ironskin
+    - +2 Behind
+  total: "15"
+  flatFooted: 
+  touch: 
 ---
 
 ##  `VIEW[{TextA}]`
@@ -46,8 +49,9 @@ banner: `INPUT[text(defaultValue(null)):banner]`
 const bannerValue = context.bound.banner;
 const ac = context.bound.ac;
 const as = context.bound.as;
+context.bound.ac.total = 10 + Math.trunc((as.dex - 10)/2) + ac.deflectionModifier + ac.armorBonus;
 let total = 10 + Math.trunc(as.dex/2) + ac.deflectionModifier + ac.armorBonus; 
-const banner_str = `\`INPUT[text():AC.total]\``;
+const banner_str = `\`INPUT[text(defaultValue(${total})):AC.total]\``;
 return engine.markdown.create(banner_str);
 ```
 
