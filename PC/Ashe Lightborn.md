@@ -11,7 +11,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 21
-banner: "https:/i.imgur.com/99imyQ0.png"
+banner: https:/i.imgur.com/99imyQ0.png
 banner_y: 0.324
 statblock: true
 Name: Ashe Lightborn
@@ -32,7 +32,7 @@ AC:
     - +2 When cast Smite Evil
     - +6 Ironskin
     - +2 Behind
-  total: "24"
+  total: 24
   flatFooted: 
   touch: 
 ---
@@ -51,7 +51,7 @@ const ac = context.bound.ac;
 const as = context.bound.as;
 context.bound.ac.total = 10 + Math.trunc((as.dex - 10)/2) + ac.deflectionModifier + ac.armorBonus;
 let total = 10 + Math.trunc(as.dex/2) + ac.deflectionModifier + ac.armorBonus; 
-const banner_str = `\`INPUT[text(defaultValue(${total})):AC.total]\``;
+const banner_str = `\`VIEW[number(defaultValue(${total})):AC.total]\``;
 return engine.markdown.create(banner_str);
 ```
 
