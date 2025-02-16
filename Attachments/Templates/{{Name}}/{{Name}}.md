@@ -1,24 +1,28 @@
 ---
 Description:
- hair: {{hair}}
- size: {{size}}
+ Hair: {{hair}}
+ Size: {{size}}
+ Height: {{height}}
+ Weight: {{weight}}
+ Eyes: {{eyes}}
+ Gender: {{gender}}
+ Race: [[{{race}}]]
 Affiliation: 
 Location: 
 Factions: 
 Titles: 
 Class:
-  {{level}}: 
-Race: 
+  {{level}}
 State: 
 Wealth: 
 Birth: 
 Death: 
 Age:
-  {{age}}: 
+  {{age}} 
 banner:
-  {{user.avatar}}: 
+  {{user.avatar}} 
 banner_y:
-  {{user.avatar_align}}: 
+  {{user.avatar_align}}
 statblock: true
 Name:
   {{name}}: 
@@ -38,7 +42,7 @@ AbilityScores:
   con:
     {{abilities.con }}
   char:
-    "{ abilities.cha }"
+    {{ abilities.cha }}
   tempStr: {{abilities.tempStr}}
   tempInt: {{abilities.tempInt}}
   tempDex: {{abilities.tempDex}}
