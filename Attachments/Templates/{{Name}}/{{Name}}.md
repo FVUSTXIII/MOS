@@ -143,7 +143,10 @@ Level | Spell Slots  | DC |
 
 ```dataviewjs
 	dv.paragraph('>[!infobox]\n' + 
-	'># Spells per day\n'
+	'># Spells per day\n' +
+	'Level | Spell Slots  | DC |\n' +
+	'---|---|---|\n'+
+	'{{#each spells}} {{ this.slotted.[0].level  }} | {{this.totalKnown}} | {{this.dc}} |\n {{/each}}'
 	);
 ```
 
