@@ -12,8 +12,7 @@ Affiliation:
 Location: 
 Factions: 
 Titles: 
-Class:
-  {{level}}
+Class: {{level}}
 State: 
 Wealth: 
 Birth: 
@@ -25,25 +24,16 @@ banner:
 banner_y:
   {{user.avatar_align}}
 statblock: true
-Name:
-  {{name}}: 
-Alignment:
-  {{alignment}}: 
-BAB:
-  {{bab}}: 
+Name: {{name}}
+Alignment: {{alignment}}
+BAB: {{bab}} 
 AbilityScores:
-  str:
-    {{abilities.str}}
-  int:
-    {{abilities.int}}
-  dex:
-    {{abilities.dex}}
-  wis:
-    {{abilities.wis}}
-  con:
-    {{abilities.con}}
-  char:
-    {{ abilities.cha}}
+  str: {{abilities.str}}
+  int: {{abilities.int}}
+  dex: {{abilities.dex}}
+  wis: {{abilities.wis}}
+  con: {{abilities.con}}
+  char: {{ abilities.cha}}
   tempStr: {{abilities.tempStr}}
   tempInt: {{abilities.tempInt}}
   tempDex: {{abilities.tempDex}}
@@ -59,6 +49,13 @@ AC:
   total: ""
   flatFooted: ""
   touch: ""
+HP: 
+ total: {{hp.total}}
+ wounds: {{hp.wounds}}
+ nonLethal: {{nonLethal}}
+Init: 
+ total: {{initiative.total}}
+ miscMod: {{initiative.miscModifier}}
 ---
 
 >[!infobox]
