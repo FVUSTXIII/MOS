@@ -48,3 +48,6 @@
 
 
 obsidian://open?vault=Game%20Systems&file=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FElves
+
+[Elves?](obsidian://open?vault=Game%20Systems&file=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FElves)
+obsidian://adv-uri?vault=<your-vault>&filepath=my-file&heading=Goal

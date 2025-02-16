@@ -29,5 +29,6 @@
   "obsidian-import-json",
   "obsidian-meta-bind-plugin",
   "js-engine",
-  "buttons"
+  "buttons",
+  "obsidian-advanced-uri"
 ]
