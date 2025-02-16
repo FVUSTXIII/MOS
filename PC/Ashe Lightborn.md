@@ -44,9 +44,8 @@ AC:
 slider1: 100
 ---
 
-##  `VIEWAC}]`
+##  `VIEW[{AC.total}]`
 
-banner: `INPUT[text(defaultValue(null)):banner]`
 
 ```meta-bind-js-view
 {banner} as banner
@@ -88,7 +87,6 @@ ideals
 goals
 ```
 
---- 
 ## Statblocks
 
 ```dataviewjs
@@ -121,14 +119,11 @@ goals
 ```
 
 
-___
 ## Inventory
 
----
 ## Backstory
 
 
-___
 ## Relations
 
 
