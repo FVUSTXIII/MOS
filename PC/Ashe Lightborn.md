@@ -24,7 +24,7 @@ AbilityScores:
   wis: 12
   con: 16
   char: 20
-  tempStr: 0
+  tempStr: 14
   tempInt: 0
   tempDex: 0
   tempWis: 0
