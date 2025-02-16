@@ -7,6 +7,7 @@ Description:
  Eyes: {{eyes}}
  Gender: {{gender}}
  Race: [[{{race}}]]
+ Homeland: [[{{Homeland}}]]
 Affiliation: 
 Location: 
 Factions: 
