@@ -45,6 +45,13 @@ AbilityScores:
   tempCha: "{ abilities.tempCha }"
 Icon:
   "{ user.token }":
+AC:
+  deflectionModifier: ""
+  armorBonus: ""
+  miscModifier: ""
+  total: ""
+  flatFooted: ""
+  touch: ""
 ---
 
 ```ad-Tr

@@ -24,12 +24,12 @@ AbilityScores:
   wis: 12
   con: 16
   char: 20
-  tempStr:
-  tempInt:
-  tempDex:
-  tempWis:
-  tempCon:
-  tempCha:
+  tempStr: 0
+  tempInt: 0
+  tempDex: 0
+  tempWis: 0
+  tempCon: 0
+  tempCha: 0
 Icon: https://i.imgur.com/VSJSnnR.png
 AC:
   deflectionModifier: 4
@@ -39,8 +39,8 @@ AC:
     - +6 Ironskin
     - +2 Behind
   total: 24
-  flatFooted: 
-  touch: 
+  flatFooted: 23
+  touch: 17
 slider1: 100
 ---
 
