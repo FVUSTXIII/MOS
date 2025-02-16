@@ -6,7 +6,7 @@ Description:
  Weight: {{weight}}
  Eyes: {{eyes}}
  Gender: {{gender}}
- Race: [[{{race}}]]
+ Race: [{{race}}]
  Homeland: [[{{Homeland}}]]
 Affiliation: 
 Location: 
