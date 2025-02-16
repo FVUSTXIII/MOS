@@ -35,6 +35,7 @@ AC:
   total: 24
   flatFooted: 
   touch: 
+slider1: 100
 ---
 
 ##  `VIEW[{TextA}]`
@@ -50,8 +51,11 @@ const bannerValue = context.bound.banner;
 const ac = context.bound.ac;
 const as = context.bound.as;
 context.bound.ac.total = 10 + Math.trunc((as.dex - 10)/2) + ac.deflectionModifier + ac.armorBonus;
-let total = 10 + Math.trunc((as.dex-10)/2) + ac.deflectionModifier + ac.armorBonus; 
-const banner_str = `AC: \`INPUT[slidefaultValue(${total})]\``;
+let total = 10 + Math.trunc((as.dex-10)/2) + ac.deflectionModifier + ac.armorBonus;
+let slider1 = {
+	a: total
+}
+const banner_str = `AC: \`INPUT[slider:slider1]\``;
 return engine.markdown.create(banner_str);
 ```
 
