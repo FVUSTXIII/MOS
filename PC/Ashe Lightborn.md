@@ -44,7 +44,7 @@ AC:
 slider1: 100
 ---
 
-##  `VIEW[{TextA}]`
+##  `VIEWAC}]`
 
 banner: `INPUT[text(defaultValue(null)):banner]`
 
@@ -95,15 +95,15 @@ goals
 	const frontmatter = dv.current().file.frontmatter;
 	const abilityScores = frontmatter.AbilityScores;
 	const abilityScoresObject = {
-		str: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str,
-		  int: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str,
-		  dex: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str,
-		  wis: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str, 
-		  con: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str, 
-		  char: 20 
+		  str: (abilityScores.tempStr > 0) ? abilityScores.tempStr  : abilityScores.str,
+		  int: (abilityScores.tempInt > 0) ? abilityScores.tempInt  : abilityScores.int,
+		  dex: (abilityScores.tempDex > 0) ? abilityScores.tempDex  : abilityScores.dex,
+		  wis: (abilityScores.tempWis > 0) ? abilityScores.tempWis  : abilityScores.wis, 
+		  con: (abilityScores.tempCon > 0) ? abilityScores.tempCon  : abilityScores.con, 
+		  char:(abilityScores.tempCha > 0) ? abilityScores.tempCha : abilityScores.char 
 	}
 	let asString = '[';
-	for(const [key, value] of Object.entries(abilityScores)) {
+	for(const [key, value] of Object.entries(abilityScoresObject)) {
 	  if (!key.includes('temp')) {
 		  if (key !== 'char') {
 				asString += value + ','
