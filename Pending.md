@@ -48,5 +48,5 @@
 
 
 obsidian://open?vault=Game%20Systems&file=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FElves
-
-[Elves?](obsidian://adv-uri?vault=<Game%20Systems>&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FElvese&heading=Elf%20Racial%20Traits)
+obsidian://open?vault=Game%20Systems&file=Pathfinder%201e/Core%20Rule%20Book/Chapter%201%20-%20Getting%20Started/Races/Elves
+[Elves?](obsidian://adv-uri?vault=<Game%20Systems>&filepath=Pathfinder%201e/Core%20Rule%20Book/Chapter%201%20-%20Getting%20Started/Races/Elves)
