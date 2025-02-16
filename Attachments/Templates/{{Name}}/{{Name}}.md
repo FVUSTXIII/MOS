@@ -54,6 +54,12 @@ AC:
   touch: ""
 ---
 
+>[!infobox]
+># `=this.file.name` 
+>![[IMG-20241123160632799.png|cover hsmall]]
+>#### Geography
+>Class | Level  |
+> ---|---|
 
 ```ad-Tr
 traits
