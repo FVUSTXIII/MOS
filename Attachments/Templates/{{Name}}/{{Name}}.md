@@ -26,17 +26,23 @@ BAB:
   "{ bab }": 
 AbilityScores:
   str:
-    "{ abilities.str }": 
+    "{ abilities.str }"
   int:
-    "{ abilities.int }": 
+    "{ abilities.int }" 
   dex:
-    "{ abilities.dex }": 
+    "{ abilities.dex }"
   wis:
-    "{ abilities.wis }": 
+    "{ abilities.wis }" 
   con:
-    "{ abilities.con }": 
+    "{ abilities.con }"
   char:
-    "{ abilities.cha }": 
+    "{ abilities.cha }"
+  tempStr: "{ abilities.tempStr }"
+  tempInt: "{ abilities.tempInt }"
+  tempDex: "{ abilities.tempDex }"
+  tempWis: "{ abilities.tempWis }"
+  tempCon: "{ abilities.tempCon }"
+  tempCha: "{ abilities.tempCha }"
 Icon:
   "{ user.token }":
 ---

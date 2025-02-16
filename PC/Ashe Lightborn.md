@@ -11,7 +11,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 21
-banner: https:/i.imgur.com/99imyQ0.png
+banner: "https:/i.imgur.com/99imyQ0.png"
 banner_y: 0.324
 statblock: true
 Name: Ashe Lightborn
@@ -24,6 +24,12 @@ AbilityScores:
   wis: 12
   con: 16
   char: 20
+  tempStr:
+  tempInt:
+  tempDex:
+  tempWis:
+  tempCon:
+  tempCha:
 Icon: https://i.imgur.com/VSJSnnR.png
 AC:
   deflectionModifier: 4
