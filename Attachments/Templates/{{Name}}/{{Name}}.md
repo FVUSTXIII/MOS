@@ -17,12 +17,9 @@ State:
 Wealth: 
 Birth: 
 Death: 
-Age:
-  {{age}} 
-banner:
-  {{user.avatar}} 
-banner_y:
-  {{user.avatar_align}}
+Age: {{age}} 
+banner: {{user.avatar}} 
+banner_y: {{user.avatar_align}}
 statblock: true
 Name: {{name}}
 Alignment: {{alignment}}
@@ -33,15 +30,14 @@ AbilityScores:
   dex: {{abilities.dex}}
   wis: {{abilities.wis}}
   con: {{abilities.con}}
-  char: {{ abilities.cha}}
+  char: {{abilities.cha}}
   tempStr: {{abilities.tempStr}}
   tempInt: {{abilities.tempInt}}
   tempDex: {{abilities.tempDex}}
   tempWis: {{abilities.tempWis}}
   tempCon: {{abilities.tempCon}}
   tempCha: {{abilities.tempCha}}
-Icon:
-  {{user.token}}:
+Icon: {{user.token}}
 AC:
   deflectionModifier: ""
   armorBonus: ""
@@ -60,7 +56,7 @@ Init:
 
 >[!infobox]
 ># `=this.file.name` 
->![[IMG-20241123160632799.png|cover hsmall]]
+>![cover hsmall](https://i.imgur.com/VJm0i9g.png)
 >#### Geography
 >Class | Level  |
 > ---|---|
