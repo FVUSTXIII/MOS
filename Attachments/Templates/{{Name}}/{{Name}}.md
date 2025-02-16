@@ -81,13 +81,11 @@ asdf
 ```
 
 ```ad-sk
-title: Skills
+title: Abilities
 
 asdf
 ```
 
-
---- 
 ## Statblocks
 
 ```dataviewjs
@@ -119,16 +117,12 @@ asdf
 	+ '```');
 ```
 
-
-___
 ## Inventory
 
----
 ## Backstory
 
+## Affiliations
 
-___
-## Relations
-
+## Skills
 
 ---

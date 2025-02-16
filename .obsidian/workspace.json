@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/NPC/Jornax Grath.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jornax Grath"
+              "title": "{{Name}}"
             }
           }
         ]
@@ -274,24 +274,26 @@
   },
   "active": "50fa25e223d9ccf7",
   "lastOpenFiles": [
-    "Narrative/NPC/Torian Grimm.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Sessions/04 - The Woods/04 - The Woods.md",
+    "Campaing Overview.md",
+    "Current Session Summary.md",
+    "Pending.md",
+    "Untitled.canvas",
     "Narrative/NPC/Jornax Grath.md",
+    "Narrative/NPC/Torian Grimm.md",
     "PC/Ashe Lightborn.md",
     "Index.canvas",
     "Narrative/Questlines/Quests/Lost lambs.md",
     "Narrative/Questlines/Quests/New Quest.md",
     "Narrative/Questlines/A Lion's roar.md",
     "Narrative/Questlines/Five Of Cups.md",
-    "Campaing Overview.md",
-    "Current Session Summary.md",
     "PC/Ashe Lightborn_old.md",
     "PC/Felix Emberfeather.md",
     "PC/Phantom.md",
     "PC/Shitora.md",
     "PC/Zenshin Rusk.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
-    "Pending.md",
-    "Untitled.canvas",
     "World/World Vault",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
@@ -311,8 +313,6 @@
     "World/Memoria/Age of Snakes",
     "World/Pantheon/Fallen Deities",
     "World/Pantheon/Pantheon of Brigh",
-    "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
-    "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
