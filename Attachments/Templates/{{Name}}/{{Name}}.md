@@ -135,8 +135,8 @@ asdf
 
 >[!infobox]
 >#### Spells per day
->Level | Spell  |
->{{#each spell}} {{table }} {{/each}}
+>Level | Spell  | DC | 
+>{{#each spells}} {{  }} {{/each}}
 
 
 
