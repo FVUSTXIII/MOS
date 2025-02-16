@@ -133,6 +133,8 @@ asdf
 
 ## Spells
 
+{{#each spell}} {{}}
+
 ## Skills
 
 
