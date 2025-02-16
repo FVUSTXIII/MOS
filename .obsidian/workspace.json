@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn"
+              "title": "{{Name}}"
             }
           }
         ]
@@ -346,8 +346,8 @@
   },
   "active": "009b96da32b22ab9",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn.md",
+    "PC/Ashe Lightborn_old.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
