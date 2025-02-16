@@ -137,8 +137,7 @@ asdf
 ># Spells per day
 Level | Spell Slots  | DC | 
 ---|---|---|
-0|Acid Splash|12|
-{{#each spells}} {{ this.slotted.[0].level  }} | {{this.totalKnown}} | {{this.dc}} | {{/each}}
+{{#each spells}} {{ this.slotted.[0].level  }} | {{this.totalKnown}} | {{this.dc}} |\n {{/each}}
 >
 >#### Spells Known
 
