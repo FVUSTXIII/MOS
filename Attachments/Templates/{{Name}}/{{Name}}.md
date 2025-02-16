@@ -5,46 +5,46 @@ Location:
 Factions: 
 Titles: 
 Class:
-  "{ level }": 
+  {{level}}: 
 Race: 
 State: 
 Wealth: 
 Birth: 
 Death: 
 Age:
-  "{ age }": 
+  {{age}}: 
 banner:
-  "{ user.avatar }": 
+  {{user.avatar}}: 
 banner_y:
-  "{ user.avatar_align }": 
+  {{user.avatar_align}}: 
 statblock: true
 Name:
-  "{ name }": 
+  {{name}}: 
 Alignment:
-  "{ alignment }": 
+  {{alignment}}: 
 BAB:
-  "{ bab }": 
+  {{bab}}: 
 AbilityScores:
   str:
-    "{ abilities.str }"
+    {{abilities.str}}
   int:
-    "{ abilities.int }" 
+    {{abilities.int}}
   dex:
-    "{ abilities.dex }"
+    {{abilities.dex }
   wis:
-    "{ abilities.wis }" 
+    {{abilities.wis }"
   con:
-    "{ abilities.con }"
+    {{abilities.con }
   char:
     "{ abilities.cha }"
-  tempStr: "{ abilities.tempStr }"
-  tempInt: "{ abilities.tempInt }"
-  tempDex: "{ abilities.tempDex }"
-  tempWis: "{ abilities.tempWis }"
-  tempCon: "{ abilities.tempCon }"
-  tempCha: "{ abilities.tempCha }"
+  tempStr: {{abilities.tempStr}}
+  tempInt: {{abilities.tempInt}}
+  tempDex: {{abilities.tempDex}}
+  tempWis: {{abilities.tempWis}}
+  tempCon: {{abilities.tempCon}}
+  tempCha: {{abilities.tempCha}}
 Icon:
-  "{ user.token }":
+  "{{user.token}}":
 AC:
   deflectionModifier: ""
   armorBonus: ""
