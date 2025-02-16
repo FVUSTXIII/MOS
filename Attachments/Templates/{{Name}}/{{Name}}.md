@@ -54,6 +54,7 @@ AC:
   touch: ""
 ---
 
+
 ```ad-Tr
 traits
 ```
@@ -85,9 +86,11 @@ title: Abilities
 
 asdf
 ```
+## Affiliations
+
+## Inventory
 
 ## Statblocks
-
 ```dataviewjs
 	const frontmatter = dv.current().file.frontmatter;
 	const abilityScores = frontmatter.AbilityScores;
@@ -116,13 +119,11 @@ asdf
 	+ ' ability_scores: '+ asString + '\n'
 	+ '```');
 ```
-
-## Inventory
-
 ## Backstory
 
-## Affiliations
+## Spells
 
 ## Skills
+
 
 ---
