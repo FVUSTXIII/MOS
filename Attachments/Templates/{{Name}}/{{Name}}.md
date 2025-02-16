@@ -133,7 +133,12 @@ asdf
 
 ## Spells
 
-{{#each spell}} {{table }} {{/each}}
+>[!infobox]
+>#### Spells per day
+>Level | Spell  |
+>{{#each spell}} {{table }} {{/each}}
+
+
 
 ## Skills
 
