@@ -49,9 +49,9 @@
 
 obsidian://open?vault=Game%20Systems&file=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FElves
 obsidian://open?vault=Game%20Systems&file=Pathfinder%201e/Core%20Rule%20Book/Chapter%201%20-%20Getting%20Started/Races/Elves
-[Elves?](obsidian://adv-uri?vault=<Game%20Systems>&filepath=Pathfinder%201e/Core%20Rule%20Book/Chapter%201%20-%20Getting%20Started/Races/Elves)
+[Elves?](obsidian://advanced-uri?vault=<Game%20Systems>&filepath=Pathfinder%201e%2FPathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FElves&heading=%20Elf%20Racial%20Traits)
 
-obsidian://adv-uri?vault=<your-vault>&filepath=Pathfinder%201e%5CPathfinder%201e%5CCore%20Rule%20Book%5CChapter%201%20-%20Getting%20Started%5C6%20Races%5CElves&heading=Goal
+obsidian://adv-uri?vault=<Game%20Systems>&filepath=Pathfinder%201e%5CPathfinder%201e%5CCore%20Rule%20Book%5CChapter%201%20-%20Getting%20Started%5C6%20Races%5CElves&heading=%20Elf%20Racial%20Traits
 
 your-valut=Game Systems
-filepath=Pathfinder 1e\Pathfinder 1e\Core Rule Book\Chapter 1 - Getting Started\6 Races\Elves
+filepath=Pathfinder 1e/Pathfinder 1e/Core Rule Book/Chapter 1 - Getting Started/6 Races/Elves
