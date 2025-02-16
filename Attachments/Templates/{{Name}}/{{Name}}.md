@@ -4,21 +4,41 @@ Affiliation:
 Location: 
 Factions: 
 Titles: 
-Class: {{level}}
+Class:
+  "{ level }": 
 Race: 
 State: 
 Wealth: 
 Birth: 
 Death: 
-Age: {{age}}
-banner: {{user.avatar}}
-banner_y: {{user.avatar_align}}
+Age:
+  "{ age }": 
+banner:
+  "{ user.avatar }": 
+banner_y:
+  "{ user.avatar_align }": 
 statblock: true
-Name: {{name}}
-Alignment: {{alignment}}
-BAB: {{bab}}
-AbilityScores: { str: {{abilities.str}}, int: {{abilities.int}}, dex: {{abilities.dex}}, wis: {{abilities.wis}}, con: {{abilities.con }}, char: {{abilities.cha}} }
-Icon: {{user.token}}
+Name:
+  "{ name }": 
+Alignment:
+  "{ alignment }": 
+BAB:
+  "{ bab }": 
+AbilityScores:
+  str:
+    "{ abilities.str }": 
+  int:
+    "{ abilities.int }": 
+  dex:
+    "{ abilities.dex }": 
+  wis:
+    "{ abilities.wis }": 
+  con:
+    "{ abilities.con }": 
+  char:
+    "{ abilities.cha }": 
+Icon:
+  "{ user.token }":
 ---
 
 ```ad-Tr
@@ -41,6 +61,17 @@ ideals
 goals
 ```
 
+```ad-ft
+title: Feats
+asdf
+
+```
+
+```ad-sk
+title: Skills
+
+asdf
+```
 
 
 --- 

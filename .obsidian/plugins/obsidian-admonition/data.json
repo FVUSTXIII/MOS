@@ -98,6 +98,18 @@
       "title": "Skills",
       "injectColor": true,
       "noTitle": false
+    },
+    "ft": {
+      "type": "ft",
+      "color": "77, 66, 61",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAXhJREFUSEullYtNA0EMRCedhE5IJXCVQCoBKgEqIZ1AXnQT+Yz3Q7CERGA9z2N7NztJL5LeJJ3WH/0hHiXt17yPKn8n6V3S/SrKoeMEjPMUhrjjcNYhfxMAqILDOV5XZznpWdJTOkxR/P1XACC+UjXxYEymYs7mWM75FES4ZZcPBuAAJ1XgAPtEbGcugs8427gxoNUmkiLgu1FE/PNdGPbegF6b2C6SiBGANnlJcHttEb/32uSq6D8rzUDpNSJxk7LBU3RQrZ4TcMEg40b1CrrmRUCkuypmE1fSA4ziLEC+E9Y6tgARFlfYPTbYl6tyg+vDDMC99o7jwjuPSGt+F/gMwG4Y7MM6VEMA5BXfzGsWgDhVI5YhOPRbhrjdXQobAUhEEGHfh5aT8g72APlZiK/lNKQFyOLxuRjNZOOkAlQPWus5HjrJgEqcoXGLW9GFRMAt4sN2GfAf8S4EQPUtNWrLdLuqr8xbxSsniwG+UJ/5JnaG2/uX9ZYfvTB31il8V1oAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "title": "Feats",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

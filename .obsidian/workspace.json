@@ -221,81 +221,9 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "d15b5b6df49b3d41",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Narrative/Quests/Lost lambs.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Lost lambs"
-            }
-          },
-          {
-            "id": "8d262b066f89c55c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sessions/03 - The witch/03 - The Witch.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 03 - The Witch"
-            }
-          },
-          {
-            "id": "f7e4a0b4e1619d03",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "3a52b5fc806f54a4",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "64b79c46b32dc408",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "World/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Beginning of Age Of Serpents"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "6ca045c651b18121",
@@ -344,7 +272,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "009b96da32b22ab9",
+  "active": "766c66804148c3a3",
   "lastOpenFiles": [
     "PC/Ashe Lightborn.md",
     "PC/Ashe Lightborn_old.md",
