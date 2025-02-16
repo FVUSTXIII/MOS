@@ -141,7 +141,11 @@ Level | Spell Slots  | DC |
 >
 >#### Spells Known - Prepared
 
-
+```dataviewjs
+	dv.paragraph('>[!infobox]\n' + 
+	'># Spells per day\n'
+	);
+```
 
 
 
