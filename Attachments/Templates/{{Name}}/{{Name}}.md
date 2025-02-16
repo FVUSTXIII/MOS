@@ -135,8 +135,14 @@ asdf
 
 >[!infobox]
 >#### Spells per day
->Level | Spell  | DC | 
->{{#each spells}} {{  }} {{/each}}
+>Level | Spell Slots  | DC | 
+>{{#each spells}} {{ this.slotted.[0].level  }} | {{/each}}
+>
+>#### Spells Known
+
+
+
+
 
 
 
