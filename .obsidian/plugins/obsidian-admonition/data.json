@@ -86,6 +86,18 @@
       "title": "Goals",
       "injectColor": true,
       "noTitle": false
+    },
+    "sk": {
+      "type": "sk",
+      "color": "110, 55, 18",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAZJJREFUSEutlttRAkEQRS+RqJGokSiRCJEIkQiRoJnIsfaUXcO+2Nr5YWu2e++je3rYJHlM8pH/tS3PY4/kfU/Fbq5B70lOXaBJY4kvSb66eOKexkAEOHRBJJMEEIvnFmwRgB8hmaVlMhRQspfCGgU1/62826uATZmfG4B9ks+a1NTstVhMHJa7tgI8J/m5estvC3BsPggghFRFU2jxagAQ0U4Ad6WG7rN1GlMg0z4FD50VNgE2se5SgHRtqOcE4Nph2OXZmQ2ABTAfAuDc2C1Y4lmYDYAFFFsAimiXeTBRRQxk7rZoCgBA2AqAbahaTQFdw2HDxr9umQJALkFYAqspBQAwj4h1sTeogBfIXgoAITppVQAYq5SOotCrAtBNKrdVFwPAlFnlL+z7xvZsAIqOp0ivw4+COnuoVzu2yeudpiDbRXX2cLj6ZhEKWgBqAKFBANsNhvXCGQIgHgV1bLNXL6eD03ToQhlTwMc4C3VsO2VvLpylALWoXjo3FiGpbhIIK/9hUJv63rGgHQ4/a1hjd79gPcD5pHBEswAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": false,
+      "title": "Skills",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
