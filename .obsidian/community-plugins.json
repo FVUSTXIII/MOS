@@ -28,5 +28,6 @@
   "quickadd",
   "obsidian-import-json",
   "obsidian-meta-bind-plugin",
-  "js-engine"
+  "js-engine",
+  "buttons"
 ]

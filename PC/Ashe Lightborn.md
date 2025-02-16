@@ -32,7 +32,7 @@ AC:
     - +2 When cast Smite Evil
     - +6 Ironskin
     - +2 Behind
-  total: 23
+  total: 24
   flatFooted: 
   touch: 
 slider1: 100
