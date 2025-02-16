@@ -12,7 +12,7 @@ Affiliation:
 Location: 
 Factions: 
 Titles: 
-Class: {{level}}
+Class: {{makeClassLevel level}}
 State: 
 Wealth: 
 Birth: 
