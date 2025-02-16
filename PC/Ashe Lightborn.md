@@ -32,7 +32,7 @@ AC:
     - +2 When cast Smite Evil
     - +6 Ironskin
     - +2 Behind
-  total: -22
+  total: 24
   flatFooted: 
   touch: 
 slider1: 100
@@ -52,10 +52,9 @@ const ac = context.bound.ac;
 const as = context.bound.as;
 context.bound.ac.total = 10 + Math.trunc((as.dex - 10)/2) + ac.deflectionModifier + ac.armorBonus;
 let total = 10 + Math.trunc((as.dex-10)/2) + ac.deflectionModifier + ac.armorBonus;
-let slider1 = {
-	a: total
-}
-const banner_str = `AC: \`INPUT[slider(minValue(-100), maxValue(100), defaultValue(${total}), stepSize(1)):AC.total]\``;
+let belowLimit = (total - 10);
+let aboveLimit = (total + 10)
+const banner_str = `AC: \`INPUT[slider(minValue(${belowLimit}), maxValue(${aboveLimit}), defaultValue(${total}), stepSize(1)):AC.total]\``;
 return engine.markdown.create(banner_str);
 ```
 
