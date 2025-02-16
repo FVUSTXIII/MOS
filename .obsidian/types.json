@@ -26,6 +26,7 @@
     "showOnTimeLine": "checkbox",
     "Type": "multitext",
     "Materials": "multitext",
-    "Actors": "multitext"
+    "Actors": "multitext",
+    "Description": "multitext"
   }
 }

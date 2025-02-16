@@ -1,5 +1,7 @@
 ---
-Description: 
+Description:
+ hair: {{hair}}
+ size: {{size}}
 Affiliation: 
 Location: 
 Factions: 
@@ -30,11 +32,11 @@ AbilityScores:
   int:
     {{abilities.int}}
   dex:
-    {{abilities.dex }
+    {{abilities.dex }}
   wis:
-    {{abilities.wis }"
+    {{abilities.wis }}
   con:
-    {{abilities.con }
+    {{abilities.con }}
   char:
     "{ abilities.cha }"
   tempStr: {{abilities.tempStr}}
@@ -44,7 +46,7 @@ AbilityScores:
   tempCon: {{abilities.tempCon}}
   tempCha: {{abilities.tempCha}}
 Icon:
-  "{{user.token}}":
+  {{user.token}}:
 AC:
   deflectionModifier: ""
   armorBonus: ""
