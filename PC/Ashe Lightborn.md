@@ -94,13 +94,23 @@ goals
 ```dataviewjs
 	const frontmatter = dv.current().file.frontmatter;
 	const abilityScores = frontmatter.AbilityScores;
+	const abilityScoresObject = {
+		str: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str,
+		  int: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str,
+		  dex: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str,
+		  wis: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str, 
+		  con: (abilityScores.tmpStr > 0) ? abilityScores.tmpStr > 0 : abilityScores.str, 
+		  char: 20 
+	}
 	let asString = '[';
 	for(const [key, value] of Object.entries(abilityScores)) {
-		if (key !== 'char') {
-			asString += value + ','
-		} else {
-			asString += value + ']'
-		}
+	  if (!key.includes('temp')) {
+		  if (key !== 'char') {
+				asString += value + ','
+			} else {
+				asString += value + ']'
+			}
+	  }	
 	}
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
