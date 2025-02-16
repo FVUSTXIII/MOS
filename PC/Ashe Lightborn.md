@@ -50,8 +50,8 @@ const bannerValue = context.bound.banner;
 const ac = context.bound.ac;
 const as = context.bound.as;
 context.bound.ac.total = 10 + Math.trunc((as.dex - 10)/2) + ac.deflectionModifier + ac.armorBonus;
-let total = 10 + Math.trunc(as.dex/2) + ac.deflectionModifier + ac.armorBonus; 
-const banner_str = `\`VIEW[number(defaultValue(${total})):AC.total]\``;
+let total = 10 + Math.trunc((as.dex-10)/2) + ac.deflectionModifier + ac.armorBonus; 
+const banner_str = `AC: \`INPUT[slidefaultValue(${total})]\``;
 return engine.markdown.create(banner_str);
 ```
 
