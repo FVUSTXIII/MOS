@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn"
+              "title": "{{Name}}"
             }
           }
         ]
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/Ashe Lightborn.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ashe Lightborn"
+              "title": "Backlinks for"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC/Ashe Lightborn.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ashe Lightborn"
+              "title": "Outgoing links from"
             }
           },
           {
@@ -290,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC/Ashe Lightborn.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ashe Lightborn"
+              "title": "Outline of"
             }
           }
         ],
@@ -351,12 +351,12 @@
   },
   "active": "50fa25e223d9ccf7",
   "lastOpenFiles": [
+    "PC/Ashe Lightborn.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "World/World Vault/Monsters",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",
     "Attachments/Templates/{{Name}}/Statblocks.md",
     "Pending.md",
-    "PC/Ashe Lightborn.md",
     "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/Current Date Template.md",
     "Sessions/03 - The witch/03 - The Witch.md",
