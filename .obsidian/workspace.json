@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "PC/Ashe Lightborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{{Name}}"
+              "title": "Ashe Lightborn"
             }
           }
         ]
@@ -274,18 +274,20 @@
   },
   "active": "50fa25e223d9ccf7",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn.md",
-    "PC/Phantom.md",
-    "Pending.md",
     "PC/Ashe Lightborn_old.md",
+    "PC/Felix Emberfeather.md",
+    "PC/Phantom.md",
+    "PC/Shitora.md",
+    "PC/Zenshin Rusk.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "PC/Ashe Lightborn.md",
+    "Pending.md",
     "Untitled.canvas",
     "World/World Vault",
     "Campaing Overview.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "PC/Ashe Eventide 2.0.md",
-    "PC/Felix Emberfeather.md",
     "Attachments/Various Icons/Character Icons/Untitled.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Rewards/Ashe Lightborn.md",
@@ -311,8 +313,6 @@
     "Attachments/Templates/Event.md",
     "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "Narrative/Timeline/4 Age of Serpents/Mark Gemini and Frances Donbrook get married.md",
-    "Narrative/Timeline/4 Age of Serpents/Treaty of Estchall.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
