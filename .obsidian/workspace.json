@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "Pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{{Name}}"
+              "title": "Pending"
             }
           }
         ]
@@ -274,8 +274,8 @@
   },
   "active": "50fa25e223d9ccf7",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "PC/Ashe Lightborn.md",
     "Attachments/References/Images to be used.md",
     "Pending.md",
     "Sessions/03 - The witch/03 - The Witch.md",
