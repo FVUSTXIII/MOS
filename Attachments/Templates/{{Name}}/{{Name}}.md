@@ -49,6 +49,10 @@ HP:
  total: {{hp.total}}
  wounds: {{hp.wounds}}
  nonLethal: {{nonLethal}}
+Saves:
+ Fortitude: 
+ Will:
+ Reflex:
 Init: 
  total: {{initiative.total}}
  miscMod: {{initiative.miscModifier}}
@@ -88,7 +92,7 @@ asdf
 ```
 
 ```ad-sk
-title: Abilities
+title:Special Abilities
 
 asdf
 ```
