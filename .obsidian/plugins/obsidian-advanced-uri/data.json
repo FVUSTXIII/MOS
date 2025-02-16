@@ -2,7 +2,7 @@
   "openFileOnWrite": true,
   "openDailyInNewPane": false,
   "openFileOnWriteInNewPane": false,
-  "openFileWithoutWriteInNewPane": false,
+  "openFileWithoutWriteInNewPane": true,
   "idField": "NoteID",
   "useUID": true,
   "addFilepathWhenUsingUID": false,

@@ -1,3 +1,6 @@
+---
+NoteID: 165e803a-6a6c-4739-a6be-9eb3ea18590d
+---
 #pending 
 - [x]  check Emergency Force Sphere and overall immediate actions ruling as far as concentration checks go 
       Resolution: This was ruled on session 2, Emergency Force Sphere can only stack up to 40 HP. (temporary measure)
