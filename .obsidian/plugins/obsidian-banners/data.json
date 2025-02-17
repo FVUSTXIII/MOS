@@ -6,7 +6,7 @@
   "showInPreviewEmbed": true,
   "previewEmbedHeight": null,
   "frontmatterField": null,
-  "bannerDragModifier": "none",
+  "bannerDragModifier": "shift",
   "iconHorizontalAlignment": "left",
   "iconHorizontalTransform": null,
   "iconVerticalAlignment": "center",

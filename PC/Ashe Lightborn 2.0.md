@@ -1,13 +1,5 @@
 ---
-Description:
- Hair: White/Blonde
- Size: Normal
- Height: 1.70
- Weight: 163
- Eyes: Yellow
- Gender: Female
- Race: Human 
- Homeland: [[]]
+Description: { Hair: White/Blonde, Size: Normal, Height: 1.70, Weight: 163, Eyes: Yellow, Gender: Female, Race: Human , Homeland: [[]]}
 Affiliation: 
 Location: 
 Factions: 
@@ -66,7 +58,11 @@ Init:
 >Class | Level  | Race |
 > ---|---|---|
 > `=this.Class.class`|`=this.Class.Level`| [`=this.Description.Race`](obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FHumans.md)
+> ---
+> ## Other Shit
 >  AC | Hometown | Field
+>  ---|---|---|
+>  1|2|3
 
 ```ad-Tr
 traits

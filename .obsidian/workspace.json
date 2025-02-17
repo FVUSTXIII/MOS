@@ -324,7 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,13 +351,13 @@
   },
   "active": "5fd8d30c0f93ffad",
   "lastOpenFiles": [
-    "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn 2.0.md",
+    "PC/Ashe Lightborn.md",
+    "Attachments/Templates/{{Name}}/{{Name}}.md",
     "`=this.Description.Race.url`.md",
     "Pending.md",
-    "PC/Ashe Lightborn_old.md",
     "`=this.Description.Race`.md",
-    "PC/Ashe Lightborn.md",
     "PC/testCharacter.md",
     "Attachments/References/Images to be used.md",
     "PC/Shitora.md",
