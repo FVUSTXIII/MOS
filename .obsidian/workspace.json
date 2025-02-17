@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "PC/Ashe Lightborn 2.0.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thas",
+                "query": "[\"descricption\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,17 +290,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "PC/Ashe Lightborn 2.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of"
+              "title": "Outline of Ashe Lightborn 2.0"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       },
       {
         "id": "6ca045c651b18121",
@@ -324,7 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {

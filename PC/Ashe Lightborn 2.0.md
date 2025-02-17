@@ -1,22 +1,33 @@
 ---
-Description: { Hair: White/Blonde, Size: Normal, Height: 1.70, Weight: 163, Eyes: Yellow, Gender: Female, Race: Human , Homeland: [[]]}
+Description:
+  Hair: White/Blonde
+  Size: Normal
+  Height: 1.7
+  Weight: 163
+  Eyes: Yellow
+  Gender: Female
+  Race: Human
+  Homeland:
+    - []
 Affiliation: 
 Location: 
 Factions: 
 Titles: 
-Class: { class: Paladin,Level: 11 }
+Class:
+  class: Paladin
+  Level: 11
 State: 
 Wealth: 
 Birth: 
 Death: 
-Age: 24 
-banner: "https://i.imgur.com/99imyQ0.png"
+Age: 24
+banner: https://i.imgur.com/99imyQ0.png
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
 Name: Ashe Lightborn 2.0
 Alignment: Lawful Good
-BAB: 11/6/1 
+BAB: 11/6/1
 AbilityScores:
   str: 10
   int: 8
@@ -34,21 +45,40 @@ Icon: https://i.imgur.com/VSJSnnR.png
 AC:
   deflectionModifier: 4
   armorBonus: 7
-  miscModifier: [+7 Smite Evil, +6Ironskin, +2Behind]
+  miscModifier:
+    - +7 Smite Evil
+    - +6Ironskin
+    - +2Behind
   total: 24
   flatFooted: 23
   touch: 17
-HP: 
- total: 123
- wounds: 123
- nonLethal: 39
+HP:
+  total: 123
+  wounds: 123
+  nonLethal: 39
 Saves:
- Fortitude: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 19 }
- Will: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [fear and charm allies 10ft +4], total: 19 }
- Reflex: { base: 3, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 15 }
-Init: 
- total: 
- miscMod: 
+  Fortitude:
+    base: 7
+    miscModifier: 5
+    tempModifier: 4
+    otherModifiers: []
+    total: 19
+  Will:
+    base: 7
+    miscModifier: 5
+    tempModifier: 4
+    otherModifiers:
+      - fear and charm allies 10ft +4
+    total: 19
+  Reflex:
+    base: 3
+    miscModifier: 5
+    tempModifier: 4
+    otherModifiers: []
+    total: 15
+Init:
+  total: 
+  miscMod:
 ---
 
 >[!infobox]
