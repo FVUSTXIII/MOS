@@ -42,14 +42,14 @@ Icon: {{user.token}}
 AC:
   deflectionModifier: {{ac.deflectionModifier}}
   armorBonus: {{ac.armorBonus}}
-  miscModifier: {{ac.miscModifier}}
+  miscModifier: {{parseList ac.miscModifier}}
   total: {{ac.total}}
   flatFooted: {{ac.flatFooted}}
   touch: {{ac.touch}}
 HP: 
  total: {{hp.total}}
  wounds: {{hp.wounds}}
- nonLethal: {{nonLethal}}
+ nonLethal: {{hp.nonLethal}}
 Saves:
  Fortitude: { base: {{saves.fort.base}}, miscModifier: {{saves.fort.miscModifier}}, tempModifier: {{saves.fort.tempModifier}}, otherModifiers: {{saves.fort.otherModifiers}}, total: {{saves.fort.total}} }
  Will: { base: {{saves.will.base}}, miscModifier: {{saves.will.miscModifier}}, tempModifier: {{saves.will.tempModifier}}, otherModifiers: {{saves.will.otherModifiers}}, total: {{saves.will.total}} }
