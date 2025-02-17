@@ -40,20 +40,20 @@ AbilityScores:
   tempCha: {{normalizeAbilityScores abilities.cha abilities.tempCha}}
 Icon: {{user.token}}
 AC:
-  deflectionModifier: ""
-  armorBonus: ""
-  miscModifier: ""
-  total: ""
-  flatFooted: ""
-  touch: ""
+  deflectionModifier: {{ac.deflectionModifier}}
+  armorBonus: {{ac.armorBonus}}
+  miscModifier: {{ac.miscModifier}}
+  total: {{ac.total}}
+  flatFooted: {{ac.flatFooted}}
+  touch: {{ac.touch}}
 HP: 
  total: {{hp.total}}
  wounds: {{hp.wounds}}
  nonLethal: {{nonLethal}}
 Saves:
- Fortitude: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
- Will: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
- Reflex: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
+ Fortitude: { base: {{saves.fort.base}}, miscModifier: {{saves.fort.miscModifier}}, tempModifier: {{saves.fort.tempModifier}}, otherModifiers: {{saves.fort.otherModifiers}}, total: {{saves.fort.total}} }
+ Will: { base: {{saves.will.base}}, miscModifier: {{saves.will.miscModifier}}, tempModifier: {{saves.will.tempModifier}}, otherModifiers: {{saves.will.otherModifiers}}, total: {{saves.will.total}} }
+ Reflex: { base: {{saves.reflex.base}}, miscModifier: {{saves.reflex.miscModifier}}, tempModifier: {{saves.reflex.tempModifier}}, otherModifiers: {{saves.reflex.otherModifiers}}, total: {{saves.reflex.total}} }
 Init: 
  total: {{initiative.total}}
  miscMod: {{initiative.miscModifier}}
