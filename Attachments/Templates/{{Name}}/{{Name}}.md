@@ -6,7 +6,7 @@ Description:
  Weight: {{weight}}
  Eyes: {{eyes}}
  Gender: {{gender}}
- Race: { name: {{race.name}}, url: {{race.url}} }
+ Race: {{race.name}} 
  Homeland: [[{{Homeland}}]]
 Affiliation: 
 Location: 
@@ -61,11 +61,11 @@ Init:
 
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall](`=this.portrait`)
+>![cover hsmall]({{user.portrait}})
 > --- 
 >Class | Level  | Race |
 > ---|---|---|
-> `=this.Class.class`|`=this.Class.Level`| [`=this.Description.Race.name`](`=this.Description.Race.url`)
+> `=this.Class.class`|`=this.Class.Level`| [`=this.Description.Race`]({{race.url}})
 
 ```ad-Tr
 traits
