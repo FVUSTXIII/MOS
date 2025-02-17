@@ -51,7 +51,7 @@ HP:
  wounds: {{hp.wounds}}
  nonLethal: {{hp.nonLethal}}
 Saves:
- Fortitude: { base: {{saves.fort.base}}, miscModifier: {{saves.fort.miscModifier}}, tempModifier: {{saves.fort.tempModifier}}, otherModifiers: {{saves.fort.otherModifiers}}, total: {{saves.fort.total}} }
+ Fortitude: { base: {{saves.fort.base}}, miscModifier: {{saves.fort.miscModifier}}, tempModifier: {{saves.fort.tempModifier}}, otherModifiers: {{parseList saves.fort.otherModifiers}}, total: {{saves.fort.total}} }
  Will: { base: {{saves.will.base}}, miscModifier: {{saves.will.miscModifier}}, tempModifier: {{saves.will.tempModifier}}, otherModifiers: {{saves.will.otherModifiers}}, total: {{saves.will.total}} }
  Reflex: { base: {{saves.reflex.base}}, miscModifier: {{saves.reflex.miscModifier}}, tempModifier: {{saves.reflex.tempModifier}}, otherModifiers: {{saves.reflex.otherModifiers}}, total: {{saves.reflex.total}} }
 Init: 
