@@ -20,7 +20,7 @@ Death:
 Age: 12 
 banner: "https://static.wikia.nocookie.net/shrek/images/3/3f/Portada_img.jpg/revision/latest?cb=20100719002911&path-prefix=es"
 banner_y: 0.332
-portrait: "https://i.imgur.com/JokltCZ.png"
+portrait: https://i.imgur.com/JokltCZ.png
 statblock: true
 Name: testCharacter
 Alignment: 
@@ -58,10 +58,10 @@ Init:
  total: 1
  miscMod: 2
 ---
-
+![hsmall]([https://i.imgur.com/JokltCZ.png](https://i.imgur.com/JokltCZ.png)
 >[!infobox]
 ># `=this.file.name` 
->![cover](`$= dv.current().file.frontmatter.portrait`)
+>![cover hsmall](` $= dv.current().file.frontmatter.portrait `)
 >#### Geography
 >Class | Level  |
 > ---|---|

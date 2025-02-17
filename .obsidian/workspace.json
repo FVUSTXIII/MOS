@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "423f0c2e2ec4565c",
+        "id": "5c4083830d868617",
         "type": "tabs",
         "children": [
           {
-            "id": "50fa25e223d9ccf7",
+            "id": "b8de90da9be4603e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -349,17 +349,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "50fa25e223d9ccf7",
+  "active": "b8de90da9be4603e",
   "lastOpenFiles": [
-    "Attachments/Templates/{{Name}}/{{Name}}.md",
-    "PC/Ashe Lightborn.md",
+    "`.md",
     "PC/testCharacter.md",
+    "PC/Zenshin Rusk.md",
+    "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "Pending.md",
+    "PC/Ashe Lightborn.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",
     "Attachments/Templates/{{Name}}/Backstory.md",
     "Attachments/Templates/{{Name}}/Relations.md",
     "Attachments/Templates/{{Name}}/Statblocks.md",
     "World/World Vault/Monsters",
-    "Pending.md",
     "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/Current Date Template.md",
     "Sessions/03 - The witch/03 - The Witch.md",
@@ -378,9 +380,7 @@
     "PC/Felix Emberfeather.md",
     "PC/Phantom.md",
     "PC/Shitora.md",
-    "PC/Zenshin Rusk.md",
     "World/World Vault",
-    "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Rewards",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",

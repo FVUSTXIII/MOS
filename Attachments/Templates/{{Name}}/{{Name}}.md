@@ -61,7 +61,7 @@ Init:
 
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall](`=this.file.frontmatter.portrait`)
+>![cover](` $= dv.current().file.frontmatter.portrait `)
 >#### Geography
 >Class | Level  |
 > ---|---|
