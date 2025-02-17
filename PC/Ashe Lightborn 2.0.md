@@ -93,10 +93,6 @@ Init:
 >  ---|---|---|
 >  1|2|3
 
-```ad-Tr
-traits
-```
-
 ```ad-fw
 flaws
 ```
@@ -111,6 +107,10 @@ ideals
 
 ```ad-goals
 goals
+```
+---
+```ad-Tr
+traits
 ```
 
 ```ad-ft
