@@ -6,7 +6,7 @@ Description:
  Weight: 163
  Eyes: Yellow
  Gender: Female
- Race: [[Human|obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FHumans.md]]
+ Race: [[obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FHumans.md|Human]]
  Homeland: [[]]
 Affiliation: 
 Location: 
@@ -24,7 +24,7 @@ portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
 Name: Ashe Lightborn 2.0
 Alignment: Lawful Good
-BAB: 14/7 
+BAB: ["+13 (2x 13  full round a.)", "+8", "+3"]
 AbilityScores:
   str: 10
   int: 8
