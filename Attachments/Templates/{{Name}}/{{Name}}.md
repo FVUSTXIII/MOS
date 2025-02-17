@@ -135,14 +135,6 @@ asdf
 
 ## Spells
 
->[!infobox]
-># Spells per day
-Level | Spell Slots  | DC | 
----|---|---|
-{{#each spells}} {{ this.slotted.[0].level  }} | {{this.totalKnown}} | {{this.dc}} |\n {{/each}}
->
->#### Spells Known - Prepared
-
 ```dataviewjs
 	dv.paragraph('>[!infobox]\n' + 
 	'># Spells per day\n' +
