@@ -133,6 +133,14 @@
           "properties": [],
           "nested": [
             {
+              "type": "property",
+              "id": "399ac9a839fb",
+              "properties": [
+                "bab"
+              ],
+              "fallback": "-"
+            },
+            {
               "type": "heading",
               "id": "69f84a797939",
               "properties": [
@@ -140,51 +148,6 @@
               ],
               "size": 2,
               "fallback": "-"
-            },
-            {
-              "type": "property",
-              "id": "399ac9a839fb",
-              "properties": [
-                "bab"
-              ],
-              "fallback": "-"
-            }
-          ]
-        },
-        {
-          "type": "inline",
-          "id": "6b8acb4bfacb",
-          "properties": [],
-          "nested": [
-            {
-              "type": "heading",
-              "id": "1b196a6868a8",
-              "properties": [
-                "WEAPONS"
-              ],
-              "size": 2,
-              "fallback": "-"
-            },
-            {
-              "type": "group",
-              "id": "0ae93b184818",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "table",
-                  "id": "b83b2a9a58cb",
-                  "properties": [
-                    "WEAPONS"
-                  ],
-                  "headers": [
-                    "Ranged",
-                    "Meele",
-                    "Natural"
-                  ],
-                  "calculate": true,
-                  "fallback": "-"
-                }
-              ]
             }
           ]
         },
@@ -237,7 +200,8 @@
           ]
         }
       ],
-      "id": "c9ca3abaeb99"
+      "id": "c9ca3abaeb99",
+      "forceColumns": true
     }
   ],
   "default": "basic-5e-layout",
