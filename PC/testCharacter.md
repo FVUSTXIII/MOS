@@ -32,7 +32,7 @@ AbilityScores:
   con: 30
   char: 35
   tempStr: 0
-  tempInt: 0
+  tempInt: 10
   tempDex: 0
   tempWis: 0
   tempCon: 0
