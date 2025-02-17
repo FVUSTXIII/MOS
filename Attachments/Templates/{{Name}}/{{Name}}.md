@@ -20,6 +20,7 @@ Death:
 Age: {{age}} 
 banner: {{user.avatar}} 
 banner_y: {{user.avatar_align}}
+portrait: {{user.portrait}}
 statblock: true
 Name: {{name}}
 Alignment: {{alignment}}
@@ -60,7 +61,7 @@ Init:
 
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall](https://i.imgur.com/VJm0i9g.png)
+>![cover hsmall](`this.file.portrait`)
 >#### Geography
 >Class | Level  |
 > ---|---|
