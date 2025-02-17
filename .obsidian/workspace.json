@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94f102c7bfd42051",
+        "id": "e0a22f4bb4926453",
         "type": "tabs",
         "children": [
           {
-            "id": "00ab5139a7c3cceb",
+            "id": "3f8be2d4e3035018",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -349,10 +349,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "00ab5139a7c3cceb",
+  "active": "3f8be2d4e3035018",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn_old.md",
+    "PC/Ashe Lightborn.md",
+    "`=this.Description.Race`.md",
     "PC/Ashe Lightborn 2.0.md",
+    "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/testCharacter.md",
     "Attachments/References/Images to be used.md",
@@ -360,7 +362,6 @@
     "`.md",
     "PC/Zenshin Rusk.md",
     "Pending.md",
-    "PC/Ashe Lightborn.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",
     "Attachments/Templates/{{Name}}/Backstory.md",
     "Attachments/Templates/{{Name}}/Relations.md",
@@ -379,7 +380,6 @@
     "Narrative/Questlines/Quests/New Quest.md",
     "Narrative/Questlines/A Lion's roar.md",
     "Narrative/Questlines/Five Of Cups.md",
-    "PC/Felix Emberfeather.md",
     "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Rewards",
