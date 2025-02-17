@@ -35,8 +35,7 @@
               "title": "testCharacter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/testCharacter.md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testCharacter"
+              "title": "Backlinks for"
             }
           },
           {
@@ -364,10 +363,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f4511ced88126df1",
+  "active": "50fa25e223d9ccf7",
   "lastOpenFiles": [
-    "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/testCharacter.md",
+    "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/Ashe Lightborn.md",
     "World/World Vault/Monsters",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",

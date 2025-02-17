@@ -146,7 +146,7 @@ Level | Spell Slots  | DC |
 	'># Spells per day\n' +
 	'Level | Spell Slots  | DC |\n' +
 	'---|---|---|\n'+
-	'{{#each spells}} {{ this.slotted.[0].level  }} | {{this.totalKnown}} | {{this.dc}} |\n {{/each}}'
+	'{{#each spells}} {{#if this.slotted.[0].level}] }} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} | {{this.dc}} |\n {{/each}}'
 	);
 ```
 
