@@ -6,13 +6,13 @@ Description:
  Weight: 163
  Eyes: Yellow
  Gender: Female
- Race: [Human]
+ Race: ![Human]()
  Homeland: [[]]
 Affiliation: 
 Location: 
 Factions: 
 Titles: 
-Class: {class:Paladin,Level:11}
+Class: { class: Paladin,Level: 11 }
 State: 
 Wealth: 
 Birth: 
@@ -52,8 +52,8 @@ HP:
  nonLethal: 39
 Saves:
  Fortitude: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 19 }
- Will: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: fear and charm allies 10ft +4, total: 19 }
- Reflex: { base: 3, miscModifier: 5, tempModifier: 4, otherModifiers: , total: 15 }
+ Will: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [fear and charm allies 10ft +4], total: 19 }
+ Reflex: { base: 3, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 15 }
 Init: 
  total: 
  miscMod: 
