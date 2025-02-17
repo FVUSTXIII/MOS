@@ -6,7 +6,7 @@ Description:
  Weight: {{weight}}
  Eyes: {{eyes}}
  Gender: {{gender}}
- Race: [{{race}}]
+ Race: { name: {{race.name}}, url, {{race.url}} }
  Homeland: [[{{Homeland}}]]
 Affiliation: 
 Location: 
@@ -61,11 +61,11 @@ Init:
 
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall]({{user.portrait}})
->#### Geography
->Class | Level  |
-> ---|---|
-> `=this.Class.class`|`=this.Class.Level`|
+>![cover hsmall](https://i.imgur.com/vEyXUGg.png)
+> --- 
+>Class | Level  | Race |
+> ---|---|---|
+> `=this.Class.class`|`=this.Class.Level`| [Human](obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FHumans.md)
 
 ```ad-Tr
 traits
