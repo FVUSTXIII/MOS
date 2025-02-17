@@ -58,10 +58,10 @@ Init:
  total: 1
  miscMod: 2
 ---
-`=this.file.frontmatter.portrait`
+
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall]()
+>![cover hsmall](=this.file.frontmatter.portrait)
 >#### Geography
 >Class | Level  |
 > ---|---|
