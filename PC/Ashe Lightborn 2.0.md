@@ -6,7 +6,7 @@ Description:
  Weight: 163
  Eyes: Yellow
  Gender: Female
- Race: ![Human]()
+ Race: [[Human|obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FHumans.md]]
  Homeland: [[]]
 Affiliation: 
 Location: 
@@ -62,7 +62,7 @@ Init:
 >[!infobox]
 ># `=this.file.name` 
 >![cover hsmall](https://i.imgur.com/vEyXUGg.png)
->#### Geography
+>
 >Class | Level  |
 > ---|---|
 > `=this.Class.class`|`=this.Class.Level`|
