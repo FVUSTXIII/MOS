@@ -119,7 +119,11 @@
             {
               "type": "saves",
               "id": "9b799b2b585b",
-              "properties": []
+              "properties": [
+                "saves"
+              ],
+              "fallback": "-",
+              "display": "saves"
             }
           ]
         },
@@ -156,7 +160,7 @@
               "type": "heading",
               "id": "1b196a6868a8",
               "properties": [
-                "Weapons"
+                "WEAPONS"
               ],
               "size": 2,
               "fallback": "-"
@@ -170,7 +174,7 @@
                   "type": "table",
                   "id": "b83b2a9a58cb",
                   "properties": [
-                    "Weapons"
+                    "WEAPONS"
                   ],
                   "headers": [
                     "Ranged",
