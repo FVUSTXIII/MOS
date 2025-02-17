@@ -51,7 +51,7 @@ HP:
  wounds: {{hp.wounds}}
  nonLethal: {{nonLethal}}
 Saves:
- Fortitude: { base: {{}}, miscModifier: {{}},  }
+ Fortitude: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
  Will:
  Reflex:
  total: 
