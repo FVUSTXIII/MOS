@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "{{Name}}"
-            }
-          },
-          {
-            "id": "f4511ced88126df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "PC/testCharacter.md",
                 "mode": "source",
                 "source": false
@@ -242,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "PC/testCharacter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for"
+              "title": "Backlinks for testCharacter"
             }
           },
           {
@@ -365,8 +351,8 @@
   },
   "active": "50fa25e223d9ccf7",
   "lastOpenFiles": [
-    "PC/testCharacter.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "PC/testCharacter.md",
     "PC/Ashe Lightborn.md",
     "World/World Vault/Monsters",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",

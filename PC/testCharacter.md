@@ -19,7 +19,7 @@ Birth:
 Death: 
 Age: 12 
 banner: "https://static.wikia.nocookie.net/shrek/images/3/3f/Portada_img.jpg/revision/latest?cb=20100719002911&path-prefix=es"
-banner_y: 0.092
+banner_y: 0.332
 statblock: true
 Name: testCharacter
 Alignment: 
@@ -146,7 +146,7 @@ Level | Spell Slots  | DC |
 	'># Spells per day\n' +
 	'Level | Spell Slots  | DC |\n' +
 	'---|---|---|\n'+
-	' 0 | 1 | 10 |\n  1 | 2 | 9 |\n  2 | 4 | 8 |\n  3 | 4 | 7 |\n  4 | 5 | 6 |\n   | 6 | 5 |\n   | 7 | 4 |\n   | 8 | 3 |\n   | 9 | 2 |\n   | 10 | 1 |\n '
+	'   1 | 2 | 9 |\n   2 | 3 | 8 |\n   3 | 4 | 7 |\n   4 | 5 | 6 |\n      '
 	);
 ```
 
