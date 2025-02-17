@@ -104,8 +104,127 @@
       "diceParsing": []
     },
     {
-      "name": "Layout",
-      "blocks": [],
+      "name": "PF1esbc",
+      "blocks": [
+        {
+          "type": "group",
+          "id": "1a6b0be889ea",
+          "properties": [],
+          "nested": [
+            {
+              "type": "saves",
+              "id": "9b799b2b585b",
+              "properties": []
+            }
+          ]
+        },
+        {
+          "type": "inline",
+          "id": "8b79b9385aca",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "69f84a797939",
+              "properties": [
+                "Base Attack Bonus"
+              ],
+              "size": 2,
+              "fallback": "-"
+            },
+            {
+              "type": "property",
+              "id": "399ac9a839fb",
+              "properties": []
+            }
+          ]
+        },
+        {
+          "type": "inline",
+          "id": "6b8acb4bfacb",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "1b196a6868a8",
+              "properties": [
+                "Weapons"
+              ],
+              "size": 2,
+              "fallback": "-"
+            },
+            {
+              "type": "group",
+              "id": "0ae93b184818",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "table",
+                  "id": "b83b2a9a58cb",
+                  "properties": [
+                    "Weapons"
+                  ],
+                  "headers": [
+                    "Ranged",
+                    "Meele",
+                    "Natural"
+                  ],
+                  "calculate": true,
+                  "fallback": "-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "0ab85a8b09e8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "cbe9d9d9ea19",
+              "properties": [
+                "CMB"
+              ],
+              "size": 2,
+              "fallback": "-"
+            },
+            {
+              "type": "property",
+              "id": "189ad9fa2ad8",
+              "properties": [
+                "cmd"
+              ],
+              "fallback": "-"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "29298a48db38",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "5ae8f9891aea",
+              "properties": [
+                "CMD"
+              ],
+              "size": 2,
+              "fallback": "-"
+            },
+            {
+              "type": "property",
+              "id": "4b4ae9699a68",
+              "properties": [
+                "cmd"
+              ],
+              "fallback": "-"
+            }
+          ]
+        }
+      ],
       "id": "c9ca3abaeb99"
     }
   ],
