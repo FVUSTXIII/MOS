@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "PC/Ashe Lightborn 2.0.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -300,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       },
       {
         "id": "6ca045c651b18121",
@@ -349,11 +349,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5fd8d30c0f93ffad",
+  "active": "766c66804148c3a3",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn.md",
-    "PC/Ashe Lightborn 2.0.md",
     "PC/Ashe Lightborn_old.md",
+    "PC/Ashe Lightborn 2.0.md",
+    "PC/Ashe Lightborn.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "`=this.Description.Race.url`.md",
     "Pending.md",
