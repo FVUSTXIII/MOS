@@ -31,12 +31,12 @@ AbilityScores:
   wis: {{abilities.wis}}
   con: {{abilities.con}}
   char: {{abilities.cha}}
-  tempStr: {{abilities.tempStr}}
-  tempInt: {{abilities.tempInt}}
-  tempDex: {{abilities.tempDex}}
-  tempWis: {{abilities.tempWis}}
-  tempCon: {{abilities.tempCon}}
-  tempCha: {{abilities.tempCha}}
+  tempStr: {{normalizeAbilityScores str tempStr}}
+  tempInt: {{normalizeAbilityScores int tempInt}}
+  tempDex: {{normalizeAbilityScores dex tempDex}}
+  tempWis: {{normalizeAbilityScores wis tempWis}}
+  tempCon: {{normalizeAbilityScores con tempCon}}
+  tempCha: {{normalizeAbilityScores cha tempCha}}
 Icon: {{user.token}}
 AC:
   deflectionModifier: ""

@@ -31,12 +31,12 @@ AbilityScores:
   wis: 25
   con: 30
   char: 35
-  tempStr: 10
-  tempInt: 10
-  tempDex: 20
-  tempWis: 25
-  tempCon: 30
-  tempCha: 35
+  tempStr: 0
+  tempInt: 0
+  tempDex: 0
+  tempWis: 0
+  tempCon: 0
+  tempCha: 0
 Icon: https://www.spriters-resource.com/resources/sheet_icons/8/8046.png?updated=1460948133
 AC:
   deflectionModifier: ""
@@ -128,7 +128,7 @@ asdf
 	+ ' portrait: ' + frontmatter.Icon +'\n'
 	+ ' ability_scores: '+ asString + '\n'
 	+ '```');
-```
+	```
 ## Backstory
 
 ## Spells
