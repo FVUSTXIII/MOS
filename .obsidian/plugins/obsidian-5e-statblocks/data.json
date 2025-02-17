@@ -6,28 +6,9 @@
       "name": "PF1stedCS",
       "blocks": [
         {
-          "type": "inline",
-          "id": "e99bc9e9a8ba",
-          "properties": [],
-          "nested": [
-            {
-              "type": "image",
-              "id": "6988b8c9e879",
-              "properties": [
-                "portrait"
-              ],
-              "fallback": "-"
-            },
-            {
-              "type": "heading",
-              "id": "9bbbd9abe969",
-              "properties": [
-                "name"
-              ],
-              "size": 1,
-              "fallback": "-"
-            }
-          ]
+          "type": "layout",
+          "id": "f868b8aa4bbb",
+          "layout": "db8a4aeac8db"
         },
         {
           "type": "table",
@@ -51,7 +32,72 @@
     },
     {
       "name": "1ecsBasicInfo",
-      "blocks": [],
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "fa6beaca68a8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "group",
+              "id": "ba59c8b83928",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "image",
+                  "id": "e96babaa58da",
+                  "properties": [
+                    "portrait"
+                  ],
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "7bbb59b838f8",
+                  "properties": [
+                    "ac"
+                  ],
+                  "fallback": "-"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "id": "baaba9daaba8",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "0bc8f9ea19fb",
+                  "properties": [
+                    "name"
+                  ],
+                  "size": 1,
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "99fbba98c93a",
+                  "properties": [
+                    "HP"
+                  ],
+                  "fallback": "-",
+                  "display": "Hit Points"
+                },
+                {
+                  "type": "property",
+                  "id": "5a0b6a98f9ca",
+                  "properties": [
+                    "init"
+                  ],
+                  "fallback": "-",
+                  "display": "Initiative"
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "id": "db8a4aeac8db"
     }
   ],
