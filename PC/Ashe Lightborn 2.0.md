@@ -24,7 +24,7 @@ portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
 Name: Ashe Lightborn 2.0
 Alignment: Lawful Good
-BAB: 11/6+1 
+BAB: 14/7 
 AbilityScores:
   str: 10
   int: 8
