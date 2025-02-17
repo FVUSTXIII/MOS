@@ -12,7 +12,7 @@ Affiliation:
 Location: 
 Factions: 
 Titles: 
-Class: {class:class,Level:1}
+Class: { class: class , Level: 1}
 State: 
 Wealth: 
 Birth: 
@@ -58,13 +58,14 @@ Init:
  total: 1
  miscMod: 2
 ---
-![hsmall]([https://i.imgur.com/JokltCZ.png](https://i.imgur.com/JokltCZ.png)
+
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall](` $= dv.current().file.frontmatter.portrait `)
+>![cover hsmall](https://i.imgur.com/JokltCZ.png)
 >#### Geography
 >Class | Level  |
 > ---|---|
+> `=this.file.Class.class`|`=this.file.Class.level`
 
 ```ad-Tr
 traits
