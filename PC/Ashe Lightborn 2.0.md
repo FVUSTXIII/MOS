@@ -62,10 +62,16 @@ Init:
 >[!infobox]
 ># `=this.file.name` 
 >![cover hsmall](https://i.imgur.com/vEyXUGg.png)
-> Race|
-> ---|
-> `=this.Description.Race`|
 > 
+
+|     |     |
+| --- | --- |
+|     |     |
+
+> **Race **
+> 
+> `=this.Description.Race`
+>--- 
 >Class | Level  |
 > ---|---|
 > `=this.Class.class`|`=this.Class.Level`|
