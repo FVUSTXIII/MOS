@@ -26,6 +26,11 @@
           ],
           "calculate": true,
           "fallback": "-"
+        },
+        {
+          "type": "layout",
+          "id": "9a787ae8483a",
+          "layout": "c9ca3abaeb99"
         }
       ],
       "id": "d85af81b0baa"
@@ -135,7 +140,10 @@
             {
               "type": "property",
               "id": "399ac9a839fb",
-              "properties": []
+              "properties": [
+                "bab"
+              ],
+              "fallback": "-"
             }
           ]
         },
@@ -194,7 +202,7 @@
               "type": "property",
               "id": "189ad9fa2ad8",
               "properties": [
-                "cmd"
+                "cmb"
               ],
               "fallback": "-"
             }
