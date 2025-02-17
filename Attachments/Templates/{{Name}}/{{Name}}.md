@@ -65,7 +65,7 @@ Init:
 >#### Geography
 >Class | Level  |
 > ---|---|
-> `=this.Class.class`|`=this.Class.Level`
+> `=this.Class.class`|`=this.Class.Level`|
 
 ```ad-Tr
 traits
