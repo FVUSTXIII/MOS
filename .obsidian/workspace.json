@@ -11,10 +11,14 @@
             "id": "76364a57767e84dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PC/Ashe Lightborn 2.0.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ashe Lightborn 2.0"
             }
           }
         ]
@@ -224,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PC/Ashe Lightborn 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ashe Lightborn 2.0"
             }
           },
           {
@@ -346,8 +351,9 @@
   },
   "active": "76364a57767e84dd",
   "lastOpenFiles": [
-    "`=this.Description.Race`.md",
+    "Pending.md",
     "PC/Ashe Lightborn 2.0.md",
+    "`=this.Description.Race`.md",
     "PC/Ashe Lightborn.md",
     "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
@@ -356,7 +362,6 @@
     "PC/Shitora.md",
     "`.md",
     "PC/Zenshin Rusk.md",
-    "Pending.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",
     "Attachments/Templates/{{Name}}/Backstory.md",
     "Attachments/Templates/{{Name}}/Relations.md",
