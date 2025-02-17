@@ -52,9 +52,8 @@ HP:
  nonLethal: {{nonLethal}}
 Saves:
  Fortitude: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
- Will:
- Reflex:
- total: 
+ Will: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
+ Reflex: { base: {{}}, miscModifier: {{}}, tempModifier: {{}}, otherModifiers: {{}}, total: {{}} }
 Init: 
  total: {{initiative.total}}
  miscMod: {{initiative.miscModifier}}
