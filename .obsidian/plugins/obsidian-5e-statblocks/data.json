@@ -58,15 +58,6 @@
                     "ac"
                   ],
                   "fallback": "-"
-                },
-                {
-                  "type": "property",
-                  "id": "d9ebfbc8a92a",
-                  "properties": [
-                    "Speed"
-                  ],
-                  "fallback": "-",
-                  "display": "Speed"
                 }
               ]
             },
