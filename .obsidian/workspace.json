@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0a22f4bb4926453",
+        "id": "dc6fbe850a349c77",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8be2d4e3035018",
+            "id": "76364a57767e84dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PC/Ashe Lightborn 2.0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ashe Lightborn 2.0"
+              "title": "New tab"
             }
           }
         ]
@@ -228,7 +224,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/Ashe Lightborn 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ashe Lightborn 2.0"
+              "title": "Backlinks"
             }
           },
           {
@@ -349,11 +344,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3f8be2d4e3035018",
+  "active": "76364a57767e84dd",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn.md",
     "`=this.Description.Race`.md",
     "PC/Ashe Lightborn 2.0.md",
+    "PC/Ashe Lightborn.md",
     "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/testCharacter.md",
