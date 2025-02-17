@@ -91,14 +91,22 @@
                     "init"
                   ],
                   "fallback": "-",
-                  "display": "Initiative"
+                  "display": "Initiative",
+                  "dice": true,
+                  "diceProperty": "init"
                 }
               ]
             }
           ]
         }
       ],
-      "id": "db8a4aeac8db"
+      "id": "db8a4aeac8db",
+      "diceParsing": []
+    },
+    {
+      "name": "Layout",
+      "blocks": [],
+      "id": "c9ca3abaeb99"
     }
   ],
   "default": "basic-5e-layout",
