@@ -57,8 +57,8 @@ Saves:
 Init: 
  total: 3
  miscMod: 0
- CMB: { miscMods: , tempMods: [], sizeMods: 0 , total: 13 } 
- CMD: { miscMods: 0, tempMods: [0], sizeMods: 0  , total: 26 }
+CMB: { miscMods: , tempMods: [], sizeMods: 0 , total: 13 } 
+CMD: { miscMods: 0, tempMods: [0], sizeMods: 0  , total: 26 }
 ---
 
 >[!infobox]
@@ -122,7 +122,7 @@ asdf
     bab: frontmatter.BAB,
     cmb: frontmatter.CMB.total,
     cmd: frontmatter.CMD.total,
-    saves: "[" + frontmatter.Saves.Fortitude +"," frontmatter.Saves.Will, frontmatter.Saves.Reflex]
+    saves: "[" + frontmatter.Saves.Fortitude +"," +frontmatter.Saves.Will +"," + frontmatter.Saves.Reflex + "]"
   }
 	let asString = '[';
 	for(const [key, value] of Object.entries(abilityScoresObject)) {
@@ -138,7 +138,13 @@ asdf
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
 	+ ' portrait: ' + frontmatter.Icon +'\n'
+	+ ' HP¨: ' + extraTemplateInfo.bab + '\n'
+	+ ' saves: ' + extraTemplateInfo.saves + '\n'
+	+ ' init: ' + extraTemplateInfo.init + '\n'
+	+ ' cmb: ' + extraTemplateInfo.cmb + '\n'
+	+ ' cmd: ' + extraTemplateInfo.cmd + '\n'
 	+ ' ability_scores: '+ asString + '\n'
+	+ ' bab: ' + extraTemplateInfo.bab+ '\n'
 	+ '```');
 	```
 ## Backstory
