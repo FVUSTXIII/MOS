@@ -118,11 +118,16 @@ asdf
 	}
 	const extraTemplateInfo = {
     hp: (frontmatter.HP.total - frontmatter.HP.wounds),
+    ac: (frontmatter.AC.total),
     init: (frontmatter.Init.total - frontmatter.Init.miscMod),
     bab: frontmatter.BAB,
     cmb: frontmatter.CMB.total,
     cmd: frontmatter.CMD.total,
-    saves: "[" + frontmatter.Saves.Fortitude +"," +frontmatter.Saves.Will +"," + frontmatter.Saves.Reflex + "]"
+    saves: { 
+	    fortitude: frontmatter.Saves.Fortitude.total ,
+        will: frontmatter.Saves.Will.total,
+        reflex: frontmatter.Saves.Reflex.total 
+	}
   }
 	let asString = '[';
 	for(const [key, value] of Object.entries(abilityScoresObject)) {
@@ -137,14 +142,15 @@ asdf
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
-	+  'hp: '+ frontmatter.hp + '\n'
+	+ ' HP: '+ extraTemplateInfo.hp + '\n'
+	+ ' ac: '+ extraTemplateInfo.ac + '\n'
 	+ ' portrait: ' + frontmatter.Icon + '\n'
-	+ ' saves: ' + extraTemplateInfo.saves + '\n'
 	+ ' init: ' + extraTemplateInfo.init + '\n'
 	+ ' cmb: ' + extraTemplateInfo.cmb + '\n'
 	+ ' cmd: ' + extraTemplateInfo.cmd + '\n'
 	+ ' ability_scores: '+ asString + '\n'
 	+ ' bab: ' + extraTemplateInfo.bab+ '\n'
+	+ ' saves: \n -Fortitude: ' + extraTemplateInfo.saves + '\n'
 	+ '```');
 	```
 
