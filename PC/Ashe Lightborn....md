@@ -116,7 +116,11 @@ asdf
 	}
 	const extraTemplateInfo = {
 		hp: (frontmatter.HP.total - frontmatter.HP.wounds),
-		init: (frontmatter.HP.total - frontmatter.HP.wounds)
+		init: (frontmatter.Init.total - frontmatter.HP.miscMod),
+		bab: frontmatter.BAB,
+		cmb: {{cmb.total}},
+		cmd: {{cmd.total}},
+		saves:
 	}
 	let asString = '[';
 	for(const [key, value] of Object.entries(abilityScoresObject)) {
