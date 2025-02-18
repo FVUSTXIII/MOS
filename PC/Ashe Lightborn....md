@@ -150,9 +150,10 @@ asdf
 	+ ' cmd: ' + extraTemplateInfo.cmd + '\n'
 	+ ' ability_scores: '+ asString + '\n'
 	+ ' bab: ' + extraTemplateInfo.bab+ '\n'
-	+ ' saves: \n -Fortitude: ' + extraTemplateInfo.saves + '\n'
+	+ ' saves: \n - Fortitude: ' + extraTemplateInfo.saves.fortitude 
+	+ '\n - Will: ' + extraTemplateInfo.saves.will + '\n - Reflex: ' + extraTemplateInfo.saves.reflex + '\n'
 	+ '```');
-	```
+```
 
 ## Backstory
 

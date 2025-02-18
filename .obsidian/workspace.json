@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn....md",
+                "file": "PC/Shitora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn..."
+              "title": "Shitora"
             }
           }
         ]
@@ -351,20 +351,23 @@
   },
   "active": "5fd8d30c0f93ffad",
   "lastOpenFiles": [
-    "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "PC/Zenshin Rusk.md",
+    "Current Session Summary.md",
+    "Campaing Overview.md",
+    "Index.canvas",
     "PC/Ashe Lightborn....md",
+    "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn 2.0.md",
+    "Pending.md",
+    "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/Ashe Lightborn.md",
     "Untitled.canvas",
-    "PC/Ashe Lightborn_old.md",
     "`=this.Description.Race.url`.md",
-    "Pending.md",
     "`=this.Description.Race`.md",
     "PC/testCharacter.md",
     "Attachments/References/Images to be used.md",
     "PC/Shitora.md",
     "`.md",
-    "PC/Zenshin Rusk.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",
     "Attachments/Templates/{{Name}}/Backstory.md",
     "Attachments/Templates/{{Name}}/Relations.md",
@@ -373,13 +376,9 @@
     "Attachments/Templates/Current Date Template.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
-    "Campaing Overview.md",
-    "Current Session Summary.md",
     "Narrative/NPC/Jornax Grath.md",
     "Narrative/NPC/Torian Grimm.md",
-    "Index.canvas",
     "Narrative/Questlines/Quests/Lost lambs.md",
-    "Narrative/Questlines/Quests/New Quest.md",
     "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Rewards",

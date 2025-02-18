@@ -29,7 +29,11 @@ NoteID: 165e803a-6a6c-4739-a6be-9eb3ea18590d
 - [ ]  how to add a porperty conditionally metadata menu
 - [ ]  how to add icons to files 
 - [ ] Build json file template for character sheet
-- [ ] Define statblock sheet and properties
+- [x] Define statblock sheet and properties
+- [ ] Character md template side bar
+- [ ] Character md template info admonitions
+- [ ]  Character md template skills
+- [ ]  
 
 
 
