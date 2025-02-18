@@ -57,6 +57,8 @@ Saves:
 Init: 
  total: 3
  miscMod: 0
+ CMB: { miscMods: , tempMods: [], sizeMods: 0 , total: 13 } 
+ CMD: { miscMods: 0, tempMods: [0], sizeMods: 0  , total: 26 }
 ---
 
 >[!infobox]
@@ -115,13 +117,13 @@ asdf
 		  char:(abilityScores.tempCha > 0) ? abilityScores.tempCha : abilityScores.char 
 	}
 	const extraTemplateInfo = {
-		hp: (frontmatter.HP.total - frontmatter.HP.wounds),
-		init: (frontmatter.Init.total - frontmatter.HP.miscMod),
-		bab: frontmatter.BAB,
-		cmb: {{cmb.total}},
-		cmd: {{cmd.total}},
-		saves:
-	}
+    hp: (frontmatter.HP.total - frontmatter.HP.wounds),
+    init: (frontmatter.Init.total - frontmatter.HP.miscMod),
+    bab: frontmatter.BAB,
+    cmb: frontmatter.CMB.total,
+    cmd: frontmatter.CMD.total,
+    saves: "[" + frontmatter.Saves.Fortitude +"," frontmatter.Saves.Will, frontmatter.Saves.Reflex]
+  }
 	let asString = '[';
 	for(const [key, value] of Object.entries(abilityScoresObject)) {
 	  if (!key.includes('temp')) {

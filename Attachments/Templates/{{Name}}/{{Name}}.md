@@ -58,7 +58,7 @@ Init:
  total: {{initiative.total}}
  miscMod: {{initiative.miscModifier}}
  CMB: { miscMods: {{cmb.miscModifiers}}, tempMods: {{parseList cmb.tempModifiers}}, sizeMods: {{cmb.sizeModifiers }} , total: {{cmb.total}} } 
- CMD: { miscMods: {{cmd.miscModifiers}}, tempMods: {{parseList cmd.tempModifiers}}, sizeMods: {{sizeModifiers }} , total: {{cmd.total}} }
+ CMD: { miscMods: {{cmd.miscModifiers}}, tempMods: {{parseList cmd.tempModifiers}}, sizeMods: {{cmd.sizeModifiers }} , total: {{cmd.total}} }
 ---
 
 >[!infobox]
