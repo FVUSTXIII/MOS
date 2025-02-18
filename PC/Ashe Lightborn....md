@@ -118,7 +118,7 @@ asdf
 	}
 	const extraTemplateInfo = {
     hp: (frontmatter.HP.total - frontmatter.HP.wounds),
-    init: (frontmatter.Init.total - frontmatter.HP.miscMod),
+    init: (frontmatter.Init.total - frontmatter.Init.miscMod),
     bab: frontmatter.BAB,
     cmb: frontmatter.CMB.total,
     cmd: frontmatter.CMD.total,
@@ -137,8 +137,8 @@ asdf
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
-	+ ' portrait: ' + frontmatter.Icon +'\n'
-	+ ' HP¨: ' + extraTemplateInfo.bab + '\n'
+	+  'hp: '+ frontmatter.hp + '\n'
+	+ ' portrait: ' + frontmatter.Icon + '\n'
 	+ ' saves: ' + extraTemplateInfo.saves + '\n'
 	+ ' init: ' + extraTemplateInfo.init + '\n'
 	+ ' cmb: ' + extraTemplateInfo.cmb + '\n'
@@ -147,6 +147,7 @@ asdf
 	+ ' bab: ' + extraTemplateInfo.bab+ '\n'
 	+ '```');
 	```
+
 ## Backstory
 
 ## Spells
