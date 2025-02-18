@@ -33,7 +33,9 @@ NoteID: 165e803a-6a6c-4739-a6be-9eb3ea18590d
 - [ ] Character md template side bar
 - [ ] Character md template info admonitions
 - [ ]  Character md template skills
-- [ ]  
+- [ ]  Character md template spell casting table 
+- [ ]  Style statblock sheet
+
 
 
 

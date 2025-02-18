@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Shitora.md",
+                "file": "Pending.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shitora"
+              "title": "Pending"
             }
           }
         ]
@@ -351,22 +351,24 @@
   },
   "active": "5fd8d30c0f93ffad",
   "lastOpenFiles": [
+    "PC/Ashe Lightborn....md",
+    "PC/Ashe Lightborn 2.0.md",
+    "Pending.md",
+    "PC/Ashe Lightborn.md",
+    "PC/Ashe Lightborn_old.md",
+    "PC/Felix Emberfeather.md",
+    "PC/Phantom.md",
+    "PC/Shitora.md",
     "PC/Zenshin Rusk.md",
     "Current Session Summary.md",
     "Campaing Overview.md",
     "Index.canvas",
-    "PC/Ashe Lightborn....md",
-    "PC/Ashe Lightborn_old.md",
-    "PC/Ashe Lightborn 2.0.md",
-    "Pending.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
-    "PC/Ashe Lightborn.md",
     "Untitled.canvas",
     "`=this.Description.Race.url`.md",
     "`=this.Description.Race`.md",
     "PC/testCharacter.md",
     "Attachments/References/Images to be used.md",
-    "PC/Shitora.md",
     "`.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory.md",
     "Attachments/Templates/{{Name}}/Backstory.md",
@@ -378,7 +380,6 @@
     "Sessions/04 - The Woods/04 - The Woods.md",
     "Narrative/NPC/Jornax Grath.md",
     "Narrative/NPC/Torian Grimm.md",
-    "Narrative/Questlines/Quests/Lost lambs.md",
     "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Rewards",
