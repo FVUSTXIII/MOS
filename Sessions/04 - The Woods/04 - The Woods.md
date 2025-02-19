@@ -20,12 +20,7 @@ banner_y:
 
 
 ```ad-go
-* this
-	- esto y esto
-* this 
-	- esto y el otro
-* this 
-* and that
+* En la sesión pasada los héroes salieron de Lightcrest en camino hacia Coldfalton. Para ahorrar tiempo decidieron ir en línea recta en lugar de ir por el camino 
 ```
 
 ## Places
