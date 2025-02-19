@@ -20,7 +20,7 @@ banner_y:
 
 
 ```ad-go
-* En la sesión pasada los héroes salieron de Lightcrest en camino hacia Coldfalton. Para ahorrar tiempo decidieron ir en línea recta en lugar de ir por el camino 
+* En la sesión pasada los héroes salieron de Lightcrest en camino hacia Coldfalton. Para ahorrar tiempo decidieron ir en línea recta en lugar de ir por el camino. 
 ```
 
 ## Places
