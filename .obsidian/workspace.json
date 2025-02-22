@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaing Overview.md",
+                "file": "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaing Overview"
+              "title": "Sredelm Woods"
             }
           }
         ],
@@ -365,16 +365,18 @@
   },
   "active": "1e6e19ff54524fe5",
   "lastOpenFiles": [
+    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Starfell/Starfell.md",
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
+    "Campaing Overview.md",
     "Current Session Summary.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
     "World/Memoria/Memoria.md",
     "World/Calendar/Days of the Week.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Paleby/Paleby.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Lowcot/Lowcot.md",
-    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Pending.md",
     "PC/Ashe Lightborn....md",
@@ -385,14 +387,12 @@
     "PC/Phantom.md",
     "PC/Shitora.md",
     "PC/Zenshin Rusk.md",
-    "Campaing Overview.md",
     "Index.canvas",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "Untitled.canvas",
     "`=this.Description.Race.url`.md",
     "`=this.Description.Race`.md",
     "PC/testCharacter.md",
-    "Attachments/References/Images to be used.md",
     "World/World Vault/Monsters",
     "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
