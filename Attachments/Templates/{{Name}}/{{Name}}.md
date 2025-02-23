@@ -139,9 +139,9 @@ asdf
 
 ```dataviewjs
 const abilityScoreToCast = new Map([
-	["paladin", "char"],
-	["sorcerer", "char"],
-	["wizard", "int"]
+	["char", []],
+	["int", []],
+		
 ]);
 
 function bonSpellMod(abilityScore) {
