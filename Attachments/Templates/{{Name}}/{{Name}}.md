@@ -138,6 +138,7 @@ asdf
 ## Spells
 
 ```dataviewjs
+	
 	dv.paragraph('>[!infobox]\n' + 
 	'># Spells per day\n' +
 	'Level | Spell Slots  | DC |\n' +

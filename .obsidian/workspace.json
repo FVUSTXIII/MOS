@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn....md",
+                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn..."
+              "title": "{{Name}}"
             }
           }
         ]
@@ -350,6 +350,7 @@
   },
   "active": "8691efe92bbe4c74",
   "lastOpenFiles": [
+    "PC/Ashe Lightborn....md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/ColdFallton.md",
@@ -364,7 +365,6 @@
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods/IMG-20250222190722971.png",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
-    "PC/Ashe Lightborn....md",
     "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn.md",
     "PC/Ashe Lightborn 2.0.md",
