@@ -138,10 +138,32 @@ asdf
 ## Spells
 
 ```dataviewjs
-	
-	dv.paragraph('>[!infobox]\n' + 
+
+
+function bonSpellMod(abilityScore) {
+    return Math.floor((abilityScore - 10) / 2);
+}
+
+function bonSpell(spellLevel, abilityScore) {
+	return (bonSpellMod(abilityScore) <= 0 || spellLevel < 1) ? 0 : Math.floor((bonSpellMod(abilityScore) - (spellLevel)) / 4) + 1;
+}
+
+function calculateBonSpells (abilityScore, spellLevel) {
+    let bonusSpells = {}
+    
+    for (let spellLevel = 1; spellLevel <= 9; spellLevel++) {
+        let bonusSpell = bonSpell(spellLevel, abilityScore);
+        bonusSpells[`LVL${spellLevel}`] = (bonusSpell > 0) ? bonusSpell : 0
+    }
+    return bonusSpells
+}
+
+let bonSpells = calculateBonSpells()
+
+
+dv.paragraph('>[!infobox]\n' + 
 	'># Spells per day\n' +
-	'Level | Spell Slots  | DC |\n' +
+	'Level | Spell Slots | Bonus Spells | DC |\n' +
 	'---|---|---|\n'+
 	'{{#each spells}} {{#if this.slotted.[0].level}} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} | {{this.dc}} |\n {{/if}}{{/each}}'
 	);
