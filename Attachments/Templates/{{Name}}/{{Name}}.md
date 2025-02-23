@@ -140,6 +140,17 @@ asdf
 ```dataviewjs
 const frontmatter = dv.current().file.frontmatter;
 
+const abilityScores = frontmatter.AbilityScores;
+
+const abilityScoresObject = {
+	  str: (abilityScores.tempStr > 0) ? abilityScores.tempStr  : abilityScores.str,
+	  int: (abilityScores.tempInt > 0) ? abilityScores.tempInt  : abilityScores.int,
+	  dex: (abilityScores.tempDex > 0) ? abilityScores.tempDex  : abilityScores.dex,
+	  wis: (abilityScores.tempWis > 0) ? abilityScores.tempWis  : abilityScores.wis, 
+	  con: (abilityScores.tempCon > 0) ? abilityScores.tempCon  : abilityScores.con, 
+	  char:(abilityScores.tempCha > 0) ? abilityScores.tempCha : abilityScores.char 
+}
+
 const abilityScoreToCast = new Map([
 	["char", ["sorcerer", "paladin", "bard", "oracle", "summoner", "medium", "spiritualist", "mesmerist"]],
 	["int", ["wizard", "psion", "witch", "magus", "psychic", "occultist"]],
