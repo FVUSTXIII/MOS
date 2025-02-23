@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "201c3839e2136a94",
+        "id": "02ef8a251457724a",
         "type": "tabs",
         "children": [
           {
-            "id": "93e91b1e12905cb5",
+            "id": "22b5aff0cc64f097",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn bonus spells.md",
-                "staged": false
+                "file": "PC/Zenshin Rusk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Ashe Lightborn bonus spells)"
+              "icon": "lucide-file",
+              "title": "Zenshin Rusk"
             }
           }
         ]
@@ -299,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6ca045c651b18121",
@@ -347,15 +348,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "93e91b1e12905cb5",
+  "active": "22b5aff0cc64f097",
   "lastOpenFiles": [
+    "Sessions/04 - The Woods/04 - The Woods.md",
+    "Sessions/04 - The Woods/DC Tables.md",
     "PC/Ashe Lightborn bonus spells.md",
     "PC/Ashe Lightborn 2.0.md",
-    "Sessions/04 - The Woods/04 - The Woods.md",
     "conflict-files-obsidian-git.md",
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/03 - The witch/03 - The Witch.md",
-    "Sessions/04 - The Woods/DC Tables.md",
     "Campaing Overview.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "World/Memoria/Memoria.md",
