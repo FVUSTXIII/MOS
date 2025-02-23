@@ -225,3 +225,15 @@ dv.paragraph('>[!infobox]\n' +
 
 
 ---
+
+```js-engine
+let str = '*test*';
+return engine.markdown.create(str);
+```
+```meta-bind-button
+style: primary
+label: Greet the World
+action:
+  type: inlineJS
+  code: "console.log('Hello World!');"
+```
