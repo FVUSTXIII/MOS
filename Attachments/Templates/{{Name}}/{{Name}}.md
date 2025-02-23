@@ -138,11 +138,25 @@ asdf
 ## Spells
 
 ```dataviewjs
+const frontmatter = dv.current().file.frontmatter;
+
 const abilityScoreToCast = new Map([
 	["char", ["sorcerer", "paladin", "bard", "oracle", "summoner", "medium", "spiritualist", "mesmerist"]],
 	["int", ["wizard", "psion", "witch", "magus", "psychic", "occultist"]],
 	["wis", ["cleric", "druid", "ranger", "inquisitor", "chaman"]]
 ]);
+
+const _class = frontmatter.Class.class;
+
+let willCastWith = ''
+
+for (const [key, value] of abilityScoreToCast) {
+if (value.includes(_class)) {
+      willCastWith = key;
+  }
+}
+
+
 
 function bonSpellMod(abilityScore) {
     return Math.floor((abilityScore - 10) / 2);
@@ -172,7 +186,6 @@ dv.paragraph('>[!infobox]\n' +
 	'{{#each spells}} {{#if this.slotted.[0].level}} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} | {{this.dc}} |\n {{/if}}{{/each}}'
 	);
 ```
-
 
 
 
