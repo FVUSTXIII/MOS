@@ -59,6 +59,7 @@ Init:
  miscMod: {{initiative.miscModifier}}
 CMB: { miscMods: {{cmb.miscModifiers}}, tempMods: {{parseList cmb.tempModifiers}}, sizeMods: {{cmb.sizeModifiers }} , total: {{cmb.total}} } 
 CMD: { miscMods: {{cmd.miscModifiers}}, tempMods: {{parseList cmd.tempModifiers}}, sizeMods: {{cmd.sizeModifiers }} , total: {{cmd.total}} }
+SpellsCast: []
 ---
 
 >[!infobox]
@@ -179,6 +180,8 @@ const abilityScoreToCast = new Map([
 ]);
 
 const _class = frontmatter.Class.class;
+
+let spellsCast = frontmatter.SpellsCast.length;
 
 let willCastWith = ''
 

@@ -21,7 +21,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 24
-banner: https://i.imgur.com/99imyQ0.png
+banner: "https://i.imgur.com/99imyQ0.png"
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
@@ -212,6 +212,8 @@ const abilityScoreToCast = new Map([
 
 const _class = frontmatter.Class.class;
 
+let spellsCast = frontmatter.SpellsCast.length;
+
 let willCastWith = ''
 
 for (const [key, value] of abilityScoreToCast) {
@@ -227,7 +229,6 @@ function bonSpellMod(abilityScore) {
 function bonSpell(spellLevel, abilityScore) {
 	return (bonSpellMod(abilityScore) <= 0 || spellLevel < 1) ? 0 : Math.floor((bonSpellMod(abilityScore) - (spellLevel)) / 4) + 1;
 }
-
 function calculateBonSpells (abilityScore, spellLevel) {
     
     let bonusSpells = {}
@@ -241,12 +242,16 @@ function calculateBonSpells (abilityScore, spellLevel) {
 
 let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
+let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
+let str = `~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast] \n~~~`;
+dv.paragraph(str1+str);
 
 dv.paragraph('>[!infobox]\n' + 
 	'># Spells per day\n' +
 	'Level | Spell Slots | Bonus Spells | DC |\n' +
 	'---|---|---|---|\n'+
-	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${ 3 }`] + '| 18 |\n       '
+	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  +  
+    bonSpells[`LVL${ 3 }`] + '| 18 |\n' 	
 );
 ```
 
@@ -260,9 +265,7 @@ dv.paragraph('>[!infobox]\n' +
 
 ```dataviewjs
 const frontmatter = dv.current().file.frontmatter;
-let spellsCast = frontmatter.SpellsCast.length;
-let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
-let str = `~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast] \n~~~`;
-dv.paragraph(str1+str);
+
+
 ```
 
