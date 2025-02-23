@@ -1,3 +1,6 @@
+![](https://i.imgur.com/ThaWRRG.png)
+
+
 Sredelm Mandragonra (Medium)                                                    CR 11
 XP 12800
 *A Medium Plant
