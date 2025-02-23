@@ -57,8 +57,8 @@ Saves:
 Init: 
  total: {{initiative.total}}
  miscMod: {{initiative.miscModifier}}
- CMB: { miscMods: {{cmb.miscModifiers}}, tempMods: {{parseList cmb.tempModifiers}}, sizeMods: {{cmb.sizeModifiers }} , total: {{cmb.total}} } 
- CMD: { miscMods: {{cmd.miscModifiers}}, tempMods: {{parseList cmd.tempModifiers}}, sizeMods: {{cmd.sizeModifiers }} , total: {{cmd.total}} }
+CMB: { miscMods: {{cmb.miscModifiers}}, tempMods: {{parseList cmb.tempModifiers}}, sizeMods: {{cmb.sizeModifiers }} , total: {{cmb.total}} } 
+CMD: { miscMods: {{cmd.miscModifiers}}, tempMods: {{parseList cmd.tempModifiers}}, sizeMods: {{cmd.sizeModifiers }} , total: {{cmd.total}} }
 ---
 
 >[!infobox]
@@ -116,6 +116,19 @@ asdf
 		  con: (abilityScores.tempCon > 0) ? abilityScores.tempCon  : abilityScores.con, 
 		  char:(abilityScores.tempCha > 0) ? abilityScores.tempCha : abilityScores.char 
 	}
+	const extraTemplateInfo = {
+    hp: (frontmatter.HP.total - frontmatter.HP.wounds),
+    ac: (frontmatter.AC.total),
+    init: (frontmatter.Init.total - frontmatter.Init.miscMod),
+    bab: frontmatter.BAB,
+    cmb: frontmatter.CMB.total,
+    cmd: frontmatter.CMD.total,
+    saves: { 
+	    fortitude: frontmatter.Saves.Fortitude.total ,
+        will: frontmatter.Saves.Will.total,
+        reflex: frontmatter.Saves.Reflex.total 
+	}
+  }
 	let asString = '[';
 	for(const [key, value] of Object.entries(abilityScoresObject)) {
 	  if (!key.includes('temp')) {
@@ -129,10 +142,18 @@ asdf
 	dv.paragraph('```statblock \n' 
 	+ ' layout: PF1stedCS \n' 
 	+ ' name: ' + frontmatter.Name + '\n'
-	+ ' portrait: ' + frontmatter.Icon +'\n'
+	+ ' HP: '+ extraTemplateInfo.hp + '\n'
+	+ ' ac: '+ extraTemplateInfo.ac + '\n'
+	+ ' portrait: ' + frontmatter.Icon + '\n'
+	+ ' init: ' + extraTemplateInfo.init + '\n'
+	+ ' cmb: ' + extraTemplateInfo.cmb + '\n'
+	+ ' cmd: ' + extraTemplateInfo.cmd + '\n'
 	+ ' ability_scores: '+ asString + '\n'
+	+ ' bab: ' + extraTemplateInfo.bab+ '\n'
+	+ ' saves: \n - Fortitude: ' + extraTemplateInfo.saves.fortitude 
+	+ '\n - Will: ' + extraTemplateInfo.saves.will + '\n - Reflex: ' + extraTemplateInfo.saves.reflex + '\n'
 	+ '```');
-	```
+```
 ## Backstory
 
 ## Spells
