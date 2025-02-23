@@ -138,7 +138,11 @@ asdf
 ## Spells
 
 ```dataviewjs
-
+const abilityScoreToCast = new Map([
+	["paladin", "char"],
+	["sorcerer", "char"],
+	["wizard", "int"]
+]);
 
 function bonSpellMod(abilityScore) {
     return Math.floor((abilityScore - 10) / 2);
