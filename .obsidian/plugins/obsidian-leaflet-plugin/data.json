@@ -1,154 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "Corentyn-map",
-      "locked": false,
-      "lastAccessed": 1740270362289,
-      "markers": [],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": -615.0000000000005,
-              "lng": 532.0000000000032,
-              "id": "ID_e8d98bb92a48",
-              "targets": {
-                "vertexIds": [
-                  "ID_09c9383aa8ab"
-                ]
-              }
-            },
-            {
-              "lat": -611.5000000000005,
-              "lng": 523.0000000000045,
-              "id": "ID_a95b281b8958",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -609.4426351500744,
-              "lng": 503.10416742649454,
-              "id": "ID_c819dbbbfba9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -615.6344571162072,
-              "lng": 406.9182196613332,
-              "id": "ID_38299b7a4858",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -577.6636752960897,
-              "lng": 476.29067004969215,
-              "id": "ID_c8ba2abbab9a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -566.7396578462808,
-              "lng": 479.2699475360023,
-              "id": "ID_dadb5aca08f8",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -552.0000000000005,
-              "lng": 475.5000000000043,
-              "id": "ID_b949ba3a9bda",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -564,
-              "lng": 492.0000000000068,
-              "id": "ID_7b4b8938982b",
-              "targets": {
-                "vertexIds": [
-                  "ID_fbeb6b2a3aca"
-                ]
-              }
-            },
-            {
-              "lat": -564,
-              "lng": 492.0000000000068,
-              "id": "ID_fbeb6b2a3aca",
-              "targets": {
-                "vertexIds": [
-                  "ID_7b4b8938982b"
-                ]
-              }
-            },
-            {
-              "lat": -556.8087328919107,
-              "lng": 496.15251995843505,
-              "id": "ID_1abb3bbbe8a9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -538.6382436394613,
-              "lng": 519.4901936012029,
-              "id": "ID_29b8da7b2b68",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -488.98361886760927,
-              "lng": 534.3865810327577,
-              "id": "ID_3839b8a9eb6b",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -486.00434138129845,
-              "lng": 555.2415234369346,
-              "id": "ID_aa1a293af9aa",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -574.0000000000013,
-              "lng": 552.0000000000018,
-              "id": "ID_7a684baa39cb",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": -615.0000000000005,
-              "lng": 532.0000000000032,
-              "id": "ID_09c9383aa8ab",
-              "targets": {
-                "vertexIds": [
-                  "ID_e8d98bb92a48"
-                ]
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md"
-      ]
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -177,7 +28,44 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[https://i.imgur.com/bOXYurI.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[https://i.imgur.com/bOXYurI.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": 0.01,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "Corentyn-map",
+    "unit": "miles",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
