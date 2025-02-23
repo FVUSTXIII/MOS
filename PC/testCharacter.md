@@ -130,7 +130,7 @@ asdf
 	+ ' portrait: ' + frontmatter.Icon +'\n'
 	+ ' ability_scores: '+ asString + '\n'
 	+ '```');
-	```
+```
 ## Backstory
 
 ## Spells

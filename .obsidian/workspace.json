@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn bonus spells.md",
+                "file": "PC/testCharacter.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn bonus spells"
+              "title": "testCharacter"
             }
           }
         ]
@@ -350,9 +350,9 @@
   },
   "active": "8691efe92bbe4c74",
   "lastOpenFiles": [
+    "PC/Ashe Lightborn bonus spells.md",
     "PC/Ashe Lightborn....md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
-    "PC/Ashe Lightborn bonus spells.md",
     "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn 2.0.md",
     "PC/Felix Emberfeather.md",
