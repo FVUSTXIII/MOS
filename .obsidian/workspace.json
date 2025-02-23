@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
+                "file": "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/ColdFallton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corentyn"
+              "title": "ColdFallton"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+                "file": "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sredelm Mandragonra (Medium)"
+              "title": "Corentyn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -362,18 +363,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5fd8d30c0f93ffad",
+  "active": "1e6e19ff54524fe5",
   "lastOpenFiles": [
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/ColdFallton.md",
     "World/Memoria/Memoria.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Starfell/Starfell.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
     "Campaing Overview.md",
     "Current Session Summary.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
     "World/Calendar/Days of the Week.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Paleby/Paleby.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Lowcot/Lowcot.md",
@@ -391,7 +393,6 @@
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "Untitled.canvas",
     "`=this.Description.Race.url`.md",
-    "`=this.Description.Race`.md",
     "World/World Vault/Monsters",
     "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",

@@ -1,5 +1,150 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Corentyn-map",
+      "locked": true,
+      "lastAccessed": 1740270084090,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -565.0696299036733,
+              "lng": 577.9798323443548,
+              "id": "ID_e8d98bb92a48",
+              "targets": {
+                "vertexIds": [
+                  "ID_09c9383aa8ab"
+                ]
+              }
+            },
+            {
+              "lat": -535.2768550405623,
+              "lng": 568.0489073899845,
+              "id": "ID_a95b281b8958",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -511.44263515007344,
+              "lng": 560.1041674264882,
+              "id": "ID_c819dbbbfba9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -483.63604527783644,
+              "lng": 515.4150051318215,
+              "id": "ID_38299b7a4858",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -479.6636752960883,
+              "lng": 533.2906700496883,
+              "id": "ID_c8ba2abbab9a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -468.7396578462809,
+              "lng": 536.2699475359993,
+              "id": "ID_dadb5aca08f8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -491.58078524133276,
+              "lng": 581.952202326103,
+              "id": "ID_b949ba3a9bda",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -485.6222302687105,
+              "lng": 601.8140522348438,
+              "id": "ID_7b4b8938982b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -476.5,
+              "lng": 634,
+              "id": "ID_fbeb6b2a3aca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -458.80873289191055,
+              "lng": 553.1525199584289,
+              "id": "ID_1abb3bbbe8a9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -440.63824363946105,
+              "lng": 576.4901936011993,
+              "id": "ID_29b8da7b2b68",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -390.98361886760927,
+              "lng": 591.3865810327549,
+              "id": "ID_3839b8a9eb6b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -388.00434138129816,
+              "lng": 612.2415234369325,
+              "id": "ID_aa1a293af9aa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -499.525525204829,
+              "lng": 666.365064438251,
+              "id": "ID_7a684baa39cb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -565.0696299036733,
+              "lng": 577.9798323443548,
+              "id": "ID_09c9383aa8ab",
+              "targets": {
+                "vertexIds": [
+                  "ID_e8d98bb92a48"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
