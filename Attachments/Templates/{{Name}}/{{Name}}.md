@@ -222,7 +222,7 @@ function bonSpellsSlotsOptionBuilder(bonSpells) {
 		}
 		
 	}
-	return bonspellStr;
+	return bonspellsStr;
 }
 
 dv.paragraph('>[!infobox]\n' + 
@@ -234,7 +234,8 @@ dv.paragraph('>[!infobox]\n' +
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 
-let str = '~~~meta-bind \n {{#each spells}}	INPUT[multiSelect(	title(Spells Level {{this.slotted.[0].level}}), {{#each this.slotted }} option("{{name}}"),{{/each}},'+ bonSpellsSlotsOptionBuilder(bonSpells) +':SpellsCast] {{/each}} \n~~~';
+let str = '~~~meta-bind \n {{#each spells}} INPUT[multiSelect( title(Spells Level {{this.slotted.[0].level}}), {{#each this.slotted }} option("{{name}}"), {{/each}},' + bonSpellsSlotsOptionBuilder(bonSpells) + ':SpellsCast] {{/each}} \n~~~';
+
 dv.paragraph(str);
 ```
 
