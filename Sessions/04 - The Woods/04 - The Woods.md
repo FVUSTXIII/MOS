@@ -13,7 +13,8 @@ banner_y:
 * antes de partir [[Ashe Lightborn bonus spells|Ashe]] intenta restaurar la salud del anciano. Si bien curó su enfermedad, el ansiano jamás volverá a ser el mismo. 
 * Esta vez decidieron tomar un camino en línea recta hacia Coldfalton, tienen un encuentro con mandrágoras.
 * Al llegar a Coldfalton se encuentran con [[Raalnoc]] quien les da información a la ciudad y aprovecha para picaramente engañar a [[Felix Emberfeather|Felix]] y robarle unas cuantas monedas.
-* All llegar al distrito Bulcribs dentro de c
+* All llegar al distrito Bulcribs dentro de Coldfalton quien ocupada los refiere a Kayle Sanders. Nuestros Heroes encuentran registros de la familia Gemini ([[Frances Donbrook|Frances Gemini]] , [[Mark Gemini]]), la aparente única sobreviviente va la gran academia de [[Floating City of Koloran|Koloran]]. [[Miranda Gemini]]. 
+* Al salir del registro civil se encuentran con [[Tremas Gann]], maestra en [[Thorn Institute]]
 ```
 
 ## Introduction
