@@ -21,7 +21,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 24
-banner: "https://i.imgur.com/99imyQ0.png"
+banner: https://i.imgur.com/99imyQ0.png
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
@@ -90,7 +90,7 @@ CMD:
     - 0
   sizeMods: 
   total: 26
-SpellCast: 
+SpellsCast: []
 ---
 
 >[!infobox]
@@ -259,7 +259,7 @@ dv.paragraph('>[!infobox]\n' +
 ---
 
 ```js-engine
-let str = '`multiSelect[number:Wealth]`';
+let str = '~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast]\n~~~';
 return engine.markdown.create(str);
 ```
 
