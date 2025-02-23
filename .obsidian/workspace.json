@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79dee0ce70b01915",
+        "id": "1f3d6bbe38fd3fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "8691efe92bbe4c74",
+            "id": "0c4d458ff6cc952e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn bonus spells.md",
-                "mode": "preview",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn bonus spells"
+              "title": "04 - The Woods"
             }
           }
         ]
@@ -312,7 +312,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -342,21 +341,18 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "8691efe92bbe4c74",
+  "active": "0c4d458ff6cc952e",
   "lastOpenFiles": [
     "Sessions/04 - The Woods/04 - The Woods.md",
+    "PC/Ashe Lightborn bonus spells.md",
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/04 - The Woods/DC Tables.md",
     "Campaing Overview.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "World/Memoria/Memoria.md",
-    "PC/Ashe Lightborn bonus spells.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory Socket.md",
