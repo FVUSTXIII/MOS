@@ -183,7 +183,7 @@ const _class = frontmatter.Class.class;
 let willCastWith = ''
 
 for (const [key, value] of abilityScoreToCast) {
-if (value.includes(_class)) {
+if (value.includes(_class.toLowerCase())) {
       willCastWith = key;
   }
 }
