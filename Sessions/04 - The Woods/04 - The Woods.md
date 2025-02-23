@@ -10,7 +10,10 @@ banner_y:
 *  Al llegar a lightcrest y preguntar por el símbolo se les informa que se trata de el cartel [[Noxian]]. 
 *  En la entrada un anciano interactua con ellos. "Habrá guerra en los cielos, El hombre con cabeza de pollo me lo dijo!". [[Jornax Grath]], el guardia, les hizo saber que se trataba de un anciano enfermo de la cabeza, habia adquirido esta enfermedad aparentemente por una bacteria al comer pollo. 
 * [[Ashe Lightborn bonus spells|Ashe]] investiga la ciudad por Evelyn. Lo que lleva a la party a tomar lugar hacia Coldfalton. La mañana siguiente seguirán su camino. 
-* 
+* antes de partir [[Ashe Lightborn bonus spells|Ashe]] intenta restaurar la salud del anciano. Si bien curó su enfermedad, el ansiano jamás volverá a ser el mismo. 
+* Esta vez decidieron tomar un camino en línea recta hacia Coldfalton, tienen un encuentro con mandrágoras.
+* Al llegar a Coldfalton se encuentran con [[Raalnoc]] quien les da información a la ciudad y aprovecha para picaramente engañar a [[Felix Emberfeather|Felix]] y robarle unas cuantas monedas.
+* All llegar al distrito Bulcribs dentro de c
 ```
 
 ## Introduction
