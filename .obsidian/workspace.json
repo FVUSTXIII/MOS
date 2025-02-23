@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "Attachments/Templates/Item.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{{Name}}"
+              "title": "Item"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 424.5
   },
   "right": {
     "id": "3d819c6e20396b51",
@@ -350,9 +350,10 @@
   },
   "active": "8691efe92bbe4c74",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn bonus spells.md",
-    "PC/Ashe Lightborn....md",
+    "PC/Ashe Lightborn bonus spells....md",
+    "Attachments/Templates/Item.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
+    "PC/Ashe Lightborn....md",
     "PC/testCharacter.md",
     "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn 2.0.md",
@@ -384,7 +385,6 @@
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Lowcot/Lowcot.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Pending.md",
-    "PC/Phantom.md",
     "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
