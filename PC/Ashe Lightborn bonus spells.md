@@ -18,7 +18,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 24 
-banner: https://i.imgur.com/99imyQ0.png 
+banner: "https://i.imgur.com/99imyQ0.png"
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
@@ -221,9 +221,11 @@ dv.paragraph('>[!infobox]\n' +
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 
-let str = '  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  1 : INPUT[multiSelect( option(Bless) ,  1 : INPUT[multiSelect( option(Hero's Defiance) ,  1 : INPUT[multiSelect( option(Compel Hostility) ,  1 : INPUT[multiSelect( option(Protection From Evil) ,  1 : INPUT[multiSelect( option(Diagnose Disease) ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  2 : INPUT[multiSelect( option(Ironskin) ,  2 : INPUT[multiSelect( option(Paladin's Sacrifice) ,  2 : INPUT[multiSelect( option() ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  3 : INPUT[multiSelect( option(Daylight) ,  3 : INPUT[multiSelect( option(Fire of Judgment) ,  3 : INPUT[multiSelect( option(Heroic Fortune) ,  3 : INPUT[multiSelect( option(Prayer) ,  3 : INPUT[multiSelect( option(Sanctify Armor) ,  3 : INPUT[multiSelect( option(Sky Steed) ,  3 : INPUT[multiSelect( option(Stunning Barrier, Greater) ,  3 : INPUT[multiSelect( option(Angelic Aspect) ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :SpellsCast] \n ~~~ \n';
+let str = '  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n 1 :   INPUT[multiSelect( option("Bless") ,  INPUT[multiSelect( option("Heros Defiance") ,  INPUT[multiSelect( option("Compel Hostility") ,  INPUT[multiSelect( option("Protection From Evil") ,  INPUT[multiSelect( option("Diagnose Disease") ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n 2 :   INPUT[multiSelect( option("Ironskin") ,  INPUT[multiSelect( option("Paladins Sacrifice") ,  INPUT[multiSelect( option("") ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n 3 :   INPUT[multiSelect( option("Daylight") ,  INPUT[multiSelect( option("Fire of Judgment") ,  INPUT[multiSelect( option("Heroic Fortune") ,  INPUT[multiSelect( option("Prayer") ,  INPUT[multiSelect( option("Sanctify Armor") ,  INPUT[multiSelect( option("Sky Steed") ,  INPUT[multiSelect( option("Stunning Barrier, Greater") ,  INPUT[multiSelect( option("Angelic Aspect") ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n';
 dv.paragraph(str1+str);
 ```
+
+
 
 
 
