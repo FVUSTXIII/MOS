@@ -231,10 +231,14 @@ dv.paragraph('>[!infobox]\n' +
 );
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
-
-let str = {{#each spells}}'~~~meta-bind \n  {{#if this.slotted }} INPUT[multiSelect( title("Spells Level {{this.slotted.[0].level}}"), {{#each this.slotted }} option("{{name}}"), {{/each}}' + bonSpellsSlotsOptionBuilder(bonSpells[LVL{{level}}]) + ':SpellsCast] {{/if}} \n~~~' + {{/each}};
-
+{{#each spells}}
+{{#if this.slotted }}
+let str = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level {{this.slotted.[0].level}}"), {{#each this.slotted }} option("{{name}}"), {{/each}}' + bonSpellsSlotsOptionBuilder(bonSpells.LVL{{this.slotted.[0].level}}) + ':SpellsCast] \n~~~';
 dv.paragraph(str);
+{{/if}} 
+{{/each}}
+
+
 ```
 
 
