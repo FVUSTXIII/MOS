@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - The Woods"
+              "title": "Age of Serpents"
             }
           }
         ]
@@ -348,11 +348,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "696b4bf8aba4c62d",
+  "active": "dece6541fd77ef0e",
   "lastOpenFiles": [
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District/Thorn Institute.md",
+    "Sessions/04 - The Woods/04 - The Woods.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian/Noxian.md",
-    "Sessions/04 - The Woods/04 - The Woods.md",
     "conflict-files-obsidian-git.md",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves",
@@ -386,7 +387,6 @@
     "PC/Ashe Lightborn.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
     "World/Memoria/Age of Snakes/Cedonia/Bravia/Bravia.md",
-    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
