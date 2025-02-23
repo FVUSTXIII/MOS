@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "PC/Ashe Lightborn bonus spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "{{Name}}"
+              "title": "Ashe Lightborn bonus spells"
             }
           }
         ]
@@ -351,9 +351,9 @@
   },
   "active": "8691efe92bbe4c74",
   "lastOpenFiles": [
+    "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/Ashe Lightborn bonus spells.md",
     "PC/Ashe Lightborn_old.md",
-    "Attachments/Templates/{{Name}}/{{Name}}.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory Socket.md",
     "Attachments/Templates/Item.md",
     "PC/Ashe Lightborn bonus spells....md",
