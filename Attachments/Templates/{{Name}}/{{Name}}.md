@@ -212,7 +212,7 @@ function calculateBonSpells (abilityScore, spellLevel) {
 
 let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
-function bonSpellsSlotsOptionBuilder(bonSpell) {
+function bonSpellsSlotsOptionBuilder(bonSpell, lvl) {
 	let bonspellsStr = '';
 	if (bonSpell > 1) {
 		for (i = 1; i < bonSpell; i++) {
@@ -230,11 +230,10 @@ dv.paragraph('>[!infobox]\n' +
 	'{{#each spells}} {{#if this.slotted.[0].level}} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} |'  + bonSpells[`LVL${ {{this.slotted.[0].level}} }`] + '| {{this.dc}} |\n {{/if}}{{/each}}'
 );
 
-let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 {{#each spells}}
 {{#if this.slotted }}
-let str = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level {{this.slotted.[0].level}}"), {{#each this.slotted }} option("{{name}}"), {{/each}}' + bonSpellsSlotsOptionBuilder(bonSpells.LVL{{this.slotted.[0].level}}) + ':SpellsCast] \n~~~';
-dv.paragraph(str);
+let str{{this.slotted.[0].level}} = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level {{this.slotted.[0].level}}"), {{#each this.slotted }} {{#if name}} option("{{name}}"), {{/if}} {{/each}}' + bonSpellsSlotsOptionBuilder(bonSpells.LVL{{this.slotted.[0].level}}) + '):SpellsCast] \n~~~';
+dv.paragraph(str{{this.slotted.[0].level}});
 {{/if}} 
 {{/each}}
 

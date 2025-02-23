@@ -1,30 +1,33 @@
 ---
 Description:
- Hair: White/Blonde
- Size: Normal
- Height: 1.70
- Weight: 163
- Eyes: White/Blonde
- Gender: Female
- Race: Human 
- Homeland: [[]]
+  Hair: White/Blonde
+  Size: Normal
+  Height: 1.7
+  Weight: 163
+  Eyes: White/Blonde
+  Gender: Female
+  Race: Human
+  Homeland:
+    - []
 Affiliation: 
 Location: 
 Factions: 
 Titles: 
-Class: { class: Paladin,Level: 11 }
+Class:
+  class: Paladin
+  Level: 11
 State: 
 Wealth: 
 Birth: 
 Death: 
-Age: 24 
-banner: "https://i.imgur.com/99imyQ0.png"
+Age: 24
+banner: https://i.imgur.com/99imyQ0.png
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
 Name: Ashe Lightborn bonus spells
 Alignment: Lawful Good
-BAB: 11/6/1 
+BAB: 11/6/1
 AbilityScores:
   str: 10
   int: 8
@@ -42,23 +45,51 @@ Icon: https://i.imgur.com/VSJSnnR.png
 AC:
   deflectionModifier: 4
   armorBonus: 7
-  miscModifier: [+7 Smite Evil, +6 Ironskin, +2 Behind (Homebrew)]
+  miscModifier:
+    - +7 Smite Evil
+    - +6 Ironskin
+    - +2 Behind (Homebrew)
   total: 24
   flatFooted: 23
   touch: 17
-HP: 
- total: 123
- wounds: 0
- nonLethal: 0
+HP:
+  total: 123
+  wounds: 0
+  nonLethal: 0
 Saves:
- Fortitude: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 19 }
- Will: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [fear and charm allies 10ft +4], total: 19 }
- Reflex: { base: 3, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 15 }
-Init: 
- total: 3
- miscMod: 0
-CMB: { miscMods: , tempMods: [], sizeMods:  , total: 13 } 
-CMD: { miscMods: 0, tempMods: [0], sizeMods:  , total: 26 }
+  Fortitude:
+    base: 7
+    miscModifier: 5
+    tempModifier: 4
+    otherModifiers: []
+    total: 19
+  Will:
+    base: 7
+    miscModifier: 5
+    tempModifier: 4
+    otherModifiers:
+      - fear and charm allies 10ft +4
+    total: 19
+  Reflex:
+    base: 3
+    miscModifier: 5
+    tempModifier: 4
+    otherModifiers: []
+    total: 15
+Init:
+  total: 3
+  miscMod: 0
+CMB:
+  miscMods: 
+  tempMods: []
+  sizeMods: 
+  total: 13
+CMD:
+  miscMods: 0
+  tempMods:
+    - 0
+  sizeMods: 
+  total: 26
 SpellsCast: []
 ---
 
@@ -230,11 +261,11 @@ dv.paragraph('>[!infobox]\n' +
 	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${ 3 }`] + '| 18 |\n       '
 );
 
-let str = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 1"),  option("Bless"),  option("Heros Defiance"),  option("Compel Hostility"),  option("Protection From Evil"),  option("Diagnose Disease"), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL1) + ':SpellsCast] \n~~~';
+let str = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 1"),  option("Bless"),  option("Heros Defiance"),  option("Compel Hostility"),  option("Protection From Evil"),  option("Diagnose Disease"), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL1) + '):SpellsCast] \n~~~';
 dv.paragraph(str);
-let str1 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 2"),  option("Ironskin"),  option("Paladins Sacrifice"),  option(""), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL2) + ':SpellsCast] \n~~~';
+let str1 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 2"),  option("Ironskin"),  option("Paladins Sacrifice"),  option(""), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL2) + '):SpellsCast] \n~~~';
 dv.paragraph(str1);
-let str2 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 3"),  option("Daylight"),  option("Fire of Judgment"),  option("Heroic Fortune"),  option("Prayer"),  option("Sanctify Armor"),  option("Sky Steed"),  option("Stunning Barrier, Greater"),  option("Angelic Aspect"),' + bonSpellsSlotsOptionBuilder(bonSpells.LVL3) + '):SpellsCast] \n~~~';
+let str2 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 3"),  option("Daylight"),  option("Fire of Judgment"),  option("Heroic Fortune"),  option("Prayer"),  option("Sanctify Armor"),  option("Sky Steed"),  option("Stunning Barrier, Greater"),  option("Angelic Aspect"), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL3) + '):SpellsCast] \n~~~';
 dv.paragraph(str2);
 
 
