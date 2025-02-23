@@ -18,7 +18,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 24 
-banner: https://i.imgur.com/99imyQ0.png 
+banner: "https://i.imgur.com/99imyQ0.png"
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
@@ -211,10 +211,10 @@ let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
 
 dv.paragraph('>[!infobox]\n' + 
-	'># Spells per day\n' +
+	'># Spells per day - ' + _class +'\n' +
 	'Level | Spell Slots | Bonus Spells | DC |\n' +
-	'---|---|---|\n'+
-	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${ 3 }`] + '| 18 |\n       '
+	'---|---|---|---|\n'+
+	'   1 | 2 |'  + bonSpells[`LVL${1}`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${2}`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${3}`] + '| 18 |\n       '
 );
 ```
 
