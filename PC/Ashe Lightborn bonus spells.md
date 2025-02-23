@@ -90,7 +90,6 @@ CMD:
     - 0
   sizeMods: 
   total: 26
-wealth: 1233
 ---
 
 >[!infobox]
