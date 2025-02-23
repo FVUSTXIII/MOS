@@ -214,8 +214,8 @@ let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
 function bonSpellsSlotsOptionBuilder(bonSpell) {
 	let bonspellsStr = '';
-	if (bonSpell < 2) {
-		for (i = 0; i < bonSpell; i++) {
+	if (bonSpell > 1) {
+		for (i = 1; i < bonSpell; i++) {
 			bonspellsStr += 'option("bonus spell slot"), '
 		}
 	}
@@ -232,7 +232,7 @@ dv.paragraph('>[!infobox]\n' +
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 
-let str = bonSpellsSlotsOptionBuilder(bonSpells['LVL2']);
+let str = '~~~meta-bind \n    INPUT[multiSelect( title(Spells Level 1),  option("Bless"),  option("Heros Defiance"),  option("Compel Hostility"),  option("Protection From Evil"),  option("Diagnose Disease"), ,' + bonSpellsSlotsOptionBuilder(bonSpells) + ':SpellsCast]   INPUT[multiSelect( title(Spells Level 2),  option("Ironskin"),  option("Paladins Sacrifice"),  option(""), ' + bonSpellsSlotsOptionBuilder(bonSpells) + ':SpellsCast]   INPUT[multiSelect( title(Spells Level 3),  option("Daylight"),  option("Fire of Judgment"),  option("Heroic Fortune"),  option("Prayer"),  option("Sanctify Armor"),  option("Sky Steed"),  option("Stunning Barrier, Greater"),  option("Angelic Aspect"), ,' + bonSpellsSlotsOptionBuilder(bonSpells) + ':SpellsCast]        \n~~~';
 
 dv.paragraph(str);
 ```
