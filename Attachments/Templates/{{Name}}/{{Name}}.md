@@ -178,6 +178,7 @@ function bonSpell(spellLevel, abilityScore) {
 }
 
 function calculateBonSpells (abilityScore, spellLevel) {
+    
     let bonusSpells = {}
     
     for (let spellLevel = 1; spellLevel <= 9; spellLevel++) {
@@ -187,7 +188,7 @@ function calculateBonSpells (abilityScore, spellLevel) {
     return bonusSpells
 }
 
-let bonSpells = calculateBonSpells()
+let bonSpells = calculateBonSpells(abilityScores[willCastWith])
 
 
 dv.paragraph('>[!infobox]\n' + 
