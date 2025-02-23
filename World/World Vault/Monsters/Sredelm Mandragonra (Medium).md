@@ -2,37 +2,40 @@ Sredelm Mandragonra (Medium)                                                    
 XP 12800
 *A Medium Plant
 Init +8; Senses Low-Light Vision, Tremorsense 30ft; Perception +3
+
+
 Auras Aura of Menace, Stench (DC 22, 1d6+16 rounds), Aura of Despair
-------------------------------
-DEFENSE
-------------------------------
+
+**DEFENSE**
+
 AC 30, touch 17, flat-footed 23 (+4 Dex, +3 dodge, +1 shield, +12 natural)
 hp 136 (16d8+64)
 Fort +14, Ref +11, Will +10; +4 vs. poison; +4 vs. disease; +2 vs. enchantment
 Defensive Abilities Half Damage from Bludgeoning, Improved Uncanny Dodge, Improved Evasion
 DR 15/Piercing, 5/Good Immunities Paralysis, Flanking, Critical Hit, Fire Resist Cold 30 
-Weaknesses Slashing Weapon Vulnerability
-------------------------------
+
+**Weaknesses** Slashing Weapon Vulnerability
+
 OFFENSE
-------------------------------
+
 Speed 30 ft., burrow 30 ft.
 Melee 4 slams +17 (1d6+5) , 2 claws +12 (1d4+5) , tail lash +12 (1d6+5) , sting +12 (1d4+5) 
 Ranged spike (ranged) +16 (1d6+5) 
 Space 5 ft.; Reach 10 ft.
 
-Special Attacks Constrict (1d6+5), Trample (1d4+7, DC 23), Engulf (DC 23, 1d8 acid), Hinder Spellcasting, Faith-Stealing Strike (DC 21), Rend (slam, 1d4+7), Curse (Su) (slam-contact Will save DC 21, frequency 1 day, effect 1d6 Str drain)
----
-STATISTICS
-------------------------------
+**Special Attacks** Constrict (1d6+5), Trample (1d4+7, DC 23), Engulf (DC 23, 1d8 acid), Hinder Spellcasting, Faith-Stealing Strike (DC 21), Rend (slam, 1d4+7), Curse (Su) (slam-contact Will save DC 21, frequency 1 day, effect 1d6 Str drain)
+
+**STATISTICS**
+
 Str 20, Dex 18, Con 19, Int 15, Wis 16, Cha 16
 Base Atk +12; CMB +17; CMD 31 (35 vs. trip) (35 vs. disarm) (35 vs. grapple)
 Feats Awesome Blow, Bleeding Critical, Cleave, Dodge, Endurance, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Run
 Skills Acrobatics +20, Climb +21, Sleight of Hand +20, Stealth +23
 Languages Common, Plantspeech
 SQ Plant Traits, Track +8, Trackless Step, Camouflage, Envisaging, Stench, Pass Without Trace, Hide in Plain Sight, Swift Reactions, Earth Glide
-------------------------------
+
 SPECIAL ABILITIES
-------------------------------
+
 Constrict (Ex) 
  Sredelm Mandragonra (Medium) can crush an opponent, dealing 1d6+5 bludgeoning damage, when it makes a successful grapple check (in addition to any other effects caused by a successful check, including additional damage).
 
@@ -109,7 +112,7 @@ Earth Glide (Su)
 
 ------------------------------
 ECOLOGY
-------------------------------
+
 Environment: 
 Organization: 
 Treasure: 
