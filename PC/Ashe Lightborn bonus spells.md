@@ -258,10 +258,10 @@ dv.paragraph('>[!infobox]\n' +
 
 ---
 
-```js-engine
+```dataviewjs
 const frontmatter = dv.current().file.frontmatter;
-let spellsCast = frontmatter.spellsCast.size()
-let str = '~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast]\n VIEW[number:Wealth]  \n~~~';
-return engine.markdown.create(str);
+let spellsCast = frontmatter.spellsCast.size();
+let str = `~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast]\n VIEW[${spellsCast}][math]  \n~~~`;
+dv.paragraph(str);
 ```
 
