@@ -221,7 +221,16 @@ dv.paragraph('>[!infobox]\n' +
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 
-let str = '~~~meta-bind{{#each spells}}   \n {{this.slotted.[0].level}} :  {{#each this.slotted }} INPUT[multiSelect( option("{{name}}") , {{/each}} :SpellsCast] \n ~~~ \n{{/each}}';
+let str = '~~~meta-bind' + \n  
+{{#each spells}} 
+\n {{this.slotted.[0].level}} : \n 
+	INPUT[multiSelect(
+	{{#each this.slotted }} 
+		 option("{{name}}") , 
+	{{/each}}
+	:SpellsCast] 
+	\n 
+{{/each}}\n~~~';
 dv.paragraph(str1+str);
 ```
 

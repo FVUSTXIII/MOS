@@ -221,11 +221,66 @@ dv.paragraph('>[!infobox]\n' +
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 
-let str = '  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n 1 :   INPUT[multiSelect( option("Bless") ,  INPUT[multiSelect( option("Heros Defiance") ,  INPUT[multiSelect( option("Compel Hostility") ,  INPUT[multiSelect( option("Protection From Evil") ,  INPUT[multiSelect( option("Diagnose Disease") ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n 2 :   INPUT[multiSelect( option("Ironskin") ,  INPUT[multiSelect( option("Paladins Sacrifice") ,  INPUT[multiSelect( option("") ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n 3 :   INPUT[multiSelect( option("Daylight") ,  INPUT[multiSelect( option("Fire of Judgment") ,  INPUT[multiSelect( option("Heroic Fortune") ,  INPUT[multiSelect( option("Prayer") ,  INPUT[multiSelect( option("Sanctify Armor") ,  INPUT[multiSelect( option("Sky Steed") ,  INPUT[multiSelect( option("Stunning Barrier, Greater") ,  INPUT[multiSelect( option("Angelic Aspect") ,  :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n  ~~~meta-bind \n  :   :SpellsCast] \n ~~~ \n';
+let str = '~~~meta-bind' + \n  
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n 1 : \n 
+	INPUT[multiSelect(
+		 option("Bless") , 
+		 option("Hero's Defiance") , 
+		 option("Compel Hostility") , 
+		 option("Protection From Evil") , 
+		 option("Diagnose Disease") , 
+	:SpellsCast] 
+	\n 
+\n 2 : \n 
+	INPUT[multiSelect(
+		 option("Ironskin") , 
+		 option("Paladin's Sacrifice") , 
+		 option("") , 
+	:SpellsCast] 
+	\n 
+\n 3 : \n 
+	INPUT[multiSelect(
+		 option("Daylight") , 
+		 option("Fire of Judgment") , 
+		 option("Heroic Fortune") , 
+		 option("Prayer") , 
+		 option("Sanctify Armor") , 
+		 option("Sky Steed") , 
+		 option("Stunning Barrier, Greater") , 
+		 option("Angelic Aspect") , 
+	:SpellsCast] 
+	\n 
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n  : \n 
+	INPUT[multiSelect(
+	:SpellsCast] 
+	\n 
+\n~~~';
 dv.paragraph(str1+str);
 ```
-
-
 
 
 
