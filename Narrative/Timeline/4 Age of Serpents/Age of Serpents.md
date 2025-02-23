@@ -161,7 +161,11 @@ date: 17-Sarenith-4705
 title: [[Koloran Separatist Faction Creation]]
 content: asdfasdf
 
-date: 04-Desnus-4706
+date: 11-Desnus-4706
+title: [[Death of Albus I]]
+content: asdf
+
+date: 04-Rova-4706
 title: [[Xandalar Treaty Sign]]
 content: asdf
 
