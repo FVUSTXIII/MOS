@@ -24,7 +24,7 @@ banner_y:
 
 ```ad-go
 *  Transitándo hacia Thorn Institute, [[Tremas Gann|Tremas]] va de la mano con un niño tiefling de aproximadamente 12 años llamado [[Bazgith]].
-* 
+* https://www.fantasytowngenerator.com/user/settlements/49486892-2d5b-487c-b940-6e8b301561e8
 ```
 
 ^2c026e
