@@ -17,12 +17,17 @@ banner_y:
 * Al salir del registro civil se encuentran con [[Tremas Gann]], maestra en [[Thorn Institute]]
 ```
 
+^382309
+
 ## Introduction
 
 
 ```ad-go
-* En la sesión pasada los héroes salieron de Lightcrest en camino hacia Coldfalton. Para ahorrar tiempo decidieron ir en línea recta en lugar de ir por el camino. 
+*  Transitándo hacia Thorn Institute, [[Tremas Gann|Tremas]] va de la mano con un niño tiefling de aproximadamente 12 años llamado [[Bazgith]].
+* 
 ```
+
+^2c026e
 
 ## Places
 
