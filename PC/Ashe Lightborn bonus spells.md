@@ -1,73 +1,73 @@
 ---
 Description:
- Hair: {{hair}}
- Size: {{size}}
- Height: {{height}}
- Weight: {{weight}}
- Eyes: {{eyes}}
- Gender: {{gender}}
- Race: {{race.name}} 
- Homeland: [[{{Homeland}}]]
+ Hair: White/Blonde
+ Size: Normal
+ Height: 1.70
+ Weight: 163
+ Eyes: White/Blonde
+ Gender: Female
+ Race: Human 
+ Homeland: [[]]
 Affiliation: 
 Location: 
 Factions: 
 Titles: 
-Class: {{makeClassLevel level}}
+Class: { class: Paladin,Level: 11 }
 State: 
 Wealth: 
 Birth: 
 Death: 
-Age: {{age}} 
-banner: {{user.avatar}} 
-banner_y: {{user.avatar_align}}
-portrait: {{user.portrait}}
+Age: 24 
+banner: "https://i.imgur.com/99imyQ0.png"
+banner_y: 0.332
+portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
-Name: {{name}}
-Alignment: {{alignment}}
-BAB: {{bab}} 
+Name: Ashe Lightborn bonus spells
+Alignment: Lawful Good
+BAB: 11/6/1 
 AbilityScores:
-  str: {{abilities.str}}
-  int: {{abilities.int}}
-  dex: {{abilities.dex}}
-  wis: {{abilities.wis}}
-  con: {{abilities.con}}
-  char: {{abilities.cha}}
-  tempStr: {{normalizeAbilityScores abilities.str abilities.tempStr}}
-  tempInt: {{normalizeAbilityScores abilities.int abilities.tempInt}}
-  tempDex: {{normalizeAbilityScores abilities.dex abilities.tempDex}}
-  tempWis: {{normalizeAbilityScores abilities.wis abilities.tempWis}}
-  tempCon: {{normalizeAbilityScores abilities.con abilities.tempCon}}
-  tempCha: {{normalizeAbilityScores abilities.cha abilities.tempCha}}
-Icon: {{user.token}}
+  str: 10
+  int: 8
+  dex: 17
+  wis: 12
+  con: 16
+  char: 20
+  tempStr: 14
+  tempInt: 0
+  tempDex: 0
+  tempWis: 0
+  tempCon: 0
+  tempCha: 0
+Icon: https://i.imgur.com/VSJSnnR.png
 AC:
-  deflectionModifier: {{ac.deflectionModifier}}
-  armorBonus: {{ac.armorBonus}}
-  miscModifier: {{parseList ac.miscModifier}}
-  total: {{ac.total}}
-  flatFooted: {{ac.flatFooted}}
-  touch: {{ac.touch}}
+  deflectionModifier: 4
+  armorBonus: 7
+  miscModifier: [+7 Smite Evil, +6 Ironskin, +2 Behind (Homebrew)]
+  total: 24
+  flatFooted: 23
+  touch: 17
 HP: 
- total: {{hp.total}}
- wounds: {{hp.wounds}}
- nonLethal: {{hp.nonLethal}}
+ total: 123
+ wounds: 0
+ nonLethal: 0
 Saves:
- Fortitude: { base: {{saves.fort.base}}, miscModifier: {{saves.fort.miscModifier}}, tempModifier: {{saves.fort.tempModifier}}, otherModifiers: {{parseList saves.fort.otherModifiers}}, total: {{saves.fort.total}} }
- Will: { base: {{saves.will.base}}, miscModifier: {{saves.will.miscModifier}}, tempModifier: {{saves.will.tempModifier}}, otherModifiers: {{parseList saves.will.otherModifiers}}, total: {{saves.will.total}} }
- Reflex: { base: {{saves.reflex.base}}, miscModifier: {{saves.reflex.miscModifier}}, tempModifier: {{saves.reflex.tempModifier}}, otherModifiers: {{parseList saves.reflex.otherModifiers}}, total: {{saves.reflex.total}} }
+ Fortitude: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 19 }
+ Will: { base: 7, miscModifier: 5, tempModifier: 4, otherModifiers: [fear and charm allies 10ft +4], total: 19 }
+ Reflex: { base: 3, miscModifier: 5, tempModifier: 4, otherModifiers: [], total: 15 }
 Init: 
- total: {{initiative.total}}
- miscMod: {{initiative.miscModifier}}
- CMB: { miscMods: {{cmb.miscModifiers}}, tempMods: {{parseList cmb.tempModifiers}}, sizeMods: {{cmb.sizeModifiers }} , total: {{cmb.total}} } 
- CMD: { miscMods: {{cmd.miscModifiers}}, tempMods: {{parseList cmd.tempModifiers}}, sizeMods: {{cmd.sizeModifiers }} , total: {{cmd.total}} }
+ total: 3
+ miscMod: 0
+ CMB: { miscMods: , tempMods: [], sizeMods:  , total: 13 } 
+ CMD: { miscMods: 0, tempMods: [0], sizeMods:  , total: 26 }
 ---
 
 >[!infobox]
 ># `=this.file.name` 
->![cover hsmall]({{user.portrait}})
+>![cover hsmall](https://i.imgur.com/vEyXUGg.png)
 > --- 
 >Class | Level  | Race |
 > ---|---|---|
-> `=this.Class.class`|`=this.Class.Level`| [`=this.Description.Race`]({{race.url}})
+> `=this.Class.class`|`=this.Class.Level`| [`=this.Description.Race`](obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FHumans.md)
 
 ```ad-Tr
 traits
@@ -193,7 +193,7 @@ dv.paragraph('>[!infobox]\n' +
 	'># Spells per day\n' +
 	'Level | Spell Slots | Bonus Spells | DC |\n' +
 	'---|---|---|\n'+
-	'{{#each spells}} {{#if this.slotted.[0].level}} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} |'  + bonSpells[`LVL${ {{this.slotted.[0].level}} }`] + '| {{this.dc}} |\n {{/if}}{{/each}}'
+	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${ 3 }`] + '| 18 |\n       '
 );
 ```
 
