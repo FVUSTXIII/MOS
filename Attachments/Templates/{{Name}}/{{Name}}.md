@@ -167,8 +167,6 @@ if (value.includes(_class)) {
   }
 }
 
-
-
 function bonSpellMod(abilityScore) {
     return Math.floor((abilityScore - 10) / 2);
 }
@@ -188,7 +186,7 @@ function calculateBonSpells (abilityScore, spellLevel) {
     return bonusSpells
 }
 
-let bonSpells = calculateBonSpells(abilityScores[willCastWith])
+let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
 
 dv.paragraph('>[!infobox]\n' + 
@@ -196,7 +194,7 @@ dv.paragraph('>[!infobox]\n' +
 	'Level | Spell Slots | Bonus Spells | DC |\n' +
 	'---|---|---|\n'+
 	'{{#each spells}} {{#if this.slotted.[0].level}} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} | {{this.dc}} |\n {{/if}}{{/each}}'
-	);
+);
 ```
 
 
