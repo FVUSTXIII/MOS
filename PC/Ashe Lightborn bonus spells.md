@@ -211,10 +211,10 @@ let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
 
 dv.paragraph('>[!infobox]\n' + 
-	'># Spells per day - ' + _class +'\n' +
+	'># Spells per day\n' +
 	'Level | Spell Slots | Bonus Spells | DC |\n' +
 	'---|---|---|---|\n'+
-	'   1 | 2 |'  + bonSpells[`LVL${1}`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${2}`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${3}`] + '| 18 |\n       '
+	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${ 3 }`] + '| 18 |\n       '
 );
 ```
 
