@@ -9,7 +9,7 @@ Status:
 Rooms: "86"
 URL:
 ---
-se## Exterior
+## Exterior
 
 ### Front
 

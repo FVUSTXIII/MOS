@@ -1,27 +1,33 @@
 ---
-banner: 
+banner: "https://i.imgur.com/FflTOZw.png"
 banner_y:
 ---
+
 ## Recap
 
 ```ad-ad-qr
-* Phantom despierta en Ointment Healing Apothecary. 
-* Shitora llega a Bravia, escucha a unos guardias hablar sobre como una evidencia fue robada, le preguntaran al joven dragonborn acerca de esto cuando despierte.
-* Phantom y Shitora se conocen en el hospital. Una explosión a lo lejos.
-* Cuando van hacia ella se encuentran con Felix, Ashe y Zenshin. 
-* Les explican la situación. Faltan 3 personas por encontrar (Reynald Whytecliff, Baynard Westmayne y Amiria Davis)
-* Viajan Hacia Pokkith. Colindando con Corentyn. Los habitantes les dicen que una creatura fue hacia el bosque pues una mujer la debilitó.   
-* Al vencer a la creatura un cuerpo sin vida y sin cabeza fue encontrado en el paladar de este.
-* Los heroes fueron a la villa más cercana, "starfell" donde el cuerpo fue identificado como 
-* Llegaron a un inn dentro de starfell
+* En el tramo entre Starfell y lightcrest fueron víctimas de un fallido intento de asalto. Los asaltantes llevaban un tatuaje en una parte distinta del cuerpo. Eran solo unos niños. 
+*  Al llegar a lightcrest y preguntar por el símbolo se les informa que se trata de el cartel [[Noxian]]. 
+*  En la entrada un anciano interactua con ellos. "Habrá guerra en los cielos, El hombre con cabeza de pollo me lo dijo!". [[Jornax Grath]], el guardia, les hizo saber que se trataba de un anciano enfermo de la cabeza, habia adquirido esta enfermedad aparentemente por una bacteria al comer pollo. 
+* [[Ashe Lightborn bonus spells|Ashe]] investiga la ciudad por Evelyn. Lo que lleva a la party a tomar lugar hacia Coldfalton. La mañana siguiente seguirán su camino. 
+* antes de partir [[Ashe Lightborn bonus spells|Ashe]] intenta restaurar la salud del anciano. Si bien curó su enfermedad, el ansiano jamás volverá a ser el mismo. 
+* Esta vez decidieron tomar un camino en línea recta hacia Coldfalton, tienen un encuentro con mandrágoras.
+* Al llegar a Coldfalton se encuentran con [[Raalnoc]] quien les da información a la ciudad y aprovecha para picaramente engañar a [[Felix Emberfeather|Felix]] y robarle unas cuantas monedas.
+* All llegar al distrito Bulcribs dentro de Coldfalton quien ocupada los refiere a Kayle Sanders. Nuestros Heroes encuentran registros de la familia Gemini ([[Frances Donbrook|Frances Gemini]] , [[Mark Gemini]]), la aparente única sobreviviente va la gran academia de [[Floating City of Koloran|Koloran]]. [[Miranda Gemini]]. 
+* Al salir del registro civil se encuentran con [[Tremas Gann]], maestra en [[Thorn Institute]]
 ```
+
+^382309
 
 ## Introduction
 
 
 ```ad-go
-* En la sesión pasada los héroes salieron de Lightcrest en camino hacia Coldfalton. Para ahorrar tiempo decidieron ir en línea recta en lugar de ir por el camino. 
+*  Transitándo hacia Thorn Institute, [[Tremas Gann|Tremas]] va de la mano con un niño tiefling de aproximadamente 12 años llamado [[Bazgith]].
+* https://www.fantasytowngenerator.com/user/settlements/49486892-2d5b-487c-b940-6e8b301561e8
 ```
+
+^2c026e
 
 ## Places
 
@@ -40,3 +46,5 @@ banner_y:
 ## Session Summary
 
 este es un cambio :) este es un cambio y deberia aparecer
+
+https://www.fantasytowngenerator.com/user/settlements/49486892-2d5b-487c-b940-6e8b301561e8

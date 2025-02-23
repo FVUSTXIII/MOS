@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f3d6bbe38fd3fcd",
+        "id": "98af32246e86cb95",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4d458ff6cc952e",
+            "id": "dece6541fd77ef0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "04 - The Woods"
+              "title": "New tab"
             }
           }
         ]
@@ -312,6 +308,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -341,12 +338,19 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c4d458ff6cc952e",
+  "active": "dece6541fd77ef0e",
   "lastOpenFiles": [
+    "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian/Noxian.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
+    "conflict-files-obsidian-git.md",
+    "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian",
+    "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves",
     "PC/Ashe Lightborn bonus spells.md",
     "Sessions/03 - The witch/DC TABLES.md",
     "Sessions/04 - The Woods/DC Tables.md",
@@ -379,14 +383,10 @@
     "World/Memoria/Age of Snakes/Cedonia/Bravia/Bravia.md",
     "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Starfell/Starfell.md",
-    "Current Session Summary.md",
-    "World/Calendar/Days of the Week.md",
     "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
-    "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
-    "Rewards",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",

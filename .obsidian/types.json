@@ -27,6 +27,7 @@
     "Type": "multitext",
     "Materials": "multitext",
     "Actors": "multitext",
-    "Description": "multitext"
+    "Description": "multitext",
+    "Inner entities": "number"
   }
 }
