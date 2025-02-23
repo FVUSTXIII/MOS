@@ -6,7 +6,8 @@ banner_y:
 ## Recap
 
 ```ad-ad-qr
-* Starfell y lightcrest fueron víctimas de un fallido intento de asalto. 
+* En el tramo entre Starfell y lightcrest fueron víctimas de un fallido intento de asalto. Los asaltantes llevaban un tatuaje en una parte distinta del cuerpo. Eran solo unos niños. 
+*  Al llegar a lightcrest y preguntar por el símbolo se les informa que se trata de el cartel [[Noxian]]. 
 * 
 ```
 
