@@ -27,6 +27,7 @@ Cedonia:
 * Lunacreg
 * Estchall
 * Onyned
+* Silvanar
 
 ## Subentities
 
