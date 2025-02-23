@@ -90,8 +90,7 @@ CMD:
     - 0
   sizeMods: 
   total: 26
-SpellsCast:
-  - '"Angelic Aspect"'
+SpellsCast: []
 ---
 
 >[!infobox]
