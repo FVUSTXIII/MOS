@@ -221,8 +221,8 @@ dv.paragraph('>[!infobox]\n' +
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 
-let str = '~~~meta-bind \n 1 : \n 	INPUT[multiSelect(option("Bless") , option("Heros Defiance"), option("Compel Hostility") , option("Protection From Evil") , option("Diagnose Disease") ,:SpellsCast]   2 : \n 	INPUT[multiSelect(	 option("Ironskin") , option("Paladins Sacrifice") , option("") :SpellsCast]   3 : \n 	INPUT[multiSelect(	 option("Daylight") , option("Fire of Judgment") , option("Heroic Fortune") , option("Prayer") , option("Sanctify Armor") , option("Sky Steed") , option("Stunning Barrier, Greater") , option("Angelic Aspect") :SpellsCast] \n~~~';
-dv.paragraph(str1+str);
+let str = '~~~meta-bind \n \n 	INPUT[multiSelect(option("Bless") ,option("Heros Defiance"), option("Compel Hostility") , option("Protection From Evil") , option("Diagnose Disease")):SpellsCast] \n ~~~';
+dv.paragraph(str);
 ```
 
 
