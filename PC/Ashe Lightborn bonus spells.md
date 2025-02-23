@@ -21,7 +21,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 24
-banner: https://i.imgur.com/99imyQ0.png
+banner: "https://i.imgur.com/99imyQ0.png"
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
@@ -90,6 +90,7 @@ CMD:
     - 0
   sizeMods: 
   total: 26
+SpellCast: 
 ---
 
 >[!infobox]
@@ -258,7 +259,7 @@ dv.paragraph('>[!infobox]\n' +
 ---
 
 ```js-engine
-let str = '`INPUT[number:Wealth]`';
+let str = '`multiSelect[number:Wealth]`';
 return engine.markdown.create(str);
 ```
 
