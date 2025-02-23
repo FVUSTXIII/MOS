@@ -46,3 +46,5 @@ banner_y:
 ## Session Summary
 
 este es un cambio :) este es un cambio y deberia aparecer
+
+https://www.fantasytowngenerator.com/user/settlements/49486892-2d5b-487c-b940-6e8b301561e8
