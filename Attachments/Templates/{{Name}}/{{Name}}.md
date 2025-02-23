@@ -141,7 +141,7 @@ asdf
 const abilityScoreToCast = new Map([
 	["char", ["sorcerer", "paladin", "bard", "oracle", "summoner", "medium", "spiritualist", "mesmerist"]],
 	["int", ["wizard", "psion", "witch", "magus", "psychic", "occultist"]],
-	["wis", ["cleric", "druid", "ranger", ]],
+	["wis", ["cleric", "druid", "ranger", "inquisitor", "chaman"]]
 ]);
 
 function bonSpellMod(abilityScore) {
