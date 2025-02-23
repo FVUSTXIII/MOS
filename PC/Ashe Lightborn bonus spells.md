@@ -243,14 +243,14 @@ function calculateBonSpells (abilityScore, spellLevel) {
 
 let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
-function bonSpellsSlotsOptionBuilder(bonSpell) {
+function bonSpellsSlotsOptionBuilder(bonSpell, lvl) {
 	let bonspellsStr = '';
 	if (bonSpell > 1) {
 		for (i = 1; i < bonSpell; i++) {
-			bonspellsStr += `option("bonus spell slot no. ${i}"), `
+			bonspellsStr += `option("bonus spell level ${lvl} slot no. ${i}"), `
 		}
 	}
-	bonspellsStr += `option("bonus spell slot no. ${bonSpell}")`
+	bonspellsStr += `option("bonus spell level ${lvl} slot no. ${bonSpell}")`
 	return bonspellsStr;
 }
 
@@ -261,12 +261,12 @@ dv.paragraph('>[!infobox]\n' +
 	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  + bonSpells[`LVL${ 3 }`] + '| 18 |\n       '
 );
 
-let str = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 1"),  option("Bless"),  option("Heros Defiance"),  option("Compel Hostility"),  option("Protection From Evil"),  option("Diagnose Disease"), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL1) + '):SpellsCast] \n~~~';
-dv.paragraph(str);
-let str1 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 2"),  option("Ironskin"),  option("Paladins Sacrifice"),  option(""), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL2) + '):SpellsCast] \n~~~';
+let str1 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 1"),   option("Bless"),    option("Heros Defiance"),    option("Compel Hostility"),    option("Protection From Evil"),    option("Diagnose Disease"),  ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL1, 1) + '):SpellsCast] \n~~~';
 dv.paragraph(str1);
-let str2 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 3"),  option("Daylight"),  option("Fire of Judgment"),  option("Heroic Fortune"),  option("Prayer"),  option("Sanctify Armor"),  option("Sky Steed"),  option("Stunning Barrier, Greater"),  option("Angelic Aspect"), ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL3) + '):SpellsCast] \n~~~';
+let str2 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 2"),   option("Ironskin"),    option("Paladins Sacrifice"),    ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL2, 2) + '):SpellsCast] \n~~~';
 dv.paragraph(str2);
+let str3 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 3"),   option("Daylight"),    option("Fire of Judgment"),    option("Heroic Fortune"),    option("Prayer"),    option("Sanctify Armor"),    option("Sky Steed"),    option("Stunning Barrier, Greater"),    option("Angelic Aspect"),  ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL3, 3) + '):SpellsCast] \n~~~';
+dv.paragraph(str3);
 
 
 ```

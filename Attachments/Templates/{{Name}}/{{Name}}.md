@@ -216,10 +216,10 @@ function bonSpellsSlotsOptionBuilder(bonSpell, lvl) {
 	let bonspellsStr = '';
 	if (bonSpell > 1) {
 		for (i = 1; i < bonSpell; i++) {
-			bonspellsStr += `option("bonus spell slot no. ${i}"), `
+			bonspellsStr += `option("bonus spell level ${lvl} slot no. ${i}"), `
 		}
 	}
-	bonspellsStr += `option("bonus spell slot no. ${bonSpell}")`
+	bonspellsStr += `option("bonus spell level ${lvl} slot no. ${bonSpell}")`
 	return bonspellsStr;
 }
 
@@ -232,7 +232,7 @@ dv.paragraph('>[!infobox]\n' +
 
 {{#each spells}}
 {{#if this.slotted }}
-let str{{this.slotted.[0].level}} = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level {{this.slotted.[0].level}}"), {{#each this.slotted }} {{#if name}} option("{{name}}"), {{/if}} {{/each}}' + bonSpellsSlotsOptionBuilder(bonSpells.LVL{{this.slotted.[0].level}}) + '):SpellsCast] \n~~~';
+let str{{this.slotted.[0].level}} = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level {{this.slotted.[0].level}}"), {{#each this.slotted }} {{#if name}} option("{{name}}"), {{/if}} {{/each}}' + bonSpellsSlotsOptionBuilder(bonSpells.LVL{{this.slotted.[0].level}}, {{this.slotted.[0].level}}) + '):SpellsCast] \n~~~';
 dv.paragraph(str{{this.slotted.[0].level}});
 {{/if}} 
 {{/each}}
