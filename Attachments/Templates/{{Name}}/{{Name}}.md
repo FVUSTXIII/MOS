@@ -212,13 +212,16 @@ function calculateBonSpells (abilityScore, spellLevel) {
 
 let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
-
 dv.paragraph('>[!infobox]\n' + 
 	'># Spells per day\n' +
 	'Level | Spell Slots | Bonus Spells | DC |\n' +
 	'---|---|---|---|\n'+
 	'{{#each spells}} {{#if this.slotted.[0].level}} {{ this.slotted.[0].level  }} | {{this.totalPerDay}} |'  + bonSpells[`LVL${ {{this.slotted.[0].level}} }`] + '| {{this.dc}} |\n {{/if}}{{/each}}'
 );
+
+let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
+let str = `~~~meta-bind \n INPUT[multiSelect({{#each spells}} option( {{}}), option("spell 2")):SpellsCast] \n~~~`;
+dv.paragraph(str1+str);
 ```
 
 

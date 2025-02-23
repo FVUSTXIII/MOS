@@ -21,7 +21,7 @@ Wealth:
 Birth: 
 Death: 
 Age: 24
-banner: "https://i.imgur.com/99imyQ0.png"
+banner: https://i.imgur.com/99imyQ0.png
 banner_y: 0.332
 portrait: https://i.imgur.com/vEyXUGg.png
 statblock: true
@@ -244,7 +244,6 @@ let bonSpells = calculateBonSpells(abilityScores[willCastWith]);
 
 let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
 let str = `~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast] \n~~~`;
-dv.paragraph(str1+str);
 
 dv.paragraph('>[!infobox]\n' + 
 	'># Spells per day\n' +
@@ -253,6 +252,9 @@ dv.paragraph('>[!infobox]\n' +
 	'   1 | 2 |'  + bonSpells[`LVL${ 1 }`] + '| 16 |\n   2 | 1 |'  + bonSpells[`LVL${ 2 }`] + '| 17 |\n   3 | 1 |'  +  
     bonSpells[`LVL${ 3 }`] + '| 18 |\n' 	
 );
+
+dv.paragraph(str1+str);
+
 ```
 
 
