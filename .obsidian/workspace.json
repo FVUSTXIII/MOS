@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/testCharacter.md",
+                "file": "PC/Ashe Lightborn bonus spells.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testCharacter"
+              "title": "Ashe Lightborn bonus spells"
             }
           }
         ]
@@ -350,6 +350,7 @@
   },
   "active": "8691efe92bbe4c74",
   "lastOpenFiles": [
+    "PC/testCharacter.md",
     "PC/Ashe Lightborn bonus spells.md",
     "PC/Ashe Lightborn....md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
@@ -384,7 +385,6 @@
     "Sessions/03 - The witch/03 - The Witch.md",
     "Pending.md",
     "PC/Phantom.md",
-    "PC/Shitora.md",
     "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
