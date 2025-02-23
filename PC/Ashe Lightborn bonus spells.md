@@ -261,7 +261,8 @@ dv.paragraph('>[!infobox]\n' +
 ```dataviewjs
 const frontmatter = dv.current().file.frontmatter;
 let spellsCast = frontmatter.SpellsCast.length;
-let str = `~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast] \n ~~~`;
-dv.paragraph(str);
+let str1 = '`VIEW[' + spellsCast + '][text(renderMarkdown)]`\n'
+let str = `~~~meta-bind \n INPUT[multiSelect(option("spell 1"), option("spell 2")):SpellsCast] \n~~~`;
+dv.paragraph(str1+str);
 ```
 
