@@ -216,10 +216,10 @@ function bonSpellsSlotsOptionBuilder(bonSpell) {
 	let bonspellsStr = '';
 	if (bonSpell > 1) {
 		for (i = 1; i < bonSpell; i++) {
-			bonspellsStr += 'option("bonus spell slot"), '
+			bonspellsStr += `option("bonus spell slot no. ${i}"), `
 		}
 	}
-	bonspellsStr += 'option("bonus spell slot")'
+	bonspellsStr += `option("bonus spell slot no. ${bonSpell}")`
 	return bonspellsStr;
 }
 
