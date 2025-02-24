@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
-                "mode": "preview",
+                "file": "Current Session Summary.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - The Woods"
+              "title": "Current Session Summary"
             }
           }
         ]
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04 - The Woods"
+              "title": "Backlinks for Current Session Summary"
             }
           },
           {
@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04 - The Woods"
+              "title": "Outgoing links from Current Session Summary"
             }
           },
           {
@@ -291,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 - The Woods"
+              "title": "Outline of Current Session Summary"
             }
           }
         ],
@@ -371,22 +371,22 @@
   },
   "active": "32914f91ccda674d",
   "lastOpenFiles": [
+    "Campaing Overview.md",
+    "Current Session Summary.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Sessions/04 - The Woods/04 - The Woods.md",
     "PC/Ashe Lightborn bonus spells.md",
     "PC/Ashe Lightborn_old.md",
     "PC/Ashe Lightborn 2.0.md",
-    "Sessions/04 - The Woods/04 - The Woods.md",
     "United Vostrillian front is created.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
-    "Campaing Overview.md",
-    "Current Session Summary.md",
     "Sessions/04 - The Woods/DC Tables.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District/Thorn Institute.md",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian/Noxian.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/03 - The witch/DC TABLES.md",
     "PC/Zenshin Rusk.md",
     "conflict-files-obsidian-git.md",
