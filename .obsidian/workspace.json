@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7776c91bdc465197",
+        "id": "3bb4ec2874c1e01a",
         "type": "tabs",
         "children": [
           {
-            "id": "569f0775751dff0f",
+            "id": "32914f91ccda674d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
-                "mode": "preview",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sredelm Mandragonra (Medium)"
+              "title": "04 - The Woods"
             }
           }
         ]
@@ -127,8 +127,8 @@
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 6,
-                    "month": 8,
+                    "day": 1,
+                    "month": 11,
                     "year": 4720
                   },
                   "viewState": 1,
@@ -143,8 +143,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb",
-                "child": "ID_6b88aaca2a88"
+                "id": "ID_f98948bbbabb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -322,30 +321,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "783302753137ec13",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f8d2923616c89d4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_d94adb2ad919",
-                "id": "ID_6b88aaca2a88",
-                "parent": "ID_f98948bbbabb"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,41 +344,39 @@
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
       "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "569f0775751dff0f",
+  "active": "32914f91ccda674d",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn bonus spells.md",
-    "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
-    "Attachments/Various Icons/Character Icons/Untitled.md",
-    "Attachments/Various Icons/Character Icons/Characters.canvas",
-    "World/Memoria/Memoria.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
-    "PC/Phantom.md",
-    "Sessions/04 - The Woods/04 - The Woods.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
-    "World/Memoria/Age of Snakes/Cedonia/Bravia/Bravia.md",
-    "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "United Vostrillian front is created.md",
-    "Narrative/Questlines/Five Of Cups.md",
-    "Narrative/Questlines/Quests/Lost lambs.md",
-    "Narrative/Questlines/A lion's roar.md",
-    "Index.canvas",
-    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
+    "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
+    "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
+    "Narrative/Plot Hooks/Plot Hooks.canvas",
+    "Sessions/04 - The Woods/04 - The Woods.md",
+    "Campaing Overview.md",
+    "Current Session Summary.md",
+    "Sessions/04 - The Woods/DC Tables.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District/Thorn Institute.md",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian/Noxian.md",
-    "conflict-files-obsidian-git.md",
-    "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian",
-    "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves",
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/03 - The witch/DC TABLES.md",
-    "Sessions/04 - The Woods/DC Tables.md",
-    "Campaing Overview.md",
+    "PC/Zenshin Rusk.md",
+    "PC/Ashe Lightborn bonus spells.md",
+    "PC/Ashe Lightborn 2.0.md",
+    "conflict-files-obsidian-git.md",
+    "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+    "World/Memoria/Memoria.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "PC/Ashe Lightborn_old.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory Socket.md",
+    "Attachments/Templates/Item.md",
+    "PC/Ashe Lightborn bonus spells....md",
+    "PC/Ashe Lightborn....md",
+    "PC/testCharacter.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods",
@@ -409,11 +386,14 @@
     "Attachments/IMG/World/Memoria",
     "Attachments/IMG/World",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods/IMG-20250222190722971.png",
+    "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
+    "World/World Vault",
+    "Attachments/Various Icons/Character Icons/Characters.canvas",
+    "Rewards",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
-    "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927613.png",
