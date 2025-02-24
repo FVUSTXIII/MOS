@@ -90,7 +90,8 @@ CMD:
     - 0
   sizeMods: 
   total: 26
-SpellsCast: []
+SpellsCast:
+  - '"Prayer"'
 ---
 
 >[!infobox]
