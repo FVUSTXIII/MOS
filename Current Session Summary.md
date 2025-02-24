@@ -1,2 +1,2 @@
-* 8:30 PM Llegan a Thorn Institute.
+* 8:30 PM Llegan a Thorn Institute. Mientras van caminando por 
 * 

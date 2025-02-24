@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
-                "mode": "source",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sredelm Mandragonra (Medium)"
+              "title": "04 - The Woods"
             }
           }
         ]
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sredelm Mandragonra (Medium)"
+              "title": "Backlinks for 04 - The Woods"
             }
           },
           {
@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sredelm Mandragonra (Medium)"
+              "title": "Outgoing links from 04 - The Woods"
             }
           },
           {
@@ -291,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sredelm Mandragonra (Medium)"
+              "title": "Outline of 04 - The Woods"
             }
           }
         ],
@@ -371,9 +371,11 @@
   },
   "active": "32914f91ccda674d",
   "lastOpenFiles": [
-    "World/Memoria/Memoria.md",
     "Current Session Summary.md",
     "Campaing Overview.md",
+    "Index.canvas",
+    "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+    "World/Memoria/Memoria.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
     "PC/Ashe Lightborn bonus spells.md",
@@ -391,13 +393,11 @@
     "Sessions/03 - The witch/DC TABLES.md",
     "PC/Zenshin Rusk.md",
     "conflict-files-obsidian-git.md",
-    "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory Socket.md",
     "Attachments/Templates/Item.md",
     "PC/Ashe Lightborn bonus spells....md",
     "PC/Ashe Lightborn....md",
-    "PC/testCharacter.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods",
@@ -407,7 +407,6 @@
     "Attachments/IMG/World/Memoria",
     "Attachments/IMG/World",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods/IMG-20250222190722971.png",
-    "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
     "World/World Vault",
