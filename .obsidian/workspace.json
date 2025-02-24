@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/Ashe Lightborn 2.0.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ashe Lightborn 2.0"
+              "title": "Backlinks for 04 - The Woods"
             }
           },
           {
@@ -247,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Templates/{{Name}}/{{Name}}.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from"
+              "title": "Outgoing links from 04 - The Woods"
             }
           },
           {
@@ -290,17 +290,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC/Ashe Lightborn 2.0.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ashe Lightborn 2.0"
+              "title": "Outline of 04 - The Woods"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 13
       },
       {
         "id": "6ca045c651b18121",
@@ -324,7 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,7 +348,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "32914f91ccda674d",
+  "active": "75856fcd23c17ef3",
   "lastOpenFiles": [
     "United Vostrillian front is created.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
