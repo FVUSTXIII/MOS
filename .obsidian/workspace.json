@@ -127,14 +127,14 @@
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
-                    "month": 11,
+                    "day": 6,
+                    "month": 8,
                     "year": 4720
                   },
                   "viewState": 1,
                   "displaying": {
                     "day": 15,
-                    "month": 3,
+                    "month": 8,
                     "year": 4720
                   },
                   "displayDayNumber": false,
@@ -143,7 +143,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb"
+                "id": "ID_f98948bbbabb",
+                "child": "ID_6b88aaca2a88"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -321,6 +322,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "783302753137ec13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f8d2923616c89d4",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "id": "ID_6b88aaca2a88",
+                "parent": "ID_f98948bbbabb"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -348,10 +369,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dece6541fd77ef0e",
+  "active": "696b4bf8aba4c62d",
   "lastOpenFiles": [
-    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
+    "Narrative/Questlines/Five Of Cups.md",
+    "Narrative/Questlines/Quests/Lost lambs.md",
+    "Narrative/Questlines/A lion's roar.md",
+    "Index.canvas",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
+    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "World/Memoria/Memoria.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
@@ -375,8 +400,6 @@
     "PC/testCharacter.md",
     "PC/Ashe Lightborn 2.0.md",
     "PC/Felix Emberfeather.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/ColdFallton.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods",
@@ -386,8 +409,6 @@
     "Attachments/IMG/World/Memoria",
     "Attachments/IMG/World",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods/IMG-20250222190722971.png",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Cloudforge/Cloudforge.md",
-    "Index.canvas",
     "Untitled.canvas",
     "World/World Vault/Monsters",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
