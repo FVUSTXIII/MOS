@@ -127,13 +127,13 @@
                 "calendar": "ID_d94adb2ad919",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
-                    "month": 11,
+                    "day": 6,
+                    "month": 8,
                     "year": 4720
                   },
                   "viewState": 1,
                   "displaying": {
-                    "day": 15,
+                    "day": 6,
                     "month": 8,
                     "year": 4720
                   },
@@ -143,7 +143,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb"
+                "id": "ID_f98948bbbabb",
+                "child": "ID_5a1a298b1938"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -300,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6ca045c651b18121",
@@ -315,6 +316,26 @@
                 "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "360b75704e74acce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebaca56f425c60b0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_d94adb2ad919",
+                "id": "ID_5a1a298b1938",
+                "parent": "ID_f98948bbbabb"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -348,7 +369,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ec1e7e3490db11d3",
+  "active": "696b4bf8aba4c62d",
   "lastOpenFiles": [
     "United Vostrillian front is created.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
