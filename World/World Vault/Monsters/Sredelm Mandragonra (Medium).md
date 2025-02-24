@@ -99,7 +99,7 @@ Stench (Ex)
  A Sredelm Mandragonra (Medium) secretes an oily chemical that nearly every other creature finds offensive. All living creatures (except those with Stench) within 30 feet must succeed on a Fortitude save (DC 22) or be sickened for 1d6+16 rounds. Creatures that successfully save cannot be affected by the same creature?s stench for 24 hours. A delay poison or neutralize poison spell removes the effect from the sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws.  The save DC is constitution based.
 
 Aura of Despair (Su) 
- Enemies within 10 feet of a Sredelm Mandragonra (Medium) are overcome with despair, and take a ?2 penalty on all saving throws.
+ Enemies within 10 feet of a Sredelm Mandragonra (Medium) are overcome with despair, and take a -2 penalty on all saving throws.
 
 Pass Without Trace (Su) 
  A Sredelm Mandragonra (Medium) is constantly effected by a 'Pass Without Trace' spell, with a caster level of 32.
