@@ -13,7 +13,7 @@ banner_y: 0.372
 
 ```leaflet
 id: Corentyn-map
-image: https://i.imgur.com/bOXYurI.png
+image: [[https://i.imgur.com/bOXYurI.png]]
 height: 500px
 minZoom: .01
 maxZoom: 1
