@@ -2,4 +2,8 @@
 * **9:00 PM** Llegan a Thorn Institute. Hablan con [[Tamias Thorn]] hijo de [[Waith Thorn]] 
 * **9:14 PM** Mientras estan platicando observan una fotografia, observan a Oliver Wrynn de bebé siendo cargado por una niña de 7 u 8 años. Le preguntan ¿Quién es la niña? [[Tamias Thorn|Tamias]] consternado contesta. "No lo recuerdo."
 * **9:30 PM** [[Tamias Thorn|Tamias]] los lleva a una bodega donde tiene algunas cosas de ex alumnos. Les da unos diarios de [[Oliver Wrynn|Wrynn]] y una muñeca de [[Evelyn Thorn|Evelyn]]. Hablan sobre quien adopta a [[Oliver Wrynn|Wrynn]], [[Mathew Wrynn]] un académico de la universidad de [[Bravia]]. Le preguntan a [[Tamias Thorn|Tamias]] si conoce a [[Bonobo Green]]. "Never heard of him".
-* 
+
+
+---
+6/Rova/4720 - 115 dias antes de exorcismo de [[Ashe Lightborn|Ashe]]
+* 12:00 AM 
