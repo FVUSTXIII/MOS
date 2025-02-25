@@ -1,4 +1,4 @@
-Es Wealday 2do del Mes Rova, 90 Días antes del exorcismo de Ashe. 7:30 am
+Es Wealday 2do del Mes Rova, 119 Días antes del exorcismo de Ashe. 7:30 am
 
 Los viajes de Shitora la han llevado a la gran nación de Bravia. Su búsqueda es como encontrar una aguja en un pajar y más en esta metrópolis llamada Redbloom. Shitora se encontraba comiendo en una taberna  cuando escuchó a dos guardias hablando algo le llamó la atención:
 
