@@ -5,5 +5,6 @@
 
 
 ---
-6/Rova/4720 - 115 dias antes de exorcismo de [[Ashe Lightborn|Ashe]]
-* 12:00 AM 
+**6/Rova/4720** - 115 dias antes de exorcismo de [[Ashe Lightborn|Ashe]], 105 dias ante del [[Festival de torian Grimm]] 
+
+* **12:00 AM** 
