@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evelyn Thorn"
+              "title": "04 - The Woods"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Evelyn Thorn"
+              "title": "Backlinks for 04 - The Woods"
             }
           },
           {
@@ -249,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Evelyn Thorn"
+              "title": "Outgoing links from 04 - The Woods"
             }
           },
           {
@@ -292,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
+                "file": "Sessions/04 - The Woods/04 - The Woods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Evelyn Thorn"
+              "title": "Outline of 04 - The Woods"
             }
           }
         ],
@@ -372,6 +371,7 @@
   },
   "active": "ec1019874b91bef1",
   "lastOpenFiles": [
+    "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Current Session Summary.md",
     "Pending.md",
