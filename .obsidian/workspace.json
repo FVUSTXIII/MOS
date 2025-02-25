@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - The Woods"
+              "title": "Current Session Summary"
             }
           }
         ]
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04 - The Woods"
+              "title": "Backlinks for Current Session Summary"
             }
           },
           {
@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04 - The Woods"
+              "title": "Outgoing links from Current Session Summary"
             }
           },
           {
@@ -291,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/04 - The Woods/04 - The Woods.md",
+                "file": "Current Session Summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 - The Woods"
+              "title": "Outline of Current Session Summary"
             }
           }
         ],
@@ -371,14 +371,14 @@
   },
   "active": "ec1019874b91bef1",
   "lastOpenFiles": [
+    "Campaing Overview.md",
+    "Current Session Summary.md",
+    "Sessions/04 - The Woods/04 - The Woods.md",
     "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
     "Sessions/03 - The witch/03 - The Witch.md",
-    "Current Session Summary.md",
     "Pending.md",
     "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility/Waith Thorn.md",
-    "Campaing Overview.md",
-    "Sessions/04 - The Woods/04 - The Woods.md",
     "United Vostrillian front is created.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "World/Memoria/Memoria.md",
