@@ -106,7 +106,7 @@ title: [[Generation of 91 Graduates | Miranda Graduates]]
 content: asdf
 
 date: 06-Abadius-4695
-title: [[Hunter Lasso Meets Evelyn Thorn]]
+title: [[Hunter Whitesnake Meets Evelyn Thorn]]
 content: asdfasdf
 
 date: 23-Lamashan-4695
@@ -146,7 +146,7 @@ title: [[Kaynakla Expedition]]
 content: asdfasdf
 
 date: 05-Desnus-4704
-title: [[Hunter Lasso Marries Evelyn Thorn in 4704]]
+title: [[Hunter Whitesnake Marries Evelyn Thorn in 4704]]
 content: asdfasdf
 
 date: 26-Sarenith-4704
@@ -170,11 +170,11 @@ title: [[Xandalar Treaty Sign]]
 content: asdf
 
 date: 22-Rova-4707
-title: [[Evelyn Lasso Becomes Pregnant with Hunter Lasso Jr]]
+title: [[Evelyn Whitesnake Becomes Pregnant with Hunter Whitesnake Jr]]
 content: asdfasdf
 
 date: 08-Abadius-4708
-title: [[Death of Isaac Ruvalcaf, Hunter Lasso, Hunter Lasso Jr. & Walter Peters]]
+title: [[Death of Isaac Ruvalcaf, Hunter Whitesnake, Hunter Whitesnake Jr. & Walter Peters]]
 content: asdfasdf
 
 date: 17-Sarenith-4709
