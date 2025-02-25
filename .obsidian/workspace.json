@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "411303c3b3e2d56f",
+        "id": "e4bdd88e947f6f41",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1019874b91bef1",
+            "id": "60eb6ec759951ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -369,13 +369,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ec1019874b91bef1",
+  "active": "60eb6ec759951ff3",
   "lastOpenFiles": [
     "Campaing Overview.md",
+    "Sessions/03 - The witch/03 - The Witch.md",
+    "Sessions/03 - The witch/DC TABLES.md",
     "Current Session Summary.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
+    "Sessions/04 - The Woods/DC Tables.md",
+    "Narrative/NPC/Important Characters/Factions/The Everflame/Oliver Wrynn.md",
     "Narrative/NPC/Important Characters/MISC/Evelyn Thorn.md",
-    "Sessions/03 - The witch/03 - The Witch.md",
     "Pending.md",
     "Index.canvas",
     "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility/Waith Thorn.md",
@@ -389,16 +392,13 @@
     "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
-    "Sessions/04 - The Woods/DC Tables.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/ColdFallton/Hamburg District/Thorn Institute.md",
     "Narrative/NPC/Important Characters/Factions/The Guild Of Thieves/Noxian/Noxian.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
-    "Sessions/03 - The witch/DC TABLES.md",
     "PC/Zenshin Rusk.md",
     "conflict-files-obsidian-git.md",
     "Attachments/Templates/{{Name}}/{{Name}}.md",
     "Attachments/Templates/{{Name}}/Inventory/Inventory Socket.md",
-    "Attachments/Templates/Item.md",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods",
