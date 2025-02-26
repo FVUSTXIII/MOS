@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Ashe Lightborn bonus spells.md",
+                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashe Lightborn bonus spells"
+              "title": "Sredelm Mandragonra (Medium)"
             }
           }
         ]
@@ -144,7 +144,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb"
+                "id": "ID_f98948bbbabb",
+                "child": "ID_5a1a298b1938"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -311,6 +312,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -331,6 +333,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_5a1a298b1938",
                 "parent": "ID_f98948bbbabb"
               },
@@ -360,11 +363,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "6d5cb063b20c9ccc",
   "lastOpenFiles": [
+    "World/Memoria/Memoria.md",
+    "PC/Ashe Lightborn bonus spells.md",
     "Index.canvas",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/02 - Corentyn Forest/01 - Introducción.md",
@@ -391,7 +399,6 @@
     "Pending.md",
     "Narrative/NPC/Important Characters/Nobility/Corynthian Nobility/Waith Thorn.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
-    "World/Memoria/Memoria.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",
