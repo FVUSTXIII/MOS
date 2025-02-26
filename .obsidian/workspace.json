@@ -144,8 +144,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb",
-                "child": "ID_5a1a298b1938"
+                "id": "ID_f98948bbbabb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -312,7 +311,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -333,7 +331,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_d94adb2ad919",
                 "id": "ID_5a1a298b1938",
                 "parent": "ID_f98948bbbabb"
               },
@@ -363,10 +360,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "6d5cb063b20c9ccc",
