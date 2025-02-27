@@ -104,6 +104,7 @@ Stench (Ex)
 
  A Guhuemust secretes an oily chemical that nearly every other creature finds offensive. All living creatures (except those with Stench) within 30 feet must succeed on a Fortitude save (DC 23) or be sickened for 1d6+14 rounds. Creatures that successfully save cannot be affected by the same creature?s stench for 24 hours. A delay poison or neutralize poison spell removes the effect from the sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws.  The save DC is constitution based.
 
+Dispelling Bite (Su) When a lukwata scores a critical hit with its bite, the target is affected as if by a targeted greater dispel magic spell. The caster level for this effect is equal to the lukwata’s Hit Dice.
 
 ECOLOGY
 
