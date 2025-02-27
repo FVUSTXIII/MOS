@@ -5,42 +5,48 @@ XP 12800
 CE Fine Humanoid (Swarm)
 Init +7; Senses  Perception +14
 Auras Fear Aura (60ft., DC 17), Stench (DC 23, 1d6+14 rounds)
-------------------------------
+
 DEFENSE
-------------------------------
+
 AC 25, touch 25, flat-footed 18 (+8 size, +7 Dex)
 hp 147 (14d8+84)
 Fort +10, Ref +16, Will +6
 Defensive Abilities Swarming Mass
 DR 5/Adamantine Immunities Critical Hit, Flanking, Weapon Damage, Disease, Mind-Affecting, Petrification 
+
 Weaknesses Miracle and Wish Vulnerability
-------------------------------
+
 OFFENSE
-------------------------------
+
 Speed 40 ft.
 Melee Swarm (3d6)
 Space 5 ft.; Reach 0 ft.
-## Special Attacks  
+
+ Special Attacks  
+
 * Distraction (DC 23), 
 * Hinder Spellcasting, at will 
 * Swallow Whole (1d6+5, AC 10, 14 hp), 
 * Blinding Gaze (30ft., DC 17, 14 minutes), 
 * Charming Gaze (DC 17), 
 * Knowledge-Stealing Strike (DC 17)
-------------------------------
+
 STATISTICS
-------------------------------
+
 Str 16, Dex 24, Con 22, Int 16, Wis 10, Cha 10
 Base Atk +10; CMB +5; CMD 22
 Feats Cleave, Combat Reflexes, Improved Sunder, Iron Will, Power Attack, Skill Focus (Stealth), Vital Strike
 Skills Diplomacy +14, Perception +14, Profession (choose one) +17, Ride +24, Stealth +28; Racial Modifiers Stealth +4
+
 Languages Common
-## SQ 
+
+SQ 
+
 * Humanoid Traits, 
 * Stench
-------------------------------
+
 SPECIAL ABILITIES
-------------------------------
+
 Swarm Attack (Ex) 
  A Guhuemust deals 3d6 automatic damage to any creature whose space it occupies at the end of its move, with no attack roll needed.  Swarm attacks are not subject to a miss chance from concealment or cover.
 
@@ -86,9 +92,9 @@ Fear Aura (Su)
 Stench (Ex) 
  A Guhuemust secretes an oily chemical that nearly every other creature finds offensive. All living creatures (except those with Stench) within 30 feet must succeed on a Fortitude save (DC 23) or be sickened for 1d6+14 rounds. Creatures that successfully save cannot be affected by the same creature?s stench for 24 hours. A delay poison or neutralize poison spell removes the effect from the sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws.  The save DC is constitution based.
 
-------------------------------
+
 ECOLOGY
-------------------------------
+
 Environment: Temperate Hills
 Organization: Pair (2)
 Treasure: Standard
