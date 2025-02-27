@@ -67,15 +67,15 @@ Swallow Whole (Ex)
 
 Blinding Gaze (Su) 
 
- An opponent that meets a Guhuemust's gaze within 30ft. becomes blinded for 14 minutes unless they succeed at a DC 17 fortitude save. A successful saving throw negates the effect. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order.  The save DC is charisma-based.
+ An opponent that meets a Guhuemust's gaze within 30ft. becomes blinded for 14 minutes unless they succeed at a DC 25 fortitude save. A successful saving throw negates the effect. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order.  The save DC is charisma-based.
 
 Charming Gaze (Su) 
 
- An opponent that meets a Guhuemust's gaze within 30ft. becomes charmed (as Charm Person) for 1 day unless they succeed at a DC 17 will save. A successful saving throw negates the effect. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order.  The save DC is charisma-based.
+ An opponent that meets a Guhuemust's gaze within 30ft. becomes charmed (as Charm Person) for 1 day unless they succeed at a DC 25 will save. A successful saving throw negates the effect. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order.  The save DC is charisma-based.
 
 Knowledge-Stealing Strike (Su) 
 
- When a Guhuemust's natural attack or melee weapon damages a creature capable of casting arcane spells, that creature must make a DC 17 will save or become unable to cast arcane spells for 1 round. Once a creature makes this save, it is immune to further knowledge-stealing strikes from that particular Guhuemust The save DC is charisma-based.
+ When a Guhuemust's natural attack or melee weapon damages a creature capable of casting arcane spells, that creature must make a DC 25 will save or become unable to cast arcane spells for 1 round. Once a creature makes this save, it is immune to further knowledge-stealing strikes from that particular Guhuemust The save DC is charisma-based.
 
 Swarming Mass (Ex) 
 
