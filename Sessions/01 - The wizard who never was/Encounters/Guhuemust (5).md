@@ -4,7 +4,7 @@
 XP 12800
 CE Fine Humanoid (Swarm)
 Init +7; Senses  Perception +14
-Auras Fear Aura (60ft., DC 17), Stench (DC 23, 1d6+14 rounds)
+Auras Fear Aura (60ft., DC 20), Stench (DC 23, 1d6+14 rounds)
 
 DEFENSE
 
