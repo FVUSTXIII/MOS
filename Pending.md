@@ -62,3 +62,4 @@ NoteID: 165e803a-6a6c-4739-a6be-9eb3ea18590d
 [Gnomes](obsidian://adv-uri?vault=Game%20Systems&filepath=Pathfinder%201e%2FCore%20Rule%20Book%2FChapter%201%20-%20Getting%20Started%2F6%20Races%2FGnomes.md)
 
 
+![](https://i.imgur.com/Yk2Q2Bp.png)
