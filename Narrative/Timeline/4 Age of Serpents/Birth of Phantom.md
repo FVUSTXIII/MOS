@@ -3,4 +3,4 @@ startDate: 01-Rova-4494
 endDate: 
 Place: "[[Sylvanar]]"
 ---
-[[Phatima Solaris|Phantom]]
+[[Phatima Solaris|Phantom]] nació en el bosque 
