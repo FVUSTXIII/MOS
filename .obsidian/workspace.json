@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96c63930b6a6134c",
+        "id": "c63c9dd46b64cdd3",
         "type": "tabs",
         "children": [
           {
-            "id": "000bb056bdaab35a",
+            "id": "2e0810c7333b1db7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Birth of Phantom"
+              "title": "New tab"
             }
           }
         ]
@@ -369,10 +365,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "000bb056bdaab35a",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
-    "PC/Phatima Solaris.md",
+    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Untitled",
+    "Alegra Tayberg.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
+    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility",
+    "PC/Phatima Solaris.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "World/Memoria/Memoria.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar.md",
@@ -397,8 +396,6 @@
     "Narrative/NPC/Tamias Thorn.md",
     "Narrative/NPC/Mathew Wrynn.md",
     "Narrative/NPC/Jornax Grath.md",
-    "Narrative/Timeline/4 Age of Serpents/United Vostrillian front is created.md",
-    "Narrative/Timeline/4 Age of Serpents/Festival de torian Grimm.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",
@@ -413,7 +410,6 @@
     "World/World Vault/Monsters",
     "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
-    "Rewards",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/PCs/IMG-20241213163927648.png",
