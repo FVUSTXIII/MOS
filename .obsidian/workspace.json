@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c63c9dd46b64cdd3",
+        "id": "d66b8e690cb5d041",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0810c7333b1db7",
+            "id": "098831feb1198173",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Horatio Solaris.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Horatio Solaris"
+            }
+          },
+          {
+            "id": "a1f012bb0dabaa1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Horatio Solaris.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Horatio Solaris"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +159,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb"
+                "id": "ID_f98948bbbabb",
+                "child": "ID_5a1a298b1938"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -307,6 +327,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -327,6 +348,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_5a1a298b1938",
                 "parent": "ID_f98948bbbabb"
               },
@@ -356,17 +378,21 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "c8757f167d94643e",
   "lastOpenFiles": [
-    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household",
-    "Alegra Tayberg.md",
+    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Alegra Tayberg.md",
+    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Horatio Solaris.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
+    "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility",
     "PC/Phatima Solaris.md",
-    "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "World/Memoria/Memoria.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
@@ -402,7 +428,6 @@
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods/IMG-20250222190722971.png",
     "Untitled.canvas",
     "World/World Vault/Monsters",
-    "World/World Vault",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
     "Attachments/IMG/Mapas/IMG-20241123160632799.png",
     "Attachments/Various Icons/Character Icons/NPCS/EvelynThornIcon.png",
