@@ -178,7 +178,7 @@ title: [[Evelyn Whitesnake Becomes Pregnant with Hunter Whitesnake Jr]]
 content: asdfasdf
 
 date: 08-Abadius-4708
-title: [[Death of Isaac Ruvalcaf, Hunter Whitesnake, Hunter Whitesnake Jr. & Walter Peters]]
+title: [[The Valediction|Death of Isaac Ruvalcaf, Hunter Whitesnake, Hunter Whitesnake Jr. & Walter Peters]]
 content: asdfasdf
 
 date: 17-Sarenith-4709
