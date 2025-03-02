@@ -1,3 +1,7 @@
+---
+tags:
+  - ageofserpents
+---
 
 ```timeline-labeled
 [line-3, body-2] 
@@ -7,7 +11,7 @@ content: The modern version of roasted coffee originated in Arabia. During the 1
 
 date: 01-Rova-4494
 title: [[Birth of Phantom]]
-content: [[Birth of Phantom]]
+content: ![[Birth of Phantom#^44fdbb]]
 
 date: 04-Sarenith-4634
 title: [[Birth of Bonobo Green]]
