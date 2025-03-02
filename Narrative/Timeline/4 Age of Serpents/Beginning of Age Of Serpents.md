@@ -10,4 +10,4 @@ Actors:
 tags:
   - ageofserpents
 ---
-Con este evento se le dio fin a lo que se le conoce como la era de los presagios perdidos. Este evento es también lo que marca el fin de la última [[temporada sin nombre]]. En esta fecha, [[Valestos Vaughn Ivor| Vaughn Ivor]] practica la primer sintonización 
+Con este evento se le dio fin a lo que se le conoce como la era de los presagios perdidos. Este evento es también lo que marca el fin de la última [[temporada sin nombre]]. En esta fecha, [[Valestos Vaughn Ivor| Vaughn Ivor]] practica la primer sintonización con [[Pharasma]]. Lo que empezaría con una nueva era en la mágia ya que anteriormente era muy dificil replicar de manera universal la manera en la que se emitian los hechizos. 

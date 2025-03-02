@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd71ecbb66cb14e9",
+        "id": "8276b46231c6d512",
         "type": "tabs",
         "children": [
           {
-            "id": "684e410a1bf494db",
+            "id": "bc6676ad54521781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -369,19 +369,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "684e410a1bf494db",
+  "active": "bc6676ad54521781",
   "lastOpenFiles": [
+    "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "World/Pantheon/Pantheon of Brigh/Pharasma.md",
+    "World/Pantheon/Pantheon of Brigh/Iomedae.md",
+    "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
+    "World/Memoria/Memoria.md",
     "Narrative/Timeline/4 Age of Serpents/The Valediction.md",
     "Narrative/Timeline/4 Age of Serpents/Mark Gemini and Frances Donbrook get married.md",
     "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
-    "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "temporada sin nombre.md",
-    "World/Memoria/Memoria.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
-    "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar/Sylvanar.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar/bosque  de jade.md",
@@ -399,8 +401,6 @@
     "Sessions/01 - The wizard who never was/Encounters/Loda.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "Index.canvas",
-    "Sessions/03 - The witch/03 - The Witch.md",
-    "Sessions/02 - Corentyn Forest/01 - Introducción.md",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
