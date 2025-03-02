@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5824ff840ca2e7b",
+        "id": "bd71ecbb66cb14e9",
         "type": "tabs",
         "children": [
           {
-            "id": "a9d526a737d732f7",
+            "id": "684e410a1bf494db",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -365,12 +365,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a9d526a737d732f7",
+  "active": "684e410a1bf494db",
   "lastOpenFiles": [
-    "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
+    "temporada sin nombre.md",
     "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-    "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
+    "World/Memoria/Memoria.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
+    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
+    "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
+    "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar/Sylvanar.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar/bosque  de jade.md",
@@ -381,8 +385,6 @@
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility",
     "PC/Phatima Solaris.md",
-    "World/Memoria/Memoria.md",
-    "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "PC/Ashe Lightborn bonus spells.md",
     "Sessions/01 - The wizard who never was/Encounters/Guhuemust (5).md",
     "Pending.md",
@@ -396,8 +398,6 @@
     "Sessions/02 - Corentyn Forest/0 - Recap.md",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Sessions/01 - The wizard who never was/Introducción.md",
-    "Sessions/01 - The wizard who never was/0 - Recap.md",
-    "Sessions/04 - The Woods/04 - The Woods.md",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods",

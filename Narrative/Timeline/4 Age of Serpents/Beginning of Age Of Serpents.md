@@ -9,4 +9,4 @@ Actors:
 tags:
   - ageofserpents
 ---
-Con este evento se le dio fin a lo que se le conoce como la era de los presagios perdidos
+Con este evento se le dio fin a lo que se le conoce como la era de los presagios perdidos. Este evento es también lo que marca el fin de la última [[temporada sin nombre]] 

@@ -1,1 +1,0 @@
-[[Birth of Miranda Gemini]]
