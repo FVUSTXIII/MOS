@@ -11,10 +11,14 @@
             "id": "684e410a1bf494db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beginning of Age Of Serpents"
             }
           }
         ]
@@ -367,8 +371,10 @@
   },
   "active": "684e410a1bf494db",
   "lastOpenFiles": [
-    "Narrative/Timeline/4 Age of Serpents/The Valediction.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
+    "Narrative/Timeline/4 Age of Serpents/The Valediction.md",
+    "Narrative/Timeline/4 Age of Serpents/Mark Gemini and Frances Donbrook get married.md",
+    "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "temporada sin nombre.md",
     "World/Memoria/Memoria.md",
@@ -380,7 +386,6 @@
     "World/Memoria/Age of Snakes/Narghol/Sylvanar/Sylvanar.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar/bosque  de jade.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar",
-    "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Horatio Solaris.md",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Alegra Tayberg.md",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household",
@@ -396,7 +401,6 @@
     "Index.canvas",
     "Sessions/03 - The witch/03 - The Witch.md",
     "Sessions/02 - Corentyn Forest/01 - Introducción.md",
-    "Sessions/02 - Corentyn Forest/0 - Recap.md",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
     "Attachments/IMG/Attachments/Various Icons/Character Icons/Characters/IMG-20241213164024932.png",
