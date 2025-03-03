@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8276b46231c6d512",
+        "id": "19cef4398ac03f64",
         "type": "tabs",
         "children": [
           {
-            "id": "bc6676ad54521781",
+            "id": "bade7a76b9c18716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Beginning of Age Of Serpents"
+              "title": "New tab"
             }
           }
         ]
@@ -144,7 +140,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb"
+                "id": "ID_f98948bbbabb",
+                "child": "ID_5a1a298b1938"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -311,6 +308,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_9a5a1b3829c8",
                 "parent": "ID_fab95b49890b"
               },
@@ -331,6 +329,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_d94adb2ad919",
                 "id": "ID_5a1a298b1938",
                 "parent": "ID_f98948bbbabb"
               },
@@ -360,22 +359,26 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bc6676ad54521781",
+  "active": "bade7a76b9c18716",
   "lastOpenFiles": [
+    "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+    "World/Memoria/Memoria.md",
+    "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
+    "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
     "Narrative/Timeline/4 Age of Serpents/Age of Serpents.md",
     "World/Pantheon/Pantheon of Brigh/Pharasma.md",
     "World/Pantheon/Pantheon of Brigh/Iomedae.md",
-    "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
-    "World/Memoria/Memoria.md",
     "Narrative/Timeline/4 Age of Serpents/The Valediction.md",
     "Narrative/Timeline/4 Age of Serpents/Mark Gemini and Frances Donbrook get married.md",
     "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "temporada sin nombre.md",
-    "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
     "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
@@ -393,7 +396,6 @@
     "Sessions/01 - The wizard who never was/Encounters/Zlemr.md",
     "Sessions/01 - The wizard who never was/Encounters/Goc.md",
     "Sessions/01 - The wizard who never was/Encounters/Loda.md",
-    "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "Index.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
