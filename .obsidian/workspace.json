@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
+                "file": "World/Memoria/Memoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sredelm Woods"
+              "title": "Memoria"
             }
           }
         ]
@@ -144,7 +144,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb"
+                "id": "ID_f98948bbbabb",
+                "child": "ID_5a1a298b1938"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -360,11 +361,15 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bade7a76b9c18716",
+  "active": "c8757f167d94643e",
   "lastOpenFiles": [
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
     "World/Memoria/Memoria.md",
@@ -393,7 +398,6 @@
     "Sessions/01 - The wizard who never was/Encounters/Guhuemust (5).md",
     "Pending.md",
     "Sessions/01 - The wizard who never was/Encounters/Zlemr.md",
-    "Sessions/01 - The wizard who never was/Encounters/Goc.md",
     "Index.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
