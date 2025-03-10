@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Memoria/Memoria.md",
+                "file": "World/World Vault/Songs/Chant of the untamed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria"
+              "title": "Chant of the untamed"
             }
           }
         ]
@@ -367,12 +367,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c8757f167d94643e",
+  "active": "bade7a76b9c18716",
   "lastOpenFiles": [
+    "World/Memoria/Memoria.md",
+    "World/World Vault/Songs/Chant of the untamed.md",
+    "World/World Vault/Songs",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
-    "World/Memoria/Memoria.md",
     "Narrative/Timeline/4 Age of Serpents/4 Age of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/Beginning of Age Of Serpents.md",
     "Narrative/Timeline/4 Age of Serpents/Battle of Sredelm.md",
@@ -397,7 +399,6 @@
     "PC/Ashe Lightborn bonus spells.md",
     "Sessions/01 - The wizard who never was/Encounters/Guhuemust (5).md",
     "Pending.md",
-    "Sessions/01 - The wizard who never was/Encounters/Zlemr.md",
     "Index.canvas",
     "Sessions/01 - The wizard who never was/Untitled.canvas",
     "Narrative/Plot Hooks/Plot Hooks.canvas",
@@ -408,7 +409,6 @@
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia",
     "Attachments/IMG/World/Memoria/Age of Snakes",
     "Attachments/IMG/World/Memoria",
-    "Attachments/IMG/World",
     "Attachments/IMG/World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods/IMG-20250222190722971.png",
     "Untitled.canvas",
     "Attachments/Various Icons/Character Icons/Characters.canvas",
