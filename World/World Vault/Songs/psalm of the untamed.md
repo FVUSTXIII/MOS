@@ -4,3 +4,13 @@ Sit cantus ingluvies nos per tenebras (Que el canto de tus fauces nos guie a tra
 iama priv, ardor kur (fuego anciano, calienta nuestros corazones)
 emunda hoc corpus sordidum, recipe me ad sinum tuum (limpia este cuerpo inmundo, llevanos de nuevo a tu regazo)
 
+kanor ia huius nos tegat
+in cella frigida mendacii 
+Sit cantus ingluvies 
+nos per tenebras
+
+iama priv, ardor kur
+emunda hoc 
+corpus sordium, 
+recipe me ad tuum
+
