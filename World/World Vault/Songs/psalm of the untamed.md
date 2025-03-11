@@ -14,3 +14,10 @@ emunda hoc
 corpus sordium, 
 recipe me ad tuum
 
+Kanor i 
+nos tegat
+in cella frigis mena
+
+si cantus 
+ingluvi
+
