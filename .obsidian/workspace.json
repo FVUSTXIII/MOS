@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World Vault/Songs/Chant of the untamed.md",
+                "file": "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chant of the untamed"
+              "title": "Sredelm Mandragonra (Medium)"
             }
           }
         ]
@@ -144,8 +144,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb",
-                "child": "ID_5a1a298b1938"
+                "id": "ID_f98948bbbabb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -361,16 +360,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "bade7a76b9c18716",
   "lastOpenFiles": [
-    "World/Memoria/Memoria.md",
     "World/World Vault/Songs/Chant of the untamed.md",
+    "World/Memoria/Memoria.md",
     "World/World Vault/Songs",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "World/Memoria/Age of Snakes/Cedonia/Corentyn/Corentyn.md",
