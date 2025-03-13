@@ -266,7 +266,7 @@ let str1 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 1"),   opti
 dv.paragraph(str1);
 let str2 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 2"),   option("Ironskin"),    option("Paladins Sacrifice"),    ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL2, 2) + '):SpellsCast] \n~~~';
 dv.paragraph(str2);
-let str3 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 3"),   option("Daylight"),    option("Fire of Judgment"),    option("Heroic Fortune"),    option("Prayer"),    option("Sanctify Armor"),    option("Sky Steed"),    option("Stunning Barrier, Greater"),    option("Angelic Aspect"),  ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL3, 3) + '):SpellsCast] \n~~~';
+let str3 = '~~~meta-bind \n   INPUT[multiSelect( title("Spells Level 3"),   option("Daylight"),    option("Fire of Judgment"),    option("Heroic Fortune"),    option("Prayer"),    option("Sanctify Armor"),    option("Sky Steed"),    option("Stunning Barrier - Greater"),    option("Angelic Aspect"),  ' + bonSpellsSlotsOptionBuilder(bonSpells.LVL3, 3) + '):SpellsCast] \n~~~';
 dv.paragraph(str3);
 
 
