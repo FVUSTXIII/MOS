@@ -23,6 +23,7 @@ banner_y:
 
 ```ad-go
 * La batalla comienza con nuestros heroes en pleno combate, 6 sredelm madragoras.
+* Entraron a Sredelm Woods despues de escuchar sobre los Gemini. Querían mas información de [[Evelyn Thorn|]]
 ```
 
 ## Places
