@@ -20,7 +20,7 @@ banner_y: 0.542
 
 ## Introduction
 
-In the midst of chaos, A sorcerer laughs. Bolt of blackened thunder surround his cackle as he wafts over the darkness of the forest. Its as the dirt underneath their feet hungered for light itself. Air around is pestilent, the taste of death pervade Phantom's gums as she pants right after slaying whatever emerged from the thick vines, the light in her axe fades as she grips the handle tightly, 
+In the midst of chaos, A sorcerer laughs. Bolt of blackened thunder surround his cackle as he wafts over the darkness of the forest. Its as the dirt underneath their feet hungered for light itself. Air around is pestilent, the taste of death pervade Phantom's gums as she pants right after slaying whatever emerged from the thick vines, the light in her axe fades as she grips the handle tightly, she observes as a skull shyly 
 
 ```ad-go
 * La batalla comienza con nuestros heroes en pleno combate, 6 sredelm madragoras.
