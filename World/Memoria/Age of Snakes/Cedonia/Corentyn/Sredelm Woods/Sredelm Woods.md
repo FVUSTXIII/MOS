@@ -51,3 +51,6 @@ https://www.d20pfsrd.com/bestiary/monster-listings/plants/mandragora/immense-man
 
 
 ![](https://i.imgur.com/oqXLyot.jpeg)
+
+
+![](https://i.imgur.com/gov23p4.png)
