@@ -1,6 +1,6 @@
 ---
-banner: 
-banner_y:
+banner: "https://i.imgur.com/iWXoj1l.jpeg"
+banner_y: 0.542
 ---
 ## Recap
 
