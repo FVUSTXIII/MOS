@@ -144,8 +144,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f98948bbbabb",
-                "child": "ID_5a1a298b1938"
+                "id": "ID_f98948bbbabb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -361,10 +360,7 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian42-brat:BRAT": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "b27782bf3a3c27b5",
