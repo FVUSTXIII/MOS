@@ -22,12 +22,7 @@ banner_y:
 
 
 ```ad-go
-* this
-	- esto y esto
-* this 
-	- esto y el otro
-* this 
-* and that
+* La batalla comienza con nuestros heroes en pleno combate, 6 sredelm madragoras.
 ```
 
 ## Places
