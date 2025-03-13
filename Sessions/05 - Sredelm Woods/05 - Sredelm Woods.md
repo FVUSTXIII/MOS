@@ -20,6 +20,7 @@ banner_y:
 
 ## Introduction
 
+In the midst of chaos, a Sorcerer laughs. 
 
 ```ad-go
 * La batalla comienza con nuestros heroes en pleno combate, 6 sredelm madragoras.
