@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World Vault/Items/Anti magic Necklace.md",
+                "file": "World/World Vault/Items/recompensas/Necklace of adaptation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anti magic Necklace"
+              "title": "Necklace of adaptation"
             }
           }
         ]
@@ -369,8 +369,8 @@
   },
   "active": "60d5d2b4ed3ba4fb",
   "lastOpenFiles": [
-    "World/World Vault/Items/Melazza & Ginger Cookies Recipe.md",
     "World/World Vault/Items/Anti magic Necklace.md",
+    "World/World Vault/Items/Melazza & Ginger Cookies Recipe.md",
     "World/World Vault/Items/recompensas/Necklace of adaptation.md",
     "World/World Vault/Items/recompensas/La espatula dorada.md",
     "PC/Ashe Lightborn bonus spells.md",
