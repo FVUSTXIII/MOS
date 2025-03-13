@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa1b8b73cdbc475",
+        "id": "61acbe37f2f0eb76",
         "type": "tabs",
         "children": [
           {
-            "id": "b27782bf3a3c27b5",
+            "id": "60d5d2b4ed3ba4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -367,12 +367,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b27782bf3a3c27b5",
+  "active": "60d5d2b4ed3ba4fb",
   "lastOpenFiles": [
-    "PC/Ashe Lightborn....md",
-    "PC/Ashe Lightborn bonus spells.md",
-    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
+    "PC/Phatima Solaris.md",
+    "PC/Ashe Lightborn 2.0.md",
+    "PC/Felix Emberfeather.md",
+    "PC/Shitora.md",
+    "PC/Ashe Lightborn.md",
     "Sessions/05 - Sredelm Woods/05 - Sredelm Woods.md",
+    "PC/Zenshin Rusk.md",
+    "PC/Ashe Lightborn bonus spells.md",
+    "PC/Ashe Lightborn....md",
+    "World/Memoria/Age of Snakes/Cedonia/Corentyn/Sredelm Woods/Sredelm Woods.md",
     "Campaing Overview.md",
     "Sessions/04 - The Woods/04 - The Woods.md",
     "Sessions/05 - Sredelm Woods",
@@ -392,13 +398,7 @@
     "Narrative/Timeline/4 Age of Serpents/Mark Gemini and Frances Donbrook get married.md",
     "Narrative/Timeline/4 Age of Serpents/Generation of 95 Graduates.md",
     "temporada sin nombre.md",
-    "World/Memoria/Age of Snakes/Cedonia/Sigtritoft.md",
-    "Narrative/Timeline/4 Age of Serpents/Birth of Phantom.md",
-    "Narrative/Timeline/4 Age of Serpents/Birth of Miranda Gemini.md",
-    "World/Memoria/Age of Snakes/Narghol/Sylvanar/Sylvanar.md",
-    "World/Memoria/Age of Snakes/Narghol/Sylvanar/bosque  de jade.md",
     "World/Memoria/Age of Snakes/Narghol/Sylvanar",
-    "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household/Horatio Solaris.md",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility/Solaris Household",
     "Narrative/NPC/Important Characters/Nobility/Silvanian Nobility",
     "Index.canvas",
