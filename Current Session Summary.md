@@ -3,6 +3,7 @@ Phantom*
 Drider
 Mandragora5
 Mandragora3
+Mandragora7
 Ashe - lay on hands counter = 10
 Mandragora8
 Sredelm Mandragora
