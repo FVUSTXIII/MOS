@@ -4,7 +4,7 @@ Drider
 Mandragora5
 Mandragora3
 Ashe - lay on hands counter = 10
-Mandragora2  
+Mandragora8
 Sredelm Mandragora
 Shitora
 Mandragora4
