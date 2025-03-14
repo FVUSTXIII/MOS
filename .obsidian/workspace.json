@@ -35,7 +35,8 @@
               "title": "Current Session Summary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -381,10 +382,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d163454b9a3e6d05",
+  "active": "2fa1821404768ad0",
   "lastOpenFiles": [
-    "Current Session Summary.md",
     "World/World Vault/Monsters/Sredelm Mandragonra (Medium).md",
+    "Current Session Summary.md",
     "Campaing Overview.md",
     "Index.canvas",
     "Pending.md",
