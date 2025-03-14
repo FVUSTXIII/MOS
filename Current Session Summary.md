@@ -1,5 +1,5 @@
-Felix*
-Phantom
+Felix
+Phantom*
 Mandragora5
 Mandragora3
 Ashe - lay on hands counter = 10
