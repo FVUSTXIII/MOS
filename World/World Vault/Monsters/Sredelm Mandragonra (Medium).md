@@ -13,7 +13,7 @@ Auras Aura of Menace, Stench (DC 22, 1d6+16 rounds), Aura of Despair
 
 AC 30, touch 17, flat-footed 23 (+4 Dex, +3 dodge, +1 shield, +12 natural)
 hp 136 (16d8+64)
-Fort +14, Ref +11, Will +10; +4 vs. poison; +4 vs. disease; +2 vs. enchantment
+Fort +14, Ref +11, Will +19; +4 vs. poison; +4 vs. disease; +2 vs. enchantment
 Defensive Abilities Half Damage from Bludgeoning, Improved Uncanny Dodge, Improved Evasion
 DR 15/Piercing, 5/Good Immunities Paralysis, Flanking, Critical Hit, Fire Resist Cold 30 
 
