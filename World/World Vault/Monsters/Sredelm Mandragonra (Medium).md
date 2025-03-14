@@ -49,6 +49,7 @@ Engulf (Ex)
  Sredelm Mandragonra (Medium) can engulf creatures in its path as part of a standard action. It cannot make other attacks during a round in which it engulfs. The creature merely has to move over its opponents, affecting as many as it can cover. Targeted creatures can make attacks of opportunity against the creature, but if they do so, they are not entitled to a saving throw against the engulf attack. Those who do not attempt attacks of opportunity can attempt a DC 23 Reflex save to avoid being engulfed?on a success, they are pushed back or aside (target?s choice) as the creature moves forward. Engulfed opponents gain the pinned condition, are in danger of suffocating, are trapped within the creature?s body until they are no longer pinned, and are subject to 1d8 acid damage each round. The save DC is Strength-based.
 
 Hinder Spellcasting (Ex) 
+ 
  Whenever a creature attempts to cast a spell in a Sredelm Mandragonra (Medium)'s space or an area it threatens, the caster must make a concentration check of DC 20 + spell level.  Using skills that involve patience and concentration requires a DC 20 Will save.
 
 Faith-Stealing Strike (Su) 

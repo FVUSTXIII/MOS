@@ -1,4 +1,4 @@
-Felix
+Felix*
 Phantom
 Mandragora5
 Mandragora3
@@ -8,6 +8,6 @@ Sredelm Mandragora
 Shitora
 Mandragora4
 Zenshin
-Vilini*
+Vilini
 
 
