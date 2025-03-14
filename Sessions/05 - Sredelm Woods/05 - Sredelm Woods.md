@@ -24,7 +24,7 @@ In the midst of chaos, A sorcerer laughs. Bolt of blackened thunder surround his
 
 **CRACK**
 
-Out of the black blurred sight, towering, Ashe watches the tangling figures bulge out of the
+Out of the black blurred sight, towering, Ashe hears the heavy steps. unholy light paints three motionless faces in revolting shades of green. As the string of her bows tightens
 
 ```ad-go
 * La batalla comienza con nuestros heroes en pleno combate, 6 sredelm madragoras.
