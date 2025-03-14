@@ -30,7 +30,7 @@ En medio del caos, un hechicero ríe. Rayos de trueno ennegrecido rodean su carc
 
 **CRACK**
 
-Apenas recupera la vista de la negrura borrosa, Ashe escucha los pasos pesados. Una luz impía pinta tres rostros inmóviles en repugnantes tonos de verde. La cuerda de su arco se tensa con resolución inquebrantable, pero el suelo traiciona su equilibrio. Algo horrendo emerge del lodo. Un hedor fétido y terroso lo envuelve, mezclándose con el tenue aroma de hojas en descomposición y el lejano rastro de la podredumbre. Una membrana blanca se desgarra cuando una boca antinatural se abre antes de que Ashe pueda girarse. Antes de que pueda morder, Felix se abalanza y se sumerge en lo desconocido, guiado por los alaridos viles de esta tierra maldita.
+Apenas recupera la vista de la negrura borrosa, Ashe escucha los pasos pesados. Una luz impía pinta tres rostros inmóviles en repugnantes tonos de verde. La cuerda de su arco se tensa con resolución inquebrantable, pero el suelo traiciona su equilibrio. Algo horrendo emerge del lodo. Un hedor fétido y terroso lo envuelve, mezclándose con el tenue aroma de hojas en descomposición y el lejano rastro de la podredumbre. Una membrana blanca se desgarra cuando una boca antinatural se abre antes de que Ashe pueda girarse. Antes de que pueda morder, Felix se abalanza y se sumerge hacia lo desconocido, guiado por los alaridos viles de esta tierra maldita.
 
 ```ad-go
 * La batalla comienza con nuestros heroes en pleno combate, 6 sredelm madragoras.
