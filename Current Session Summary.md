@@ -17,3 +17,5 @@ Zenshin
 Vilini
 
 
+<!--⚠️Imgur upload failed, check dev console-->
+![[IMG-20250314165141704.png]]
