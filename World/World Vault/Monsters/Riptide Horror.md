@@ -1,0 +1,2 @@
+![](https://i.imgur.com/5a73b19.png)
+This vile, grayish-tan tubeworm is longer than a man. It has six eyeless heads and each mouth is lined with inward curving, serrated teeth. Six long grayish-tan tentacles protrude from the middle of its body.
