@@ -1,5 +1,6 @@
 Felix
 Phantom*
+Drider
 Mandragora5
 Mandragora3
 Ashe - lay on hands counter = 10
