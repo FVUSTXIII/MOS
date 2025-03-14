@@ -1,5 +1,5 @@
-Felix
-Phantom*
+Felix*
+Phantom
 Drider
 Mandragora5
 Mandragora3
