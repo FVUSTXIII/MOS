@@ -11,7 +11,7 @@ Auras Aura of Menace, Stench (DC 22, 1d6+16 rounds), Aura of Despair
 
 **DEFENSE**
 
-AC 30, touch 17, flat-footed 23 (+4 Dex, +3 dodge, +1 shield, +12 natural)
+AC 36, touch 17, flat-footed 23 (+4 Dex, +3 dodge, +1 shield, +12 natural)
 hp 136 (16d8+64)
 Fort +14, Ref +11, Will +19; +4 vs. poison; +4 vs. disease; +2 vs. enchantment
 Defensive Abilities Half Damage from Bludgeoning, Improved Uncanny Dodge, Improved Evasion
@@ -31,7 +31,7 @@ Space 5 ft.; Reach 10 ft.
 **STATISTICS**
 
 Str 20, Dex 18, Con 19, Int 15, Wis 16, Cha 16
-Base Atk +12; CMB +17; CMD 31 (35 vs. trip) (35 vs. disarm) (35 vs. grapple)
+Base Atk +12; CMB +29; CMD 31 (35 vs. trip) (35 vs. disarm) (35 vs. grapple)
 Feats Awesome Blow, Bleeding Critical, Cleave, Dodge, Endurance, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Run
 Skills Acrobatics +20, Climb +21, Sleight of Hand +20, Stealth +23
 Languages Common, Plantspeech
