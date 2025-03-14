@@ -6,7 +6,7 @@ Ashe - lay on hands counter = 10
 Mandragora2  
 Sredelm Mandragora
 Shitora
-Mandragora4*
-Zenshin
+Mandragora4
+Zenshin*
 
 
